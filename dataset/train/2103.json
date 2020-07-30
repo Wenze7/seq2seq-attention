@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.9
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "notes sync feature is now available with end-to-end encryption ."
+    ],
+    "id": "109099.train",
+    "article": [
+        "we are happy to announce that the notes sync feature is now being rolled out with the latest update of the add-on . notes sync allows you to access your notepad from different computers and backup notes onto mozilla 's servers . start using the sync feature by pressing the sync button at the bottom the notes toolbar : this feature is powered by firefox accounts for authentication and kinto for notes storage . your notes are end-to-end encrypted using a key derived from your firefox accounts password . the sync encryption feature is based on the firefox sync encryption model . ",
+        "for example , this note string `` i can sync now ! '' is locally encrypted with a256gcm content encryption and sent to the kinto server instance : keep in mind that if you reset your firefox accounts password then you will not be able to decrypt your notes data that was stored on the server . the data that was encrypted with your old password will be overwritten by your local notes content . do n't forget to provide feedback using the `` give feedback '' button in notes and report any bugs you find in the notes issue tracker . ",
+        "notes sync powered by firefox accounts & kinto .   "
+    ]
+}

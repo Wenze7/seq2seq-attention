@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.75
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google 's project fi now caps data bills at $ 60 ."
+    ],
+    "id": "1026955.train",
+    "article": [
+        "google 's project fi cell service never played the `` unlimited data '' game that most carriers in the u. s. like to play . instead , google simply offered data at $ 10/gb/month and would give you a refund for any data you paid for but did n't use . now , however , it 's taking its own stab at what is essentially an unlimited data plan . with its new ` bill protection ' feature , project fi users who use more than 6 gb of data in any given month will never pay more than $ 60 for that . ",
+        "given how fi works , you can still opt to pay $ 10 or $ 20 per month for your data and then either get money back or pay extra , depending on your usage . once you hit 6 gb of data , though , your overall cost for the month remains the same . because no unlimited plan is ever unlimited , google , too , will slow your data speeds once you hit 15 gb of data . the company says only 1 percent of current fi users actually use that much , but then that number may go up once you do n't have to pay $ 150 for using that much data . ",
+        "if you go over 15 gb , you can always opt to pay $ 10/gb to get faster speeds again . the bill protection feature includes international data and also applies to data-only plans for laptops , tablets and cars . if you are on a group plan , the bill protection kicks in at different levels , depending on how many people are on your plan . number of people in group planwhen bill protection kicks in for group plancalls , texts , and unlimited data1 person6 gb$ 802 people10 gb$ 1353 people12 gb$ 1704 people14 gb$ 2055 people16 gb$ 2406 people18 gb$ 275google never positioned fi as the cheapest carrier and indeed , you 'll find better `` unlimited '' plans with other carriers . ",
+        "instead , google always argued that fi was a fairer plan that let you pay for what you actually used . with the ability to use three networks , google also argues that its networks gives you access to more cell towers and 4g lte than its competitors . to use project fi , you 'll need a phone that supports switching between the various networks . currently , supported phones include google 's own pixel 2 and pixel lines , as well as the android one moto x4 .   "
+    ]
+}

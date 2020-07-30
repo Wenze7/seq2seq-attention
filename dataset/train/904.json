@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "yann lecun on neural nets `` copy human brains ''"
+    ],
+    "id": "75450.train",
+    "article": [
+        "now i have my go-to response when people say this . `` neural networks copy the human brain . '' i cringe every time i read something like this the press . it wrong in multiple ways . first , neural nets are loosely * inspired * by some aspects of the brain , just as airplanes are loosely inspired by birds . second the i aspiration does n't come from the human brain . it comes from * any * animal brain : monkey , cat , rat , mouse , bird , fish , fruit fly , aplysia sea slug , all the way down to caenorhabditis elegans , the 1mm-long roundworm whose brain has exactly 302 neurons . ",
+        "what neural nets have in common with animal brains is : 1 . they are composed of simple computing elements with multiple inputs and one output ; 2 . the neurons essentially compute a weighted average of their input and compare the result to a threshold ; 3 . they learn by modifying the strength of the connections between neurons ; 4 . the architecture of convolutional nets is inspired by some aspects of the pattern of connections in the visual cortex of animals . that 's about it . pretty much every other detail is different . saying that neural nets are copied on `` the human brain '' seems to suggest that they reproduce functions that are specific to humans , not found in the rest of the animal kingdom . ",
+        "but nothing could be further from the truth . first , we have no idea in what way the human brain is different from other mammalian brains . second , the human brain is n't that different from the brains of other primates . third , ai researchers would would be happy to build a machine as intelligent as a parrot , a crow , a rat or a cat . that would be a tremendous progress over the current state of the art . thanks , yann . saving this for later .   "
+    ]
+}

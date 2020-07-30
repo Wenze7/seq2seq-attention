@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "meltdown , spectre cpu security flaws presented by google ."
+    ],
+    "id": "620058.train",
+    "article": [
+        "google introduced project zero prize , a bug hacking contest , over a year ago with the goal of squashing all the possible bugs available on whatever platform or device . just recently , the tech giant has revealed findings on what is said to be `` speculative execution security flaws '' on an intel processor . the results are alarming and so a number of processor manufacturers have started to look into the big issue to prevent further vulnerabilities from happening . these problems are now known as meltdown and spectre and more details have just been presented by google . ",
+        "apparently , the exploitations have been around since 1995 but it appears to be unknown by the manufacturers . perhaps they are minor issues before but now , they ca n't be ignored and must be addressed . for one , meltdown is described as the failure of isolation between a user 's application and a computer 's operating system . the attack happens when memory normally used by the os and programs can be accessed to obtain sensitive data currently used by other applications . on the other hand , there is spectre that operates the same way but between different applications only . ",
+        "compared to meltdown , spectre is more difficult to exploit . fortunately , there are software patches available for the two although a bigger solution is wanted . meltdown is easier to address as against the problem with spectre . other variations are seen to be available in the future so it is highly recommended these speculative execution issues are completely resolved . results of the research were supposed to be released on january 9 but they were presented earlier because of increased risks . for further information , you may visit meltdownattack . com . antiviruses are expected to spot the meltdown or spectre attacks but advanced solutions are recommended . ",
+        "the best thing to do at this moment is to try and secure all your devices , accounts , and platforms in any way you know and can . if there are security patches or updates available , go ahead and download them . apply all the necessary bug fixes presented by tech companies , oems , and service providers -- to be sure . via : slashgear .   "
+    ]
+}

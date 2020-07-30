@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.9
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "how to set up your monitors in your studio ."
+    ],
+    "id": "483482.train",
+    "article": [
+        "armed with a decent set of monitor speakers , the next stage is to set them up to deliver the best possible performance in your studio space . doing this inevitably requires the application of a bit of science and some trial and error , but it 's one of the most important aspects of tuning your setup to get the absolute best listening experience . there are three key aspects to consider : how you position the monitors in relation to the listener ; how you mount the monitors on a desk or stands ; and how you position that whole configuration within your studio space . ",
+        "let 's look at each of these in turn . placementmonitor speakers work best when set up in an equilateral triangle from the listener , with the two monitors and the listener each taking one corner . the monitors should point directly at the listener and be vertical in both the left/right and forward/back planes , with the listener 's ears roughly at tweeter height . for nearfields , there should be between 0.9 and 1.5 metres between the monitor centres , which equates to a listening position between 0.78 and 1.3 metres back from the monitor . this not only provides a listening ` sweet spot ' , but keeping the monitors orientated correctly also ensures you achieve the driver phase coherence that the loudspeaker designer intended . ",
+        "keep in mind , though , that this is only a starting point . tweeter waveguides and cabinet curves both influence the dispersion of frequencies and thus how wide and how deep that sweet spot is . the trick is to set things up and fine-tune positions until you find the most accurate listening position for your room . monitory policymounting your monitors correctly can significantly improve their performance . dedicated speaker stands work well , as the monitors are decoupled from surfaces such as your desk , reducing vibrations and resonance . however , integrating tall stands into a typical table or desk setup can be tricky or impractical - if full stands are n't an option , try mounting the monitors on your desktop using isolation or decoupling platforms : options include auralex mopads , primacoustic recoils and adam hall pad eco ; or isolating feet such as isoacoustics iso-puck and china cones . ",
+        "these might seem a little expensive , but can greatly improve the bass response and overall quality of the sound coming out of your monitors . room to sparefinally , you need to consider how best to position your monitor configuration within your studio . unfortunately , all rooms exhibit a set of frequency specific modes based on the room dimensions . to make things worse , stick a monitor near a wall and you also get the boundary effect - interactions between reflected and direct sound waves . the upshot of both characteristics is that you 'll experience frequency-specific peaks and nulls of varying degrees around your space , and although these occur across the full frequency spectrum , they 're most noticeable at lower frequencies , with a significant low frequency null typically right in the middle of a rectangular room . ",
+        "the best way to minimise these issues is employ the 38 % rule -- ie , siting the listening position at 38 % the length of the room . but to avoid boundary issues , you should also try and keep your monitors away from the wall , particularly if they 're rear-ported . all these aspects can also be improved by using wall-mounted room treatments such as bass traps , broadband absorber panels and diffusers . a few of these , strategically positioned behind , above and either side of your sweet spot , can work wonders . learn more about monitors and how to get the most out of them in the october 2017 edition of computer music . "
+    ]
+}

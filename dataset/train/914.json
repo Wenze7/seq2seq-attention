@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.4166666666666667
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "tech firms rush out patches for ` pervasive ' computer flaw ."
+    ],
+    "id": "649641.train",
+    "article": [
+        "amid a frantic rush to patch a computer security flaw , experts struggled thursday to determine the impact of a newly discovered vulnerability which could affect billions of devices worldwide . cybersecurity researchers called for computer systems to urgently install updates a day after the release of details of the so-called spectre and meltdown vulnerabilities affecting the chips powering most modern pcs and many mobile devices . researchers on wednesday published details of the flaw , which unlike many other vulnerabilities stems from the chip itself and how it safeguards private data stored on computers and networks . the researchers at google showed how a hacker could exploit the flaw to get passwords , encryption codes and more , even though there have been no reports of any attacks using the vulnerability . ",
+        "`` the full extent of this class of attack is still under investigation and we are working with security researchers and other browser vendors to fully understand the threat and fixes , '' said mozilla researcher luke wagner in a blog post . the revelations `` attack the foundational modern computer building block capability that enforces protection of the , '' said steve grobman , chief technology officer at security firm mcafee . `` businesses and consumers should update operating systems and apply patches as soon as they become available . `` intel updates computer chipmaking giant intel -- the focus of the first reports on the flaw -- said the company and its partners `` have made significant progress in deploying updates '' to mitigate any threats . ",
+        "`` intel expects to have issued updates for more than 90 percent of processor products introduced within the past five years , '' an intel statement said . `` in addition , many operating system vendors , public cloud service providers , device manufacturers and others have indicated that they have already updated their products and services . `` but john bambenek , a fidelis security researcher who works with the sans internet storm center , warned that it may be too soon to know the extent of the problem . `` this bug is probably worth its name and logo considering the pervasive nature of the vulnerability , '' bambenek said in a blog post . ",
+        "`` contrary to some initial reporting , this is not just an intel bug , it affects amd and arm processors as well . these could even be used in cloud ... environments to leak memory outside the running virtual machine . `` in a web page dedicated to the vulnerability , security researchers said meltdown and spectre may `` get hold of secrets stored in the memory of other running programs . this might include your passwords stored in a password manager or browser , your personal photos , emails , instant messages and even business-critical documents . `` the two flaws `` work on personal computers , mobile devices , and in the cloud , '' the researchers said . ",
+        "some experts pointed out that the only real `` fix '' in some cases would be replacing the chip itself , which would be a massive issue for the computing industry . `` the good news is patches are out for almost everything , '' bambenek said . `` the bad news is , spectre , in particular ca n't be completely mitigated by patching as it seems it will require a hardware fix . the good news is that spectre is harder to exploit . `` the us government 's computer emergency response team initially indicated in a bulletin that only a hardware fix would solve the problem , but then removed that from an update . ",
+        "`` fully removing the vulnerability requires replacing vulnerable cpu hardware , '' said the first bulletin .   "
+    ]
+}

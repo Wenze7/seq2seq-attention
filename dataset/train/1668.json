@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.5714285714285714
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "mac password flaw leaves apple red-faced ."
+    ],
+    "id": "835930.train",
+    "article": [
+        "a password vulnerability affecting apple 's mac operating system has been found by researchers , the third discovery of this kind in recent months . it allows any user to change preferences in the appstore without needing the original password in minutes , according to a bug report on open radar , a website used by apple developers . anyone with access to a machine could turn off security updates , app updates or updates to macos . the bug is enabled simply by pressing the unlock padlock when prompted within system preferences and then entering any made up password . ",
+        "macs running earlier operating systems than macos 10.13 are understood to be affected . the bug only affects app store preferences , but is just the latest password error to slip through apple 's operating system . the embarrassing flaw , which emerged on wednesday evening has raised eyebrows among the security community , however experts were quick to point out that anyone with malicious intent would need access to the machine . but it is the latest in a series of bugs that have been highlighted in its macos operating system . apple ceo tim cookin september , a researcher discovered a way to download passwords using apple 's keychain technology . ",
+        "two months later , a separate researcher pointed out that anyone could access a mac device by typing the username `` root '' . within days apple had quickly issued a fix , with a spokesman stating : `` we greatly regret this error and we apologise to all mac users , both for releasing with this vulnerability and for the concern it has caused . our customers deserve better . `` how to | pick a passwordapple , along with google , amazon and microsoft , are currently working to secure their devices from the meltdown and spectre flaws which are present in their product 's hardware . ",
+        "the bug is present in intel , amd and arm microprocessors , which power billions of devices , including ipads , iphones , smartphones , pcs and macs . it could allow hackers to remotely access all the files stored on a device including encryption keys , passwords and web history . on tuesday , intel boss brian krzanich said 90 per cent of devices affected by the meltdown and spectre flaws would be patched within two weeks .   "
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "the pixel 2 's ` portrait mode ' gets ported onto android oreo devices ."
+    ],
+    "id": "583015.train",
+    "article": [
+        "when the pixel 2 was launched , one of the surprising aspects of the phone was its camera which was ranked by dxomark as the best camera smartphone for 2017 . another surprising feature was its portrait mode , which despite the pixel 2 launching with a single rear-facing camera , proved to be a worthy competitor to those with dual cameras , thanks to the use of smart software . unfortunately the feature has been an exclusive to the pixel 2 phones and while we 're not sure if google ever plans on making it available to other phones , not to worry because developers over at xda have managed to port the portrait mode feature onto non-pixel smartphones running on android 8.0 oreo . ",
+        "basically what the developers did was that they modded the google camera apk that enables portrait mode on non-google handsets . there are a couple of versions of this mod , one of which enables portrait mode on the first-gen pixel , pixel xl , and the nexus 5x , while the other version will enable the feature on non-pixel/nexus handsets . however the only caveat is that your device needs to be running on android 8.0 oreo , and if it does , you can head on over to xda 's website for the details on the download , and the best part is that no rooting is required . "
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.4166666666666667
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "data visualization : uncovering the hidden layers of hip hop lyrics ."
+    ],
+    "id": "185131.train",
+    "article": [
+        "we decorate space with art , and time with music . music is one of the most powerful forces in the world . it can lift our mood , get us through tough times and inspire and motive us to pursue our goals . it can send us back in time to relive memories , and bond with our friends as we dance and sing to our favorite lyrics . but as much pleasure as it brings to our ears , music itself has traditionally been mostly an auditory experience . but what if we could see rhyme patterns , metaphors and analogies in our favorite lyrics ? ",
+        "what if we could visualize an artist 's lyrical progression over time ? these are the questions i pondered in early 2015 , as i explored how data visualization could synesthetically bridge the gap between our senses , so we can visually experience literary devices in lyrics and gain interesting insight in the process . every artist has a unique literary fingerprint . explore the use of literary devices over the course of their discography and see how they 've evolved over time : isolate literary devices such as alliterations to view top rated ones as voted by the community and visualize their use in albums to see discographical trends : easily visualize how often and where alliterations appear - right on top of song 's actual sound wave graph ! ",
+        "click to see the lyrics or even better - hear them : ever wonder what your favorite album is made of lyrically ? explore an album 's literary dna to gain insights behind the lyrics you love : see rhymes , do n't just read them . visualize literary elements while exploring statistics such as lyrical complexity , unique rhymes , average syllables per bar and literary distribution : isolate individual rhyme scheme to study their lyrical makeup : see an overview of the lyrical composition via the literary spectrogram : no two artists are alike . visualize their literary differences and see what makes them unique : detailed explanation : full project @ svilen . ",
+        "methe power of data vizas our world faces ever-increasing challenges in terms of complexity and scale , data visualization is is a powerful tool to give us a new perspective on old problems . it can help us uncover patterns and trends that are otherwise virtually undetectable . coupled with the advancements in machine learning , we can expect to see more exciting and insightful visualizations from the least expected areas . head over to reddit . com/r/dataisbeautiful to witness the latest work infull project @ svilen . mei based my designs on genius . com as they have existing the mechanisms to potentially make it a reality , as well as a thriving community of passionate contributors . ",
+        "i am not affiliated nor do i represent genius .   "
+    ]
+}

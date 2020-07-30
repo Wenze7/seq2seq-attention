@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google app experiments push the limits of phone photography ."
+    ],
+    "id": "73753.train",
+    "article": [
+        "google does n't want to limit its photographic prowess to its own phones -- it just released an initial batch of `` appsperiments '' that use the company 's knack for computer vision and other technologies to test the boundaries of phone photography . storyboard for android is arguably the highlight . the app uses object recognition and style algorithms to automatically grab interesting frames from a video and drop them into comic-style layouts with appropriate filters . you could summarize an event just by recording one video , rather than remembering to take gobs of photos . the other experiments could be convenient , too . ",
+        "selfissimo ! for android and ios automatically snaps photos whenever you stop moving , letting you take a ton of selfies without having to press the shutter every time you strike a pose . the ios-only scrubbies app , meanwhile , creates video loops whose speed and direction you can ` remix ' like a dj at the turntables . are these apps particularly useful by themselves ? not really -- in many ways , they 're the novelty features that you see phone makers trot out at launch events and never mention again . as experiments , though , they could be very helpful . ",
+        "google is asking users for feedback and ideas , so you could see more practical adaptations of these apps down the line . as it is , they say a lot about google 's thinking . it wants to put ai to work in virtually every facet of photography , not just obvious areas like image quality and portrait effects . google research blogthis article originally appeared on engadget at .   "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7333333333333333
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "spacex launches a reused dragon atop a reused falcon 9 for the first time ."
+    ],
+    "id": "183983.train",
+    "article": [
+        "spacex has moved one step closer to its dream of affordable , efficient reusable space flight : today for its crs-13 resupply mission for the international space station it managed to launch a previously-flown dragon spacecraft atop a falcon 9 rocket with a flight-proven first stage booster . that 's the first time it 's flown both types of reused equipment at the same time . the mission , which was delayed from its original target date of december 12 after the spacex team decided to take more time to verify proper operation of its second stage full system , took off from cape canaveral air force base at spacex 's newly refurbished slc-40 in florida at 10:36 am est. . ",
+        "its purpose was to delivery over 4,800 pounds of supplies to the iss , and the dragon capsule with those supplies on board should now dock with the iss on sunday if all goes to plan . spacex also successfully recovered its falcon 9 first stage booster again , with a controlled descent and landing at its cape canaveral-based lz-1 landing facility in florida . this is the 17th launch spacex has conducted this year , and the 20th successful first stage recovery overall for the company . it also means this booster could potentially get a third use , after originally having launched during the crs-11 mission this past june . ",
+        "interestingly , spacex has n't repainted or resurfaced the first stage , meaning that the soot resulting from its previously launch was still visible on its external surface prior to launch . the company clarified that this is what it 'll be doing going forward as a matter of course , unless refinishing the outside is deemed beneficial for performance . that 's another way to save on costs with relying used rocket hardware . eventually , spacex hopes to be able to land and turn around rockets for reuse in under 24 hours , to help it service commercial clients quickly and effectively . ",
+        "long-term , this will also service ceo elon musk 's goals of reaching and colonizing mars , and potentially parts of space beyond , as well .   "
+    ]
+}

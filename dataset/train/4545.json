@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7777777777777778
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "bill of materials and neo4j meetup in boston ."
+    ],
+    "id": "1094995.train",
+    "article": [
+        "if you 're interested in neo4j and manufacturing and you happen to be in boston next week , i 'd like to invite you to a meetup organized by neo4j , one of the leaders in graph databases development . check details , here . openbom will be joining the meetup and will talk about bill of materials and connections in the manufacturing world . to unlock the value of connections , relationships and help people to collaboration is one of the missions of openbom . at the meetup , we will talk about bill of materials , product structures and how neo4j can be used to manage connected data . ",
+        "a bill of materials or product structure is a list of the raw materials , sub-assemblies , intermediate assemblies , sub-components , parts and the quantities of each needed to manufacture an end product . this presentation will discussion neo4j implementation of parts and bill of materials domain model to track part usage and user access in openbom . we will discuss our challenges with cypher and data modeling in support of our access control and data access requirements . we will also talk about our usage of spring data neo4j and our future plans . graphs are very powerful . ",
+        "one very valuable advantage of openbom is the ability to analyze graphs of multiple products to glean intelligence about how to improve product design , supply chain , product cost and reliability . you can get some ideas in our earlier blog , openbom and advantages of global bom graph . the following video gives you an idea of how openbom automatically detects `` where used '' information for parts in multiple bill of materials : we live in an era where data is everywhere . individuals and companies produce data at every moment of every day . the same applies to manufacturing companies . ",
+        "the bill of materials is the lifeblood of every manufacturing business . knowing how to optimize a bill of materials can provide huge benefits . in the near future , data-driven manufacturing companies will succeed because they will be able to apply data science to product structures and bill of materials . conclusion . connections are everywhere in manufacturing world . we will talk how to use connection to build software that can be used by multiple companies and users across the globe . hope to see you next week . best , oleg .   "
+    ]
+}

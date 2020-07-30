@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.5384615384615384
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "scientists reveal the fundamental limitation in the key material for solid-state lighting ."
+    ],
+    "id": "1246881.train",
+    "article": [
+        "scanning transmission electron microscopy image of the atomic ordering in n monolayer : single atomic column , containing only indium atoms , followed by two , containing only gallium atoms . credit : ikz berlinfor the first time an international research group has revealed the core mechanism that limits the indium content in indium gallium nitride -lrb- n -rrb- thin films -- the key material for blue light emitting diodes . increasing the in content in ingan quantum wells is the common approach to shift the emission of iii-nitride based leds towards the green and , in particular , red part of the optical spectrum , necessary for the modern rgb devices . ",
+        "the new findings answer the long-standing research question : why does this classical approach fail , when we try to obtain efficient ingan-based green and red leds ? despite the progress in the field of green leds and lasers , the researchers could not overcome the limit of 30 % of indium content in the films . the reason for that was unclear up to now : is it a problem of finding the right growth conditions or rather a fundamental effect that can not be overcome ? now , an international team from germany , poland and china has shed new light on this question and revealed the mechanism responsible for that limitation . ",
+        "in their work the scientists tried to push the indium content to the limit by growing single atomic layers of inn on gan . however , independent on growth conditions , indium concentrations have never exceeded 25 % - 30 % -- a clear sign of a fundamentally limiting mechanism . the researchers used advanced characterization methods , such as atomic resolution transmission electron microscope and in-situ reflection high-energy electron diffraction , and discovered that , as soon as the indium content reaches around 25 % , the atoms within the n monolayer arrange in a regular pattern -- single atomic column of in alternates with two atomic columns of ga atoms . ",
+        "comprehensive theoretical calculations revealed that the atomic ordering is induced by a particular surface reconstruction : indium atoms are bonded with four neighboring atoms , instead of expected three . this creates stronger bonds between indium and nitrogen atoms , which , on one hand , allows to use higher temperatures during the growth and provides material with better quality . on the other hand , the ordering sets the limit of the in content of 25 % , which can not be overcome under realistic growth conditions . top view of the surface reconstruction . credit : ikz berlin `` apparently , a technological bottleneck hampers all the attempts to shift the emission from the green towards the yellow and the red regions of the spectra . ",
+        "therefore , new original pathways are urgently required to overcome these fundamental limitations '' , states dr. tobias schulz , scientist at the leibniz-institut für kristallzüchtung ; `` for example , growth of ingan films on high quality ingan pseudo-substrates that would reduce the strain in the growing layer . `` however , the discovery of ordering may help to overcome well known limitations of the ingan material system : localization of charge carriers due to fluctuations in the chemical composition of the alloy . growing stable ordered n alloys with the fixed composition at high temperatures could thus improve the optical properties of devices . ",
+        "more information : l. lymperakis et al. . elastically frustrated rehybridization : origin of chemical order and compositional limits in ingan quantum wells , physical review materials . doi : 10.1103 / physrevmaterials . 2.011601 provided by forschungsverbund berlin e. v . this story is republished courtesy and copyrighted by phys . org , a popular site that covers news about science research . read the original article .   "
+    ]
+}

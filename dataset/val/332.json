@@ -1,0 +1,19 @@
+{
+    "id": "38.val",
+    "article": [
+        "corporate hijacking . security firm kaspersky lab just exposed an international cryptocurrency mining ring that is using malware software called powerghost to spread across vast corporate networks . the malware is infecting anything from workstations to entire server farms , using corporate hardware to dedicate a portion of the computer 's power to mine a yet-unknown a computer is infected , a script downloads the mining tool , which uses the hardware 's processing power to solve complex computational problems . the small amounts of cryptocurrency it mines gets sent back to the attacker 's wallet ; the virus , meanwhile , launches a copy of itself to infect other computers connected to the same no more . ",
+        "previous analyses by kaspersky lab and security firm skybox suggested that it is more profitable for cybercriminals -- you know , the tinted sunglasses , hoodie-wearing type -- to install cryptocurrency mining malware , rather than holding data hostage using ransomware . browser-based cryptojacking attacks rose 80 percent in 2017 , they difference between these two approaches is fairly simple : mining malware uses processing power of targeted machines -- anything from workstations , servers , to even point-of-sales terminals , and people 's smartphones -- to mine for obscure cryptocurrencies ; ransomware simply locks people out of being able to access their data , threatening to bear their data for all to see . ",
+        "unless of course , they pay a ransom . that 's how last year 's worldwide ransomware attack wannacry domination . powerghost is even harder to notice than other crypto-mining malware . according to kaspersky lab , the malware does n't even need to use any files at all , making itself even more invisible to anti-malware and - virus software . rather than moving files onto the targeted machine to start running mining software , powerghost runs a script from memory right away , and bam , it starts malware used corporate networks to spread across the entire globe as kaspersky lab 's handy map shows : the intent is simple : the more infected computers , the more processing power available to mine more cryptocurrency . ",
+        "the more crypto , the bigger the reward . and as it turns out , targeting corporate networks is an extremely effective way to do just , it 's not always easy to fend off `` cryptojacking '' malware . malware communicates with servers in a way very similar to conventional , unsuspicious network communication . and on a big corporate scale , a lot of data could end up hiding the mining software quite your computer in infected with powerghost , installing software updates and patches to avoid being vulnerable to exploits will fix it . but this is surely not the last cryptomining malware we 'll see . ",
+        "`` the miner we examined indicates that targeting consumers is not enough for cybercriminals anymore -- threat actors are now turning their attention to enterprises too . cryptocurrency mining is set to become a huge threat to the business community , '' principal security researcher david emm tells : cryptomining malware has the potential to turn into a huge headache for about cryptomining : crypto mining for charity : your processing power could save the world . "
+    ],
+    "abstract": [
+        "cryptomining malware is infecting corporate networks worldwide"
+    ],
+    "extracted": [
+        0
+    ],
+    "score": [
+        0.5714285714285714
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.4666666666666667
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "asus unveils alexa-powered mesh wi-fi system , gigabit lte laptop , zenfone max smartphone ."
+    ],
+    "id": "726803.train",
+    "article": [
+        "building a slide deck , pitch , or presentation ? here are the big takeaways : at ces 2018 , asus unveiled a number of new connected devices including laptops , routers , and smartphones . the new devices include the asus lyra voice , lyra trio , rt-ax88u , novago , and zenfone max plus . on monday at ces 2018 in las vegas , asus revealed a new line of devices aimed at improving connectivity across the home and office , and leveraging amazon 's alexa to increase productivity . the tools may be particularly useful for remote workers or small businesses , as noted by our sister site zdnet . ",
+        "the asus lyra voice -- winner of the ces 2018 innovation award -- is a two-in-one mesh wi-fi system and voice assistant , according to a press release . it includes stereo speakers , a microphone , and integrated alexa voice control . users can work with alexa directly through the lyra voice , as they would with an echo device -- putting another nail in the coffin for microsoft 's cortana digital assistant , which has failed to gain much enterprise traction , as zdnet reported . lyra voice communicates with other connected lyra hubs to ensure there are no wi-fi dead zones in a house , and to more easily connect other smart home devices , the release noted . ",
+        "the device can be controlled via the lyra mobile app . asus also announced the lyra trio , a dual-band , multi-hub mesh wi-fi system with 3x3 mimo technology to boost wi-fi connections . it includes always-on privacy protection for all smart devices as well , which may help protect against the many security threats posed by the internet of things . in other wi-fi announcements , asus unveiled the rt-ax88u , a dual-band router that includes the next-generation 802.11 ax wireless standard for wi-fi speeds of up to 6000 mbps , according to the release . the technology provides 4x faster throughput than existing products with connected devices in areas with a lot of traffic , asus noted . ",
+        "the router also offers easy connectivity for multiple users , with eight gigabit lan ports . the lyra voice , lyra trio , and rt-ax88u will be available in the first half of 2018 , and pricing will be announced at launch , according to the release . the asus novago , an ultrathin , gigabit lte-capable laptop revealed at ces , features a qualcomm snapdragon 835 mobile pc platform , and a gigabit snapdragon x16 lte modem for download speeds of up to 1 gbps . it also has up to a 22-hour battery life , and runs on windows 10 s . ",
+        "the novago will be available starting at $ 599 msrp in the first half of 2018 . asus also unveiled the first model in its new zenfone max series of high-battery-capacity smartphones : the asus zenfone max plus . the phone includes a 5.7-inch full-view display with dual rear cameras , facial and fingerprint recognition technology , and a 4130mah battery , and is aimed at users who must be connected all day , which could be a good option as a backup phone for business travelers due to its battery power and low cost . the zenfone max plus will be available starting at $ 229 msrp in february 2018 , according to the release . ",
+        "image : asus .   "
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "darpa and nasa team up to design refueling satellites ."
+    ],
+    "id": "470104.train",
+    "article": [
+        "the department of defense 's research and development arm is teaming up with nasa to create a new generation of satellites whose job will be to maintain existing ones . the new satellites , called `` service stations in orbit '' by the washington post , could extend the lives of billion-dollar satellites and fix minor maintenance issues , problems that are currently not possible . such `` service stations '' however could also interfere with the satellites of adversaries . satellites are a multi-billion dollar industry , and it 's no exaggeration to say that everything from the military to ordinary civilians rely on them . ",
+        "from gps navigation to farming to satellite television , humans rely on satellites to make our lives better . unfortunately , once a satellite goes up into orbit there is little to no way to make unplanned repairs or changes . if a solar array for a communications antenna fails to deploy , it 's stuck for good . if a satellite turns out to be potentially useful beyond its planned service life , which happens fairly often , there is no way to refuel it to keep it parked in a useful orbit once it has used up its onboard fuel supply . ",
+        "the defense advanced projects research agency , is collaborating with nasa to develop new robotic helper satellites . the satellites would tend to other satellites in geosynchronous orbit , roughly 22,000 miles above the surface of the earth . as the washington post explains , orbital atk is working on a satellite that attaches itself to another satellite to provide a new source of thurst . nasa plans to refuel landsat 7 , a earth observation satellite launched in 1999 , by 2021 . service satellites would also be a useful defensive tool for the department of defense and civilian agencies responsible for america 's constellation of communications , navigation , and spy satellites . ",
+        "in the event of war service satellites could inspect satellites for damage , repair them , and determine if they 've been tampered with . plans for service satellites are all perfectly above board and fulfill an important role of protecting vital national assets . that having been said , satellite attacks would likely be the first shots in a serious war between major powers , as each side attempts to blind the other . service satellites could go after enemy satellites in wartime , using their repair abilities to pluck the solar arrays or antennas off an adversary 's vital military communications satellite . ",
+        "a satellite that provides a new source of propulsion for an older one could also move an enemy satellite to danger , forcing it to crash back towards earth in a fiery mess . there is no plan on the part of the u. s. government to use service satellites in an offensive role , but their usefulness as such is readily apparent . like many technologies , service satellites would be a double-edged sword . the desire , and perhaps necessity of the need to go after another country 's satellites is inevitable so long as satellites retain their importance to national security . ",
+        "the challenge is to avoid a war in which either side could use them .   "
+    ]
+}

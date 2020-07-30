@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.6666666666666666
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "my 5 most used sketch plugins from 2017 ."
+    ],
+    "id": "718609.train",
+    "article": [
+        "first of all , happy 2018 to all of you , let 's go to the first post of the year ! so , today i 'll be taking a look at one of sketch 's great things that we designers can take advantage of , which is the large amount of different plugins we can use in order to improve and make our work easier and faster . i made a quick list and ended up with this list of the top 5 sketch plugins i 've used this last year of 2017 . # 1 sketch runnersketch runnera plugin to speed up your sketch workflowsketchrunner . ",
+        "comthe first one is sketch runner and it 's probably my favorite one . if you do n't know or never used this plugin , i recommend you to take a look . it 's like your mac spotlight , but for sketch . you can run plugins or native sketch actionsnavigate through your entire documentbrowse and insert symbols from sketch libraries or your symbols page , and many more . # 2 clipboard fillscottsavarie/clipboard-fillclipboard-fill - sketch plugin to paste an image from your clipboard as the fill for any shapegithub . comthis one is a super simple plugin , and i also use it a lot . ",
+        "this gif explains it all . you can copy an image to the clipboard and then fill any shape with it using cmd + alt + v. # 3 rename itrodi01/renameitrenameit - keep your sketch files organized , batch rename layers and artboards . github . comthe concept of renameit is pretty straight forward . you select two or more layers/artboards and rename them , and you also have the `` find & replace layers '' feature . the cool thing is that you can add and combine keywords like `` % n '' which will add a number to each layer name . ",
+        "# 4 symbol organizersonburn/symbol-organizersymbol-organizer - organize your symbols page alphabetically and into groupings determined by ... github . comgot a messy symbols page , with artboards all over the place ? this one is for you , then ! for the sake of this example , i 've created a super small symbols page . so with start from this : and after running the plugin we end up like this : you have a few options to adjust , so that you can organize your symbols in the best way possible . and you 'll have your symbols nice and organized ! ",
+        ": -rrb- # 5 symbol instance renamersonburn/symbol-instance-renamersymbol - instance-renamer - rename symbol instances to the name of their master . github . comonto the last plugin , and is from the same developer that created the `` symbol organizer '' . let 's you have a symbol called `` button big '' , you rename it to `` button large '' and now you want all its instances in the entire document to change their name too . it 's as easy as typing `` shift + alt + cmd + r '' and boom , all done . want to just rename the intances you 've selected ? ",
+        "no problem ! just type `` shift + ctrl + cmd + r '' and that 's it ! did you already use any of these plugins ? if not , i encourage you to give them a try and let me know what you think and if they 're useful for you ! thank you for reading , see you next time ! 👋🏼 .   "
+    ]
+}

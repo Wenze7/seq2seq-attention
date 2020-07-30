@@ -1,0 +1,19 @@
+{
+    "id": "283.val",
+    "article": [
+        "google introduced the titan security key during its google cloud next \u201918 convention , a physical usb-based device that eliminates the need to enter usernames and passwords . the fido-based device includes firmware developed by google 's engineers that verifies its integrity , so you can log onto your favorite sites worry-free . it 's available now for google cloud customers followed by a full mainstream availability `` soon . '' `` we 've long advocated the use of security keys as the strongest , most phishing-resistant authentication factor for high-value users , especially cloud admins , to protect against the potentially damaging consequences of credential theft , '' the company 's key is based on the fido u2f protocol , short for `` universal 2nd factor . '' ",
+        "borrowing from the smart card concept , you merely insert the key into a usb port or tap it against an nfc-compatible smartphone . when you create an online account , your pc will create two encrypted tokens : one public and one when you log into the account , the service containing the public token will send a `` challenge '' requiring you to touch a button on the key , thus unlocking the private token for verification . there 's no personal information sent across the internet , and the private token used to unlock the service remains solely on the physical and yubico originally developed this protocol along with support by nxp but now its maintained by the fido alliance . ",
+        "yubico already offers its yubikey series for desktop and mobile , such as the yubikey 4 supporting multiple protocols , the android-friendly yubikey neo , and the security key with out-of-the-box support for gmail , facebook , and said , google 's new titan security key will be in direct competition with yubico 's products . the difference is that one of google 's models will rely on a bluetooth low energy component , a standard yubico helped build but decided not to use because `` it does not meet our standards for security , usability , and durability . '' ",
+        "bluetooth , according to yubico , does n't offer the same security level as nfc and 's no information about the titan security key 's manufacturer , but google plans to sell both usb - and bluetooth-based models in a bundle for $ 50 or separately for around $ 25 each -- possibly in the sub - $ 10 range in the future . moreover , the titan security key wo n't have anything to do with google 's titan-branded chip used to protect cloud-based servers . `` titan security key gives you even more peace of mind that your accounts are protected , with assurance from google of the integrity of the physical key , '' google smartphones are good for two-factor authentication , sms-based messages can be intercepted . ",
+        "even more , if your smartphone is lost or damaged , it takes your private keys with it . a usb-based key can get damaged as well , but it can hang on a keychain and does n't require a network connection . according to google , the bluetooth model can supposedly remain active for six months on a single will initially target customers who need the titan security key the most : journalists , business executives , politicians , and the like . "
+    ],
+    "abstract": [
+        "google offers its own ` titan ' usb security key for password-free logins"
+    ],
+    "extracted": [
+        2
+    ],
+    "score": [
+        0.46153846153846156
+    ]
+}

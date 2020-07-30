@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.7333333333333333
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "chris lazarini comments on qualifiers of control person liability under exchange act § 20 ."
+    ],
+    "id": "884032.train",
+    "article": [
+        "bass , berry & sims attorney chris lazarini commented on a case involving alleged violations of federal and state securities laws and state common law in an alleged scheme to defraud customers and investors in several businesses engaged in virtual currency mining . the defendant , who financed the businesses and participated in their daily operations , moved to dismiss the control person and aiding and abetting claims against him . the court denied the motion , finding the allegations supported a reasonable inference that defendant was a culpable participant in the underlying fraud even when viewed under the heightened `` state of mind '' standard . ",
+        "chris provided the analysis for securities online litigation alert . the full text of the analysis is below and used with permission from the publication . audet vs. fraser , no . 3:16-cv-940 to state a claim of control person liability under exchange act § 20 , a plaintiff must show a primary violation by the controlled person , control of the primary violator by the defendant and that the defendant was , in some meaningful sense , a culpable participant in the controlled person 's fraud . in this putative class action , plaintiffs allege violations of federal and state securities laws and state common law in an alleged scheme to defraud customers and investors in several businesses engaged in virtual currency mining . ",
+        "defendant fraser , the vice-chairman of cantor fitzgerald , capitalized the defendant businesses and was `` the board , '' while his `` partner '' garza , who had installed internet service at fraser 's vacation home , developed ideas and was the `` ceo '' of the businesses . claims against garza were dismissed , according to fraser , after he agreed to provide plaintiffs with assistance in their claims . before the court is fraser 's motion to dismiss the claims against him under exchange act § 20 and connecticut state law . the court denies the motion . ",
+        "first , it finds that the amended complaint plausibly pleads that fraser controlled garza and the defendant businesses . the court notes that the test of § 20 control is not categorical ; rather , it is functional . here , several allegations collectively support a reasonable inference that fraser had the power to influence and direct the businesses ' activities : fraser owned half of the equity in each business , he was involved in directing both major strategic decisions and daily operations , he mentored garza , who sought fraser 's advice and approval before making management and policy decisions , and he used his financial leverage to oversee garza and the businesses . ",
+        "second , the court finds that the allegations , when accepted as true , satisfy § 20 's culpable participation standard , whether viewed under the less stringent `` allegation of control '' standard or the more stringent `` state of mind '' standard . the amended complaint meets the heightened `` state of mind '' standard because it pleads that fraser knew of information contradicting the defendant businesses ' public statements and blessed the fraud or orchestrated certain of its aspects . third , the court holds that plaintiffs have stated a state law aiding and abetting claim , under both the state securities laws and common law , by alleging that fraser was a culpable participant in the fraud and alleging that fraser 's status as a senior officer of a major investment bank influenced or could influence customers and investors . ",
+        "finally , the court finds the amended complaint states a state law control person claim because it alleges that fraser was a culpable participant in the fraud who was , or performed functions similar to , a partner , officer or director .   "
+    ]
+}

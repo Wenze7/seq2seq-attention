@@ -1,0 +1,17 @@
+{
+    "score": [
+        1.0
+    ],
+    "extracted": [
+        2
+    ],
+    "abstract": [
+        "monsanto technology llc v. e. i. dupont de nemours ."
+    ],
+    "id": "736891.train",
+    "article": [
+        "federal circuit summariesbefore dyk , reyna , and wallach . appeal from the patent trial and appeal board . summary : extrinsic evidence can be used to find that an allegedly anticipating reference necessarily includes relevant claim limitations . e.i. dupont de nemours & co. . sought inter partes reexamination of a patent owned by monsanto technology llc . during the inter partes reexamination , dupont submitted two declarations from a named inventor of an allegedly anticipating prior art reference . relying on the declarations , the ptab found that the prior art reference `` necessarily includes '' certain claim limitations of monsanto 's patent . ",
+        "accordingly , the ptab found that certain claims of monsanto 's patent were anticipated . appealing to the federal circuit , monsanto argued that the ptab erred by relying on the declarations to reject the asserted claims for anticipation , which monsanto argued contained secret and non-prior art data . the federal circuit affirmed the ptab 's decision . relying on the declarations , the federal circuit held that substantial evidence demonstrates that the prior art reference inherently anticipates the asserted claims . in response to monsanto 's argument that the declarations did not qualify as prior art , the federal circuit explained that `` xtrinsic evidence may be used to interpret the allegedly anticipating reference . '' ",
+        "next , in response to monsanto 's argument that the declarations were `` secret data '' because they were not published , the federal circuit explained that the declarations were offered in support of the prior art already of record and that such reliance on extrinsic evidence is proper in an inherency analysis . this case is : monsanto technology llc v. e. i. dupont de nemours .   "
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "score": [
+        0.8
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "supervised vs unsupervised ml ."
+    ],
+    "id": "739574.train",
+    "article": [
+        "hello dear readers ! today i thought i would post about supervised and unsupervised learning . in fact i 've had several discussions about ml lately and as you may have found out by yourself already , things can be easily mixed up when talking about ai . in this post i cover : - supervised ml - classification and regression - unsupervised ml - clustering and associationml learning type : supervised vs unsupervisedwhy do we care ? machine learning , as the name says , is about learning data . but even though a machine can learn a lot about data , we would not be able to exploit it without data mining . ",
+        "in fact , data mining that helps us understanding the relationship between a set of data , such as finding pattern , recurrence ... supervised : so here it is , let 's say you have a set of data that which could be : - a spreadsheet of rose , jasmin , tulips , lila flower all with specific features , such as petal length , depth , colour etc - thousands of picture of orange , apple , strawberries and plum , with information about what makes them being cats . why this is supervised learning : - a set of data has been given to the algorithm - by doing this you taught the algorithm about recognising roses and fruits by giving features for each of them . ",
+        "you gave the algorithm `` training data '' . - the probability that the algorithm recognize a rose of a fruit with accuracy is high - with new data you can predict the output for that dataexample : by giving the picture of a forest strawberry , you can expect a fairly high probability for the result to be a strawberry . - by giving more picture to the algorithm , you actually make more performant as the prediction become more accurate . this is how the algorithm reaches the best performances . classification and regression : supervised leaning can be grouped into classification and regression . ",
+        "example here following the flowers and the fruits .   ",
+        "classification : the classification happens if the output variable is a label such as , - flower : `` sharp '' , `` dark red '' , `` red '' , `` large '' , `` showy '' - fruit : `` round '' , `` green '' , yellow '' , `` malus '' , `` citrus '' , `` rosaceae '' regressionregression happens when the output is not a label but a value such as , - flower : `` petal width value '' , `` sepal length value '' , '' sepal class '' - fruit : `` weigh '' , `` sugar quantity '' , `` sodium '' , `` fat '' , `` vitamin '' unsupervised : things are a little bit different here , in unsupervised learning , the difference is that there is no set of data given to train the algorithm .",
+        "in other words you have the input but can not predict the output as the mapping does not exist . think about it like a new born coming to life with none knowledge of our worldj . everything is to learn and there was no data to train the baby while the pregnancy , no way to tell him what 's is the difference between an apple and an orange , or cats and dog ... the baby will have to use sensors to learn about each characteristic that constitute what is around him . we can see unsupervised learning in a similar way where there is no algorithm found to map an input with an output . ",
+        "so how is unsupervised learning performed ? clustering and association : clustering : cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group are more similar to each other than to those in other groups . example : apple separated from strawberry , and banana based on shapeassociation : association rule learning is a method for discovering interesting relations between variables in large databases . online stores are a good example of association analysis . they usually suggest to you a new item based on the items you have bought . ",
+        "they analyze online transactions to find patterns in the buyer 's behavior . christelle .   "
+    ]
+}

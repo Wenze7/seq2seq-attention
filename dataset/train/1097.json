@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6153846153846154
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple may let the same app work on across ios and macs ."
+    ],
+    "id": "305997.train",
+    "article": [
+        "the app situation between iphones and macs is a bit of a mess . while mobile apps are updated regularly , the mac app store can often leave something to be desired . now , apple is finally tackling this chaos . according to bloomberg , apple may give developers the option to create a single app that will work across macs , ipads and iphones as early as next year . according to insider sources , the same app will be able to respond to a mouse , a touch pad or a touch screen , depending on the device it 's being run on . ",
+        "right now , apps must be designed separately for the iphone and ipad versus for a computer , which explains why you can occasionally find tumbleweeds rolling across the screen when you pull up the mac app store . if developers must choose to devote resources to one or the other , the computer apps often get shortchanged . the change wo n't come immediately , though . it 's planned as part of next fall 's ios and mac os updates , according to bloomberg 's sources . because this is all so tentative , it 's also possible that the decision makers at apple could change their minds and cancel this endeavor entirely . ",
+        "here 's hoping they do n't , though . this streamlining would likely be a popular move for mac users .   "
+    ]
+}

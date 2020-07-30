@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.4
+    ],
+    "extracted": [
+        4
+    ],
+    "abstract": [
+        "stop the presses : qualcomm finally landed european approval for its nxp semiconductor buyout ."
+    ],
+    "id": "1066004.train",
+    "article": [
+        "it looks like qualcomm is getting ready to put the final john hancock on its $ 38 billion buyout of nxp semiconductors . another major hurdle has been cleared , as the european commission blessed the deal -- with a few conditions . what 's the story ? the regulatory review that started on june 14 has reached its conclusion at long last . two of the european commission 's three original concerns will be relieved by commitments from qualcomm to give other chip-makers fair access to nxp 's industry-standard patents for many years . the third issue -- which concerned whether combining nxp 's market-leading share in automotive computing products with qualcomm 's smaller one would create a detrimentally anticompetitive situation -- was dropped entirely . ",
+        "the chip giant hopes to use nxp 's products to vault into a leading position in that red-hot market , and catch the wave before self-driving cars become mainstream . to assuage the eu regulator 's concerns , qualcomm promised to offer licenses for nxp 's mifare near-field communications technologies for the next eight years , on terms no more onerous than nxp 's license deals today . that way , other chip makers will be able to offer significant competition in this emerging industry . the patented tech in question is used in mobile payment and transaction systems all over the world , as well as applications such as subway travel cards , smart parking meters , and hotel keys . ",
+        "giving qualcomm the power to control chip pricing in this important niche might have been a bad idea , considering the company 's alleged tendency to use anticompetitive tools whenever possible . for the same eight-year period , qualcomm also promised to ensure that competing chip sets would be able to work with its nfc products . otherwise , qualcomm would have been able to set high royalty rates for products inside a walled garden , where no other competing solution exists . importantly , nxp 's has already scoped out a global market for nfc chips , and it would be difficult to simply shunt that established solution aside in favor of a new and more competition-friendly solution . ",
+        "finally , some of nxp 's nfc patents wo n't be part of the merged company . instead , these industry-standard licenses will be transferred to a third party with the sole purpose of offering royalty-free licenses on a global level for the next three years . the nxp-qualcomm merger now has regulatory approvals from eight out of the nine necessary jurisdictions , and the last holdout -- china -- has been known to simply rubber-stamp the work of its european counterpart . that 's no guarantee of a quick chinese approval with the same conditions , but the probability of this deal hitting further regulatory speed bumps just dropped by a lot . ",
+        "in real terms , the last remaining hurdle will be getting the holders of at least 80 % of nxp 's shares to accept qualcomm 's tender offer , which currently sits at $ 110 per share . activist investors are holding out for a better deal in order to make up for the many months of lost opportunity in the stock market overall . right now , nxp stock is trading at $ 120 per share . i expect a chinese rubber-stamp approval , but qualcomm may or may not boost the price on its already-huge buyout bid . ",
+        "it might instead try to play the long game , stretching its troubled tender offer out by another month or two to see if it can capture the necessary shareholder commitments without a greater outlay .   "
+    ]
+}

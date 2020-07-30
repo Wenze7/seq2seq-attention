@@ -1,0 +1,19 @@
+{
+    "id": "643.val",
+    "article": [
+        "q : i am in sales and drive all over the bay area . i have lots of questions on different roads but let 's start with the san mateo bridge . why are there metering lights that are never used ? i 've been there at the peak of rush-hour and the merge is backed up through the toll booths , but the lights are not ricardpleasant hilla : your wait will continue for perhaps five more . caltrans says the hardware for these meters were installed many years ago , but never activated . priority has gone to installing meters on freeways , such as highway 101 , interstate 880 , i-80 and else ? ",
+        "q : also on the san mateo bridge , would it kill somebody to put up a windsock or something that we can tell how strong the cross winds are ? there is often a warning for high winds , but it is impossible to tell how strong the winds are . a couple of windsocks would be very ricarda : no plans for wind socks . jeff-the-bridge-man asks `` how would a person adjust their driving based on wind direction ? `` q : i see signs saying that the metering light from andrade road to north i-680 will be turned soon in fremont . ",
+        "since this is such a nasty area , how long will the hours be ? frank whitedanvillea : they 'll be on from 2 to 7 beginning tuesday . this is the second phase of three metering projects along northbound i-680 . the southbound direction is already metered during the morning peak tuesday , the meter will be solid green from 2 to 7 monday through friday , then flashing red to green a week later . the metering hotline is : the highway 85 north entrance from almaden expressway has metering lights . instead of just red and green lights , there is also a yellow light . ",
+        "there is no sign that expresses whether it is one or two cars per green so by default everyone goes one car at a , since the light flashes green then yellow then red , it seems like sufficient time for two cars to go per green/yellow . is that supposed to be the case ? if not , why does this metering light have a yellow light when most do n't ? linsan josea : a ramp meter signal has a yellow signal for startup metering and two-cars per green metering . the yellow is needed when a meter goes from green to red . ",
+        "for two-cars per green metering , the second vehicle goes on the yellow . a yellow will also show up during the red-green cycle if there is an issue with the on-ramp detection system . "
+    ],
+    "abstract": [
+        "meters to san mateo bridge will remain dark for many years : roadshow"
+    ],
+    "extracted": [
+        0
+    ],
+    "score": [
+        0.5384615384615384
+    ]
+}

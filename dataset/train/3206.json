@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.5454545454545454
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "molex automotive power delivery modules leverage innovative microchip technology devices ."
+    ],
+    "id": "812460.train",
+    "article": [
+        "molex and microchip technology inc. . are collaborating on the development of integrated usb media modules and usb power delivery solutions for automotive infotainment systems . molex will highlight these advanced applications for connected vehicles at the consumer electronics show , jan 9-12 , 2018 , las vegas , nevada usa . `` many of today 's vehicles are equipped with multiple power chargers and ports to keep pace with the extraordinary demand for mobile connectivity , '' said dave atkinson , director of business development , connected mobility solutions , molex . `` our integrated automotive solutions give customers the design flexibility to streamline and customize infotainment and usb power delivery across multiple vehicle profiles . '' ",
+        "the molex ces 2018 booth will showcase demonstrations of usb media modules and power delivery solutions . in one cutting-edge demonstration , a full complement of microchip devices are utilized to create a usb power delivery solution with power balancing , while simultaneously supporting driver assistance applications on a mobile handset . microchip 's usb devices optimize usb power delivery functionality , reducing overall bom costs by architecting a total system solution that can be easily designed into a single module . the automotive smart hub chip plays a key role , connecting multiple handsets to the vehicle 's infotainment system , while also simultaneously charging them . ",
+        "the solution supports driver assistance utilities available on mobile devices which enable the vehicle head unit and display to interact with applications such as maps , music , voice recognition texting , and hands-free mobile calling . the demonstration illustrates a usb power delivery implementation for dynamic power sharing while maximizing the charging capability to consumer products . the usb4916 automotive smart hub chip contains an integrated microcontroller that executes the power delivery stack and power balancing operation between two usb 2.0 type-c ports . `` the number of usb ports in vehicles is rapidly increasing as usb can deliver more power and bring driver assistance applications to the head unit display , '' stated mitch obolsky , vice president of microchip 's usb and networking group . ",
+        "`` coordinating with molex , allows optimal solutions that extend from chips to modules tailored for stringent automotive requirements of vehicle oems , making it easier for our customers to get their solutions to market . '' molex provides complete design services , system packaging , production , testing and validation for media modules and usb power delivery solutions . explore connected mobility solutions at www . connector . com/electronic-solutions/connected-mobility . about molex : molex brings together innovation and technology to deliver electronic solutions to customers worldwide . with a presence in more than 40 countries , molex offers a full suite of solutions and services for many markets , including data communications , consumer electronics , medical , industrial , automotive , and commercial vehicle . ",
+        "www . molex . commolex resources : molex is a registered trademark of molex , llc in the united states of america and may be registered in other countries ; all other trademarks listed herein belong to their respective owners . about microchip technology : microchip technology inc. . is a leading provider of microcontroller , mixed-signal , analog and flash-ip solutions , providing low-risk product development , lower total system cost and faster time to market for thousands of diverse customer applications worldwide . headquartered in chandler , arizona , microchip offers outstanding technical support along with dependable delivery and quality . ",
+        "www . microchip . com . view source version on businesswire . com : .   "
+    ]
+}

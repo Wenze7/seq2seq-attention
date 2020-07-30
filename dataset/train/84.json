@@ -1,0 +1,18 @@
+{
+    "score": [
+        1.0
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "how to get end-to-end encryption in skype ."
+    ],
+    "id": "881505.train",
+    "article": [
+        "skype is one of the most popular messaging apps around , but it 's never offered the type of end-to-end encryption that 's become standard in other services like whatsapp and imessage . now , that 's finally set to change thanks to a partnership between microsoft and signal for a new feature called private messages . here 's how to get end-to-end encryption in skype , and how to use it . for now , you 'll need to sign up for its skype insiders programme to try out the latest update , but that does n't take much work . ",
+        "just download skype preview , which is readily available for mac , windows , android and linux . once skype preview is installed and you 've logged in , all you need to to is select the '' + '' icon and pick `` new private conversation '' from the drop down menu . then pick the person you want to chat with and skype will send them an invitation . beyond end-to-end encryption , there are a few other features that set skype 's private conversations apart . invitations to chat only last for seven days , after that they expire and need to be re-sent . ",
+        "each private conversation is also limited to the device it started on , so if you want to chat privately on your computer and phone you 'll have to send two separate invitations to the same person . skype blocks the text of these encrypted conversations from showing up in your notifications as well , for an extra layer of protection . when you 're ready to end your conversation you have two options . you can delete the chat by right-clicking your mouse and then selecting `` delete chat . '' this wo n't officially end the conversation , so you can pick it up again later . ",
+        "if you really want to end your discussion , you need to go to the chat header and then scroll down to `` end private conversation . '' once you do that , you 'll need to send a new invitation to start things up again .   "
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.5454545454545454
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "e-way bill system -- a game changer by the government ."
+    ],
+    "id": "1161715.train",
+    "article": [
+        "every shipment in-transit requires a unique identification method . paper based delivery note along with vat system was the best way government could cross check shipment with its taxation documents and reduce tax evasion . however , entire process of collection of the delivery notes from the tax offices and declaring their utilization made the compliance check unconducive to the trade . moreover , every interstate shipment would need to have multiple entry/exit notes depending on the number of state borders to be crossed which added even more complexity to an already tedious process . even when these delivery notes were replaced by their online version and this regime switched to centralised goods and service tax , continued multiplicity of the forms was still cumbersome to the trade . ",
+        "introduction of a single e-way bill would be a master stroke for today and times to come . e-way bill conceptualized by the gst council has to be generated before the shipment starts its journey . this will establish direct correlation between what is declared and what is actually moved . on one hand , it will help movement of goods without hassle between consignor and consignee , on the other hand it will help tax officers establish whether the shipment is accurately accounted for . once inputs such as details of consignor , consignee , source , destination of delivery , invoice number , date , value of goods , hsn code along with transporter details and vehicle number are entered in the e-waybill system , it will throw an unique e-waybill number . ",
+        "post its launch on 1st february , 2018 , any shipment of value greater than 50,000 rupees , moving a distance greater than 10 km is required to generate and possess an e-way bill during its transit . the generation of the e-way bill is a very simple process . interestingly , gst council has decoupled the mandate between gst and e-way bill registration . a gst registered taxpayer can register online on the e-waybill system using his/her gstin and the associated mobile number . an unregistered gst user can also register using his/her basic information and mobile number . ",
+        "using these credentials , users can login and start creating e-way bills by entering consignor , consignee and the transporter information . this is a very simple data entry task , which sounds elaborate ! the e-way bill thus generated also helps in auto-fill up of gstr-1 forms saving both taxpayers as well as tax officials time . the system also provides tools to make product , clients and supplier masters in generating e-waybill , thereby reducing repetitive manual data entry work . businesses can integrate this system with their internal system by leveraging third parties to automate bill generation , this would avoid both time delays and manual errors . ",
+        "moving ahead , this unique number with rfid tagging of trucks can be a powerful tracking and inspection tool for its stakeholders . while this solution comes into play , there is a provision of recording and reporting any inspection of goods in-transit causing a halt of more than 30 mins , thus adding more transparency in the system . while this entire system is remarkable , its success will reside on the massive and quick adoption across businesses . upcoming technology players in logistics , will play a crucial role in enabling the ecosystem towards adoption as well as in leveraging this initiative to build a more progressive infrastructure of the ever so neglected transport industry . "
+    ]
+}

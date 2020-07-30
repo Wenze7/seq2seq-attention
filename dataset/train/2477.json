@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.8888888888888888
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "discovery sets new world standard in nano generators ."
+    ],
+    "id": "69959.train",
+    "article": [
+        "credit : ualberta engineering . a team of university of alberta engineers developed a new way to produce electrical power that can charge handheld devices or sensors that monitor anything from pipelines to medical implants . the discovery sets a new world standard in devices called triboelectric nanogenerators by producing a high-density dc current -- a vast improvement over low-quality ac currents produced by other research teams . jun liu , a phd student working under the supervision of chemical engineering professor thomas thundat , was conducting research unrelated to these tiny generators , using a device called an atomic force microscope . ",
+        "it provides images at the atomic level using a tiny cantilever to `` feel '' an object , the same way you might learn about an object by running a finger over it . liu forgot to press a button that would apply electricity to the sample -- but he still saw a current coming from the material . `` i did n't know why i was seeing a current , '' he recalled . one theory was that it was an anomaly or a technical problem , or interference . but liu wanted to get to the bottom of it . ",
+        "he eventually pinned the cause on the friction of the microscope 's probe on the material . it 's like shuffling across a carpet then touching someone and giving them a shock . it turns out that the mechanical energy of the microscope 's cantilever moving across a surface can generate a flow of electricity . but instead of releasing all the energy in one burst , the u of a team generated a steady current . `` many other researchers are trying to generate power at the prototype stages but their performances are limited by the current density they 're getting -- that is the problem we solved , '' said liu . ",
+        "`` this is big , '' said thundat . `` so far , what other teams have been able to do is to generate very high voltages , but not the current . what jun has discovered is a new way to get continuous flow of high current . '' the discovery means that nanoscale generators have the potential to harvest power for electrical devices based on nanoscale movement and vibration : an engine , traffic on a roadway -- even a heartbeat . it could lead to technology with applications in everything from sensors used to monitor the physical strength of structures such as bridges or pipelines , the performance of engines or wearable electronic devices . ",
+        "liu said the applications are limited only by imagination . the u of a findings appear in the latest edition of the journal nature nanotechnology .   "
+    ]
+}

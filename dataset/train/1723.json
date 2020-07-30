@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.8461538461538461
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "autonotification lets you mark gmail messages as read from your android notifications ."
+    ],
+    "id": "65352.train",
+    "article": [
+        "most of us end up getting a lot of email during the day . as it turns out , i see a lot of that email via the notification bar on my phone . i want to know what emails have come in , but not enough to go into the gmail app on the phone , and so browsing them in notifications is a quick and easy solution . when i see something in there i want to read or respond to , i launch the app . when you look at emails via the notifications tab the gmail app does n't acknowledge that you 've seen the message exists . ",
+        "that means that when i do launch the gmail app to see that one note i need to respond to i get bombarded with the 50 emails i 've already dismissed for the day and probably would have archived if i 'd launched the app to begin with . now there 's a solution for that ... sort of . autonotification is an app that intercepts the traditional notification and allows you to mark your gmail messages as read right from the notification bar without archiving them . that means you 'll still see them in your inbox the you eventually do launch it , but they 'll be `` read '' so your unread messages will stand out , android police reports . ",
+        "it 's not as good as being able to just toss those spammy messages in the trash right from your notification bar , but it 's still a pretty useful proposition . there 's a good chance you 've heard of autonotification before . we wrote about some of the service 's features last year . while service has been around for a bit , the gmail functionality is a recent addition . image : pexels .   "
+    ]
+}

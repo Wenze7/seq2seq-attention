@@ -1,0 +1,11 @@
+{
+    "id": "505.test",
+    "article": [
+        "robotic high five . on monday , researchers at openai , the nonprofit ai research company co-founded by elon musk , introduced dactyl , an ai system trained to control a robotic hand . according to the researchers , the system can manipulate physical objects in the hand with dexterity never before possible for task dactyl tackled might sound like something you 'd teach a toddler : take this six-sided block and move it around until a certain side is on top . unlike a toddler , though , dactyl needed more than a century 's worth of experience to learn how to expertly complete the task . ",
+        "but thanks to powerful computers , the researchers were able to pack all that experience into just 50 `` real-world '' makes perfect . the researchers trained dactyl in a simulated environment -- that is , a digital setting with a computer-generated hand -- using a technique called domain randomization . they built certain parameters into their simulated environment , such as the cube 's size or the angle of gravity , and then randomized those variables . they had multiple simulated hands doing this at once . by pushing dactyl to adapt to so many different virtual scenarios , the researchers prepared the ai 's ability to adapt to scenarios in the real 50 hours of training in the simulated environment , the ai could manipulate a real-world robotic hand to successfully complete its given task 50 times in a row . ",
+        "to figure out how to move the hand to complete the task , it simply needed to look at the block through a trio of algorithm to train them all . as the researchers note in their blog post , they trained dactyl using the same algorithm that they used for openai five , a team of five neural networks trained to play the computer strategy game dota 2 . dactyl 's success proves it 's possible to build a general-purpose algorithm that can teach ai to complete two very different tasks . this could make it much easier for researchers to train ai for lots of different purposes in the future , since they would n't need to start the process from more : learning dexterity . "
+    ],
+    "abstract": [
+        "THIS AI-OPERATED ROBOTIC HAND MOVES WITH UNPRECEDENTED DEXTERITY"
+    ]
+}

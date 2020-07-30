@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.375
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "free lightroom alternative darktable comes to windows ."
+    ],
+    "id": "1022762.train",
+    "article": [
+        "the open source raw image processor makes the leap from linux and macos . darktable -- a powerful open source raw image editor previously only available for linux and macos -- has arrived on windows . this is particularly good news if you 've been put off by adobe 's decision to move all its creative apps , including raw image processor adobe photoshop lightroom cc , to a cloud-first subscription service with users ' photos stored on the company 's web servers . darktable offers many of the same features as lightroom , and is designed for organizing images and processing raw files . ",
+        "all edits are non-destructive , so you can revert to the original file at any time , and gpu-acceleration means your images are processed quickly . it contains 61 modules for different tasks , including : tone color correction artistic effects new featuresdarktable for windows is a new addition , but the linux and macos versions have received updates too . darktable 2.4 includes a new module for haze removal , undo support for masks and more intelligent grouping of undo steps , support for fujifilm compressed raf files and much more . see the full release notes . download darktablethe best free photo editors for raster imageslightroom cc vs lightroom classic cc : 10 key differences . "
+    ]
+}

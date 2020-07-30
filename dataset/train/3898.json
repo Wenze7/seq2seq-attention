@@ -1,0 +1,21 @@
+{
+    "score": [
+        0.45454545454545453
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "how to protect your pc against the intel chip flaw ."
+    ],
+    "id": "638529.train",
+    "article": [
+        "a major security flaw has been discovered in many modern processors that could allow hackers to access data -- passwords , encryption keys and other information you want kept private -- stored in the protected kernel memory of your computer , phone or tablet . known by the names spectre and meltdown , the flaws affect chips from intel and arm . intel 's rival amd believes its chips are safe , saying in a statement , `` due to differences in amd 's architecture , we believe there is a near zero risk to amd processors at this time . ",
+        "`` click here for a broad overview of the fixes currently available for a variety of devices . considering the vast number of users with intel-based windows pcs and laptops , here 's a deeper dive on what you need to do to protect yourself . install the emergency windows patchmicrosoft has released a rare , out-of-band emergency patch for windows 10 users . it should pop up and ask you to restart your machine so it can be installed , but if you have yet to receive such a notification , then head to settings > update & security see if there are updates waiting on the windows update page . ",
+        "if you running windows 10 version 1709 , the patch you need is labeled security update for windows . for older versions of windows 10 , here are the patch numbers : windows 10 version 1703 : kb4056891windows 10 version 1607 : kb4056890windows 10 version 1511 : kb4056888windows 10 version 1507 : kb4056893manual install routeif you have yet to receive the patch via windows update , you can manually install it by going to this windows update catalog page . odds are you are running a 64-bit version of windows , so you 'll want to install the file for x64-based systems . ",
+        "for fall creators update , for example , it 's the bottom-most option labeled `` 2018-01 cumulative update for windows 10 version 1709 for x64-based systems . `` how can i be sure i 'm protected ? to check to see if you have installed the necessary patch , go to settings > update & security and click view installed update history . under quality updates , look to see that security update for windows was successfully installed . you can also check by going to settings > system > about and scrolling down to the windows specifications section . ",
+        "after installing the kb4056892 patch , the os build will read 16299.125 . av conflictsyour antivirus app might might be preventing you from receiving the patch from windows update . microsoft is running into a compatibility issue with some antivirus apps . i use mcafee and did n't receive the update via windows update and had to manually install the patch . microsoft suggests you follow up with your av vendor and states it 's doing what it can on its end to make sure everyone gets the security patch as soon as possible . you could always switch to windows defender until microsoft and mcafee and norton and the rest iron out the kinks . ",
+        "firmware updatebecause this is a hardware issue , it 's a good idea to check with your system 's vendor for a firmware update that can add another layer of protection in addition to updating windows . contact support for dell , hp , lenovo or the manufacturer of your pc or laptop . what else can i do ? there have been no known attacks using the meltdown or spectre vulnerabilities as of yet , but now that these flaws have been made public , the odds tick up that hackers will try to exploit them . after updating windows and checking for a firmware update , you should run a scan using your av app to check for any malicious software on your system . ",
+        "and keep your apps updated , most notably your browser , and , as always , beware of phishing emails that can give hackers access to your machine .   "
+    ]
+}

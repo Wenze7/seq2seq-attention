@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "efficiency-as-a-service ."
+    ],
+    "id": "102885.train",
+    "article": [
+        "this post is inspired by today 's excellent post by arjun sethi . in case you have n't checked it out already , drop whatever you 're doing and read thisthere are many many things that are interesting about this post , more important of which is how efficiency innovation , or optimization , which has generally been seen as the boring in-house department that focuses on cutting rather than producing , is an excellent utility-that-can-be-sold that provides enough of a lock-in allowing one to become a platform . what clayton christensen calls the least preferable kind of innovation , efficiency innovation has the potential to become the flagship product , and consequently the platform . ",
+        "aws was born out of amazon 's efforts to optimize infrastructure . slack was born out of tiny speck 's efforts to optimize communication . as alex danco and chamath palihapitiya have both pointed out , what is scarce is what is expensive , and once that scarcity is solved , abundance presents itself , and something else becomes expensive . time , is the ultimate scarcity . and most things that save time , and remove friction , to get from point a to point b , are worth the lubricating oil that is money . these time savings , however , do n't come out of thin air . ",
+        "companies that achieve scale , focus . and that focused investment allows one to optimize a particular process and then sell the optimization to customers . the only way that optimization was possible was focus . . as an example , while toyota makes money selling cars , it would have done much better back in the day if it instead sold just-in-time-as-a-service to manufacturers , which might help them achieve greater scale and lock-in than even their car business . entrepreneurial initiative is n't scarce anymore . companies that have reached scale are . and with increasing competition , there are only two options . ",
+        "either get involved in something nobody else wants to get involved in , or get a headstart and reach scale faster than the other company . this also ties in quite well to something alex and ben thompson mentioned , the internet will create an environment a lot more like rainforests , where there will be highly differentiated plants on the floor and a few giant trees , nothing in the middle . the only thing to be added to this is that the giant trees will in fact enable these plants to turn into trees , by providing whatever secret sauce helped them grow in an as-a-service fashion . ",
+        "efficiency innovation - > product - > platform - > channel .   "
+    ]
+}

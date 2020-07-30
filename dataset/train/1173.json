@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.7272727272727273
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "aurora flight sciences demonstrates a fully autonomous helicopter in action ."
+    ],
+    "id": "127933.train",
+    "article": [
+        "aurora flight sciences is a company working on making full-scale autonomous combat craft a reality , and now some of its work is ready for prime time . the company showed off an autonomous helicopter created to demonstrate its autonomous aerial cargo utility system contribution for the office of naval research 's ongoing work in the field , and it successfully navigated a uh-1h helicopter from start to finish through a mission in which it 's loaded up by marines and then navigates through the air to another who makes the request for supplies on a tablet - kind of like ordering an uber . ",
+        "the autonomous piloting system is deigned to be aircraft-agnostic , meaning it 'll work with vehicles other than the uh-1h light transport helicopter used here . the aircraft is equipped with additional hardware and software including lidar and camera sensors for obstacle avoidance and route-planning , but is otherwise a stock version of the vehicle . this demo from aurora marks the end of its aacus program contributions , and work on the systems will now be handed over to the marine corps for additional experiments and potential implementation , the company notes .   "
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.4
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google will consider load times in mobile search rankings ."
+    ],
+    "id": "1037098.train",
+    "article": [
+        "google is always optimizing search , but has given mobile more prominence lately , including axing its long-running instant search feature last july to unify searching on desktop and device . their latest tweak , which goes into effect july 2018 , aims to improve the mobile browsing experience by factoring in a page 's loading speed to its search rank , promising to lower slow sites . the so-called ` speed update ' will only affect pages that ` deliver the slowest experience to users and will only affect a small percentage of queries , ' according to google 's blog . ",
+        "while the search team was coy with exactly how this new factor will affect rankings , it did encourage developers to gauge their site 's performance using the chrome user experience report , the automated tool lighthouse and pagespeed insights . the update applies the same standard to all pages regardless of what tech it 's built with . and if it 's any consolation , relevance is still king : `` the intent of the search query is still a very strong signal , so a slow page may still rank highly if it has great , relevant content , ' according to google 's post . "
+    ]
+}

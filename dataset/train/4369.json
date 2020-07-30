@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6923076923076923
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "it 's simpler to track your xiaomi device 's repair status now ."
+    ],
+    "id": "454502.train",
+    "article": [
+        "xiaomi 's new service allows users to keep a track of their service requests through their website . chinese smartphone maker xiaomi has introduced a new endeavour in india , dubbed the mi service order status . it allows you to track your device 's repair status . this new service will allow you to know the repair status of your xiaomi smartphone or other devices by simply visiting the company 's website . the new service was announced by manu kumar jain , managing director , xiaomi india on twitter . earlier , customers had to call the service centre and spend a considerable amount of time with the ivr . ",
+        "now , users can simply visit mi . com/in and track their device 's repair status in real time . track repair status onlineto track your device 's repair status online , you need to click here and follow the steps mentioned below : · first , enter the contact / order / service / imei no . or sn number · then , click on confirm and you will receive an otp on your registered number · enter the otp and click on submit · after clicking on submit , you will receive your device 's repair status . ",
+        "xiaomi has listed some of the common service terms that will be used by the company on its website : · under inspection - your device is being checked · work in progress - your device is getting repaired · ready for delivery - your device is repaired and is ready to be delivered · delivered - you have accepted the delivery of your device · cancelled - your service order is cancelledyour order status will also include the service centre number , service type , order status , order received date , imei/sn , service order number and order delivered date ."
+    ]
+}

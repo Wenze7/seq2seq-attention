@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.75
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "japan forecasting breakthrough could improve weather warnings ."
+    ],
+    "id": "1022113.train",
+    "article": [
+        "noaa/afp/file / handout data from the japanese satellite could help improve forecasting during extreme weathera new project harnessing data from a japanese satellite could improve weather forecasting and allow officials to issue life-saving warnings before natural disasters , researchers say . the project is the first time that `` infrared radiation luminance data '' has been used to model weather patterns in areas under heavy cloud cover that would usually stymie such modelling . the breakthrough is the result of pairing data collected by japan 's himawari-8 weather satellite with a programme run on a supercomputer at the country 's riken science institute . ",
+        "`` himawari-8 is sending kinds of big data that were not available before , '' said takemasa miyoshi , the team 's leader at riken . `` we are now able to build a system that uses those data to improve the way we predict weather . `` the modelling system allows meteorologists to gauge the height of the top of clouds , vital information for estimating other factors including wind , temperature , and the volume of moisture in the atmosphere . the team , whose research is being published in the monthly weather review and the journal of geophysical research -- atmospheres , said the programme could help improve forecasting during extreme weather . ",
+        "during events such as hurricanes and typhoons , the ground-based and airborne monitors traditionally used by forecasters can become unreliable or inaccessible . but the system developed by the riken researchers would continue to function because it uses data captured from space . the himawari-8 transmits new data at 10 minute intervals , helping provide an up-to-date picture that could give local officials a head start in issuing evacuation warnings . `` the strength of this system is it gives you accurate weather predictions when natural disasters may happen , and it is updated constantly , '' said miyoshi . ",
+        "`` for those who are vulnerable to natural disasters , like the elderly and people with disabilities , you want to give them enough time if they have to evacuate their home . `` japan 's weather agency has given the system a cautious embrace , saying it needed more tests to prove its long-term accuracy and potential weaknesses before being put to use . the riken team have acknowledged that they can not yet quantify how much better their system is compared to traditional forecasting methods . other research teams have also developed promising technology , according the weather agency . ",
+        "`` the meteorological agency is conducting its own research and we are also reviewing what many other research teams are doing , '' said weather agency scientist kozo okamoto , who participated in the riken research project . `` it takes a long time to verify whether a new technology can be put to real use , '' he told afp .   "
+    ]
+}

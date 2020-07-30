@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.8571428571428571
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "stressed-out worms hit the snooze button ."
+    ],
+    "id": "178742.train",
+    "article": [
+        "stressed-out worms hit the snooze buttondecember 15 , 2017credit : genetics society of americawhen you catch a nasty cold , curling up in bed to sleep may be the only activity you can manage . sleeping in response to stress is n't a uniquely human behavior : many other animals have the same reaction , and it 's not clear why . while the circadian sleep that follows the pattern of the clock has been studied extensively , sleep that 's triggered by stress is far less understood . in the october issue of genetics , debardeleben et al. . ",
+        "describe their investigation of stress-induced sleep in the nematode worm caenorhabditis elegans , using ultraviolet c radiation to induce stress . the researchers found that after uvc exposure , the worms initially wriggled more , but then their movements slowed as if they were dozing off . to make sure the worms were truly asleep and not just resting quietly , debardeleben et al. . exposed the worms to octanol vapor , which causes wakeful worms to immediately recoil because they find the chemical noxious . the uvc-treated worms took a moment to move away -- a clue they were truly sleeping . ",
+        "the researchers also made sure the uvc-exposed worms were n't just taking longer to react because they were injured by the light treatment . they tried waking a few of them by prodding them gently with a wire , and the worms that were poked reacted much more quickly to the foul octanol than those left undisturbed . after the researchers established that uvc exposure caused stress-induced sleep in c. elegans , they investigated the genetic basis of the phenomenon . since uv radiation damages dna , they hypothesized that proteins involved in the response to dna damage might be connected to the worms ' drowsiness . ",
+        "they found that mutating the gene for one of these proteins , cep-1 , reduced how sleepy the worms got after uvc irradiation . cep-1 's mammalian homolog is p53 , a protein so critical in the response to dna damage that it 's often called the guardian of the genome . many mammals also respond to radiation with sleepiness ; for example , radiation therapy for human cancers and some other diseases is associated with intense lethargy . the reason for the urge to sleep is n't known for certain , but some research suggests it may actually be protective . ",
+        "rabbits that sleep after an infection , for example , are more likely to survive than their wakeful counterparts . debardeleben et al. . suggest sleeping after stressful events helps the organism funnel more resources into cellular repair . still , the restorative properties of sleep -- stress-induced or otherwise -- remain to be fully understood . more information : hilary debardeleben et al. . stress-induced sleep after exposure to ultraviolet light is promoted by p53 in caenorhabditis elegans , genetics . doi : 10.1534 / genetics . 117.300070 provided by genetics society of americathis story is republished courtesy and copyrighted by medical xpress , a popular site that covers news about medical research . ",
+        "read the original article .   "
+    ]
+}

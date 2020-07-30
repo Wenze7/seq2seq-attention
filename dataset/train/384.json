@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.3333333333333333
+    ],
+    "extracted": [
+        3
+    ],
+    "abstract": [
+        "pong paddles and perception : our actions influence what we see ."
+    ],
+    "id": "594167.train",
+    "article": [
+        "most people think of vision as simply a function of information the eye gathers - what the eye alone sees . for colorado state university cognitive psychology researcher jessica witt , vision is a little more complicated than that . for nearly a decade , the associate professor of psychology has published numerous studies showing that vision can change as a function of action - that vision is action-specific , as opposed to general purpose . among witt 's best-known experiments : when baseball players are hitting better , they see the ball as bigger . when someone lacks fitness or is carrying a heavy backpack , they see a hill as steeper . ",
+        "witt 's approach to visual perception has been called radical . it 's garnered her accolades among her peers , as well as critics . responding to some of her harshest critics , witt has a new paper in psychological science that faces head-on the notion that her experimental subjects have been victims of a psychological phenomenon called response bias . she employed a classic , action-specific experiment involving a video game familiar to children of the 80s : pong . response bias happens when subjects guess or infer the purpose of an experiment , so they adjust their behaviors or answers - - consciously or subconsciously . ",
+        "for example , a psychology 101 student , familiar with how scientists run experiments , might volunteer as a study subject in which they are asked to wear a backpack , and guess the incline of a hill . they might infer , `` i bet the hypothesis is that the backpack will affect how i see the slant of the hill , '' so they might say the slant is 25 degrees , rather than 20 . critics have told witt that response bias may be the fatal flaw in her previous conclusions about action-specific perceptions . so witt ran an old experiment with a new twist . ",
+        "in a game very much like pong , a ball bounces across a screen , and participants use a joystick to block the ball with a paddle of varying sizes , making the task easier or harder . after each attempt , participants estimate the speed of the ball . in visual perception-speak , the `` pong effect '' is when the ball appears faster when the paddle is smaller , even though the speed remains unchanged . the pong effect supports witt 's hypotheses about actions influencing vision . for the psychological science paper , witt added post-experiment surveys to gather data on whether participants guessed the experiments ' purpose , and whether their inferences affected how they saw the ball . ",
+        "two 16-subject experiments garnered varying responses . few guessed the nature of the experiment . but , critically , the pong effect showed up regardless of the participants ' level of insight into the experiments ' true purpose . between those who guessed the experiments ' purpose , and those who did n't , `` there was no systematic difference between those two groups , '' witt said . `` the pong effect still emerged -- just as strong as in previous studies . '' witt added that if the demonstrated pong effects generalize to other action-specific effects , knowing that perception is influenced by action wo n't protect against the effects . ",
+        "in other words , if a hill looks steeper because someone is tired or carrying a heavy load , knowing that wo n't change the effect . witt stressed that action can affect perception , but it does n't always . she 'd like to conduct more experiments to define boundaries of when the action-specific perception occurs , and why . `` perception is a fundamental process of the mind , '' witt said . `` we are getting at core scientific knowledge of how the mind and the brain work . '' the paper was co-authored by psychology graduate students nathan tenhundfeld and michael tymoski . "
+    ]
+}

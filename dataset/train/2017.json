@@ -1,0 +1,16 @@
+{
+    "score": [
+        1.0
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "the `` deep neural networks '' lesson ."
+    ],
+    "id": "34630.train",
+    "article": [
+        "lesson 7 of the udacity self-driving car engineer nanodegree program is `` deep neural networks '' i am continuing on my quest to write a post detailing every one of the 67 projects that currently comprise our self-driving car engineer nanodegree program curriculum , and today , we look at the `` deep neural networks '' lesson ! students actually start learning about deep neural networks prior to this lesson , but this is the lesson where students begin to implement deep neural networks in tensorflow , google 's deep learning framework . in the previous lesson , `` introduction to tensorflow , '' students learned to use tensorflow to build linear models , like linear or logistic regression . ",
+        "in the `` deep neural networks '' lesson , students learn new techniques in tensorflow , to build up these models into neural networks . some of the most important foundational blocks of neural networks are demonstrated in tensorflow . activation functions help neural networks represent non-linear modelsbackpropagation trains neural networks from real data quickly and efficientlydropout removes neurons randomly during training to prevent overfitting the training data , which makes the model more accurate on new datastudents also learn some practical skills , like how to save and restore models in tensorflow . future lessons take these basic skills and help students apply them to important problems for autonomous vehicles , like how to recognize traffic signs . "
+    ]
+}

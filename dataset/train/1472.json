@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        3
+    ],
+    "abstract": [
+        "this is how sprint is planning on improving its cell service next year ."
+    ],
+    "id": "906464.train",
+    "article": [
+        "it 's no secret that sprint 's network is the worst of the big four carriers right now . despite recent improvements to service , especially speeds in urban areas , sprint 's service and speed still lag behind the competition nationally in every study . but sprint is also uniquely positioned to make things better . the company has an enviable stash of unused spectrum , which makes building out its network simply a matter of cash -- cash that the company increasingly has access to , thanks to investment from japanese parent company softbank . do n't miss : the nest thermostat pays for itself even faster now that it 's discounted on amazonat a wall street investor event reported by fierce wireless , sprint cto john saw outlined some of the steps that the company is taking in the near future to improve capacity and coverage . ",
+        "saw said that the company `` plans to add 2.5 ghz and 800 mhz antennas to virtually all of its existing cell sites and will also add new cell sites to its network to grow its coverage footprint . '' the 2.5 ghz spectrum , which carries the bulk of sprint 's traffic currently , is mid-band spectrum that has good capacity , but is n't the best at travelling long distances or penetrating buildings . that lowband 800 mhz spectrum is much better when it comes to coverage , and should help patch up some of the black spots in sprint 's coverage . ",
+        "sprint has also been a leader in massive mimo technology , which uses arrays of dozens of antennas to make the most of limited spectrum holdings . massive mimo is going to be a big part of 5g when it launches , but sprint is aiming to use it to enhance lte before a wider 5g rollout . `` because we have so much spectrum at 2.5 , i can allocate half of my spectrum to lte advanced and other half for 5g . ... and i can run 5g nr and lte simultaneously on the same massive mimo site , without climbing the tower again in 2019 . ",
+        "so i can simultaneously support both over this massive mimo radio . so as we build massive mimo this year , we 're really starting to build a 5g network that also supports lte advanced . so it kills two birds with one stone , '' saw told the conference . he also outlined how sprint plans on using non-conventional methods to improve its coverage , mostly through customer-installed relay stations and small cells . sprint 's `` magic box '' is a tiny cell tower that uses empty sprint spectrum to connect to a nearby tower , and then broadcast to cellphones over regular cell frequencies . ",
+        "sprint started giving them to customers to install in their homes last year , but saw confirmed that the company plans to have `` hundreds of thousands '' of devices in action eventually . small cells -- tiny access points that are erected in places like shopping malls and train stations , rather than on giant cell towers -- are also a focus for sprint moving forwards . thanks to a partnership with altice , a cable company , sprint has improved the back-end network it can use to hook up small cells to its network , which should help it roll out small cells at the same speed as giants like verizon and at&t . "
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.625
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "how can you protect yourself from hackers ?"
+    ],
+    "id": "805406.train",
+    "article": [
+        "being smart about password managers , phishing scams and two-factor authentication can help protect you from cyberharm . vocabulary : phishing , two-factor authentication , login credentialsliving in a digital , connected world comes with risks . there are certain vulnerabilities that are difficult to protect yourself against -- like the recent equifax security breach that exposed millions of social security numbers . but there are ways to build up your personal digital security when it comes to your devices and how you decide to share your information . engineer micah lee and jason koebler of motherboard help us sort through encrypted messaging , password managers , and vpns to increase your cybersecurity safety and iq . ",
+        "print this segment transcript . questions for studentswhy is the `` spectre '' -- aka `` meltdown '' -- vulnerability such a big deal ? who does it affect ? how can the spectre vulnerability be corrected ? why is it going to be harder to fix atms than iphones ? cite evidence in the transcript to support your response . why is it a good idea to create many different passwords instead of using one password for all of your different logins ? koebler recommends using a password manager to help you keep track of multiple passwords . but how could a password manager make you more vulnerable to hackers ? ",
+        "when might a password manager be a major inconvenience ? describe the pros and cons of using two-factor authentication . what hardware or software does someone need in order to use two-factor authentication ? how does a phishing attack usually happen ? what would a phishing attack look like for a website that you use , and how would you know to avoid it ? activity suggestionshave students research a data breach at a major company and then draft a security recommendation that , if followed before the breach , would have prevented the it from occurring . in their research , students should determine what type of private information was shared , the number of people affected , and how hackers or individuals were able to access that data . ",
+        "this data breach infographic provides a helpful starting point . for fully interactive graphics by year , industry , and region alongside biannual reports , try the breach level index . challenge students to craft their own phishing message that they think would work on one or more of their peers . students can research common phishing practices for ideas about the language used to coerce people into providing their login information . students should be able to justify why they think their message would be successful at getting the reader to provide login credentials to a phony website . ",
+        "additional resourcesif all this internet safety stuff is overwhelming , check out common sense media 's digital citizenship curriculum , a free resource for learning how to participate in online communities safely , sorted by grade level .   "
+    ]
+}

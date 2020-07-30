@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.625
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "designing the interface for terrain modeling tools ."
+    ],
+    "id": "553569.train",
+    "article": [
+        "dax pandhi has a very interesting page on behance , where he shares some of the mockups of gaea 's interface . terrain modeling is fun , but it can be a little bit tricky if you 're new to it . thank god , there are actually people , who want to make this process a little easier for users . if you 're interested in how the interface for such a tool could look , go check out some of the amazing mockups , shared by dax pandhi . dax is a founder of quadspinner and creator of gaea -- a new terrain production tool , formerly known as the tor platform . ",
+        "here is an initial look at the redesigned interface for quadspinner gaea -- formerly codenamed the tor platform -- a standalone terrain dcc platform , unlike anything you 've seen before . we took a long , hard look at how interfaces have become unnecessarily complicated , and decided we wanted our application to not just create art , but be made of art itself . ui design and real ux-oriented features are very dear to me , and i want gaea to be a joy to work in . beyond being just `` pretty '' , i consider our ui and ux to be a manifestation of our respect for both the software itself and our users . ",
+        "sophisticated results should not require a complicated approach . this has been our core principle since the inception of gaea . we 've done our best to implement that principle in the behavior and operation of the application , and we 're pleased to have implemented it in the interface . some things are intentionally not included in these shots as they 're still in flux . but we 've put in a lot of effort to make the interface context-sensitive -- meaning , it will adapt itself as you work on different tasks . all the interface colors are completely editable , and will ship with multiple options for light , dark , and other options to cater to every situation , need , and preference . ",
+        "dax pandhi a new website for gaea is currently in the works , but meanwhile , you can check out some interesting facts about the product on 80 . lv . © kikundra for 80lvl , 2018 . | permalink | no comment | add todel . icio . us .   "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.36363636363636365
+    ],
+    "extracted": [
+        2
+    ],
+    "abstract": [
+        "400 gbps ethernet specification arrives enabling insanely fast file transfers ."
+    ],
+    "id": "671412.train",
+    "article": [
+        "even goose and maverick would have to be impressed with the newly approved ieee 802.3 bs standard . the specification lays out the requirements to enable blazing fast connectivity to the tune of 200 gbps and 400 gbps across various interconnects . to put that into perspective , it takes tuan around 6 minutes to download the entirety of grand theft auto v on his insane setup that required tearing up the road in front of his house . on a 400 gbps connection , gta v could be transferred to another pc in less than 2 seconds . that 's close to instant . ",
+        "`` ieee 802.3 bs represents a transformational moment in the move to next generation of networks . the delivery of 200g and 400g is arriving just in time to meet growing needs for reliable , high-speed connectivity from a diverse array of applications and markets , '' said john d'ambrosia , chairman , ethernet alliance ; and senior principal engineer , huawei . `` the exceptional effort resulting in the completion of this standard is only the start of the industry 's investment in the networks of tomorrow . `` equally important to the blistering fast speed that ieee 802.3 bs enables is interoperability among different devices . ",
+        "after all , what good is harnessing all that speed if devices ca n't properly communicate with each other , resulting in incompatibility or lost packets ? that is a big part of having an official standard , which the ethernet alliance demonstrated last summer . check it out : 200g and 400g is intended for business , not home users , so you 're not going to be flinging games and other big file transfers at breakneck speeds anytime soon . these speeds are also impossible over cat 5 or cat 6 -- ieee 802.3 bs requires optical connections . ",
+        "still , it 's interesting to see such a leap in performance , and we can dream of the day when this type of performance trickles down into the consumer space .   "
+    ]
+}

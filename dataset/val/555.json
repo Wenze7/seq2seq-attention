@@ -1,0 +1,19 @@
+{
+    "id": "179.val",
+    "article": [
+        "amazon may want to go back to the drawing board for this one . a facial recognition tool the retail giant currently offers developers made quite the mistake in a test conducted by the american civil liberties union . rather than identifying 28 members of congress as members of the country 's legislative branch , the tool instead classified these individuals as police suspects . to make matters worse , a disproportionate number of african american and latino congress members were incorrectly identified , raising questions of how far racial profiling has embedded itself even in our machine learning representative john lewis , d-georgia , and representative bobby rush , d-illinois , are well-known civil rights leaders and members of the congressional black caucus , but rather than being recognized as elected representatives , these two men , were falsely flagged as criminals . ",
+        "these mistakes occurred when the aclu took amazon 's software to analyze images of all members of congress against a database of 25,000 publicly accessible mugshots . this resulted in the 28 congress members being incorrectly identified as lawbreakers , which represents a five percent error rate . `` this test confirms that facial recognition is flawed , biased and dangerous , '' jacob snow , a technology and civil liberties lawyer with the aclu of northern california , told the new york response to the test , nina lindsey , an amazon web services spokeswoman , said that the aclu used the face matching tool differently from amazon 's recommendations . ",
+        "`` it is worth noting that in real-world scenarios , amazon rekognition is almost exclusively used to help narrow the field and allow humans to expeditiously review and consider options using their judgment , '' lindsey said in a further pointed out that the aclu kept the tool 's `` confidence threshold '' at the default of 80 percent . this means that the group took into account any face matched as 80 percent similar to the police database -- however , it 's worth pointing out that amazon uses the same threshold in an example on its website , showing how employees ' faces can be matched with their id badges . ",
+        "however , lindsey said that in the case of police departments , amazon recommends that a threshold of 95 percent similarity be implemented to avoid these sorts of has previously come under fire for selling rekognition . in may , 24 civil liberties groups , led by the aclu , penned a letter to amazon 's ceo jeff bezos requesting that the software cease being sold to law enforcement agencies . the groups expressed concerns that the software could be used to surveil protestors , immigrants , or general members of the public , rather than just police suspects . ",
+        "amazon employees , investors , and academics have since made similar demands of the time being , however , that does n't seem to be in the cards for the web giant . as amazon 's spokesperson said , `` we remain excited about how image and video analysis can be a driver for good in the world . '' "
+    ],
+    "abstract": [
+        "amazon 's facial id incorrectly identifies congress members as criminals"
+    ],
+    "extracted": [
+        0
+    ],
+    "score": [
+        0.6
+    ]
+}

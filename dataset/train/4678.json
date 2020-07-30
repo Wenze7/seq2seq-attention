@@ -1,0 +1,22 @@
+{
+    "score": [
+        0.8333333333333334
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "throwing up a landing page ."
+    ],
+    "id": "8940.train",
+    "article": [
+        "one of the first experiments we will run for the zero to grow app will be to determine whether or not there is an actual demand for the product we are intending to build . are we solving a problem ? is this something people want ? or , better , need ? are they willing to pay for it ? whilst listening to justin jackson on the excellent full stack radio podcast a few weeks back , i took away a gem . he said `` if you ca n't get 500 people to sign up , it 's probably not worth pursuing . '' ",
+        "alex and i both thought this was a great way of validating our idea , so we decided to put up a marketing page with the sole intention of gauging interest . we would not even contemplate shipping anything until we hit that critical mass of 500 email addresses . what did we want the landing page to do ? the goal of the page is to collect email addresses . simple . it will be a page that we can direct people to from our social media accounts , blog , medium publication , wherever . it will highlight some of the core features for those who may want to know more and explain to them how them how we are going to take the pain out of their growth experiments . ",
+        "hopefully this will get folks excited and we 'll very subtly draw their eye to the nice big email input ! how did we do it ? as you read more from us , you will quickly realise that our approach is to get something shipped and iterate . do n't make something perfect , just hack on it until it 's in a functional state and improve based on tests and feedback . so that 's exactly what we did . what did we do ? around this time , the first alpha release of a new css framework was released , tailwind css . ",
+        "this is a utility-first framework -- something i have been hearing more and more about , but had yet to get my teeth into . this felt like the perfect opportunity . adam wathan does a great job explaining utility-first css , but here is my ultra-simple tl ; dr of how i like to think of it . utility-first css exposes a set of classes that help you to quickly style elements in a consistent fashion . i have to admit , i was dubious at first , but wanted to see what all the fuss was about . ",
+        "so i merrily installed the framework and got started . then it happened ... rarely do i try something and within minutes have that lightbulb moment . this was one of those occasions . i 'm no designer , which is why i love using frameworks such as bootstrap or butchering an off-the-shelf theme because i can get something up and running really quickly that looks decent . what surprised me with tailwind was that i was still very quickly able to build great looking elements and components , but with the added bonus of not looking like everything else `` on the line '' . ",
+        "the only thing that slightly irked me was that my html started to quickly become quite bloated : this is pretty uglyhowever , the folks at tailwind have built in tools to mitigate this problem by allowing you to very quickly extract this ` noise ' into your own classes . here is an example of how to do that for the input above . this does all the leg work to combine stylesnow the next time your build runs , the @apply directive will combine all of the styles related to the classes provided into a single class . ",
+        "rendering your nicely styled input is now as simple as : this is much prettierat this point , i 'm completely , 100 % sold on this approach and will definitely use it to build the app 's ui . i 'd go as far as to say i 'm looking forward to it which i can assure you is not something i normally say about frontend dev ! alex drafted the copy and i built the first iteration of the page . we then merged the two and pushed go . you can see the fruits of our labour at zero to grow . ",
+        "make our day -- go add your email address and help us validate our idea !   "
+    ]
+}

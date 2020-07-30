@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8181818181818182
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "microsoft removes google 's chrome installer from the windows store ."
+    ],
+    "id": "288058.train",
+    "article": [
+        "google published a chrome app in the windows store earlier today , which just directed users to a download link to install the browser . microsoft is n't impressed with google 's obvious snub of the windows store , and it 's taking action . `` we have removed the google chrome installer app from microsoft store , as it violates our microsoft store policies , '' says a microsoft spokesperson in a statement to the verge . citing the need to ensure apps `` provide unique and distinct value , '' microsoft says `` we welcome google to build a microsoft store browser app compliant with our microsoft store policies . '' ",
+        "that 's an invitation that google is unlikely to accept . there are many reasons google wo n't likely bring chrome to the windows store , but the primary reason is probably related to microsoft 's windows 10 s restrictions . windows store apps that browse the web must use html and javascript engines provided by windows 10 , and google 's chrome browser uses its own blink rendering engine . google would have to create a special chrome app that would adhere to microsoft 's store policies . most windows 10 machines do n't run windows 10 s , so google probably wo n't create a special version just to get its browser listed in the windows store . ",
+        "google ca n't just package its existing desktop app into a centennial windows store app , either . microsoft is explicit about any store apps having to use the edge rendering engine . the verge understands google created this installer app to combat the fake chrome apps that can be found in the windows store , a problem microsoft has been trying to address for years . google 's workaround has now been removed from the windows store , so windows 10 users will have to continue using microsoft edge to access the download site for chrome if they want to access google 's browser . ",
+        "this is n't the first time microsoft and google have battled over browsers or platforms . both companies fought over a youtube app for windows phone , microsoft targeted google with `` scroogled '' commercials , and microsoft has also criticized chrome 's battery usage . we 've reached out to google to see if this is a battle that will continue , but the company is not commenting on the removal . update 4pm et : article updated to note google is not commenting on microsoft 's app removal .   "
+    ]
+}

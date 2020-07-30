@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8571428571428571
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google is launching 3 new experimental apps on both android and the iphone ."
+    ],
+    "id": "81495.train",
+    "article": [
+        "google is launching a new research project to develop so-called `` appsperiments . `` appsperiments are new apps that use some of google 's experimental technologies . the company is releasing three new apps today , on both android and apple 's ios . google is launching three new experimental apps , named storyboard , selfissimo ! , and scrubbies , on ios and android . the first will come just to android , while scrubbies is an ios exclusive ; selfissimo ! , on the other hand , will be released on both platforms . the three apps are parts of a first round of products inside the google 's new , so-called `` appsperiment '' program . ",
+        "more apps will come , but the current lineup focuses on photography . the apps are all built on experimental technologies -- a bit like motion still , the ios app that transforms apple 's live photos into universally shareable gifs . '' rely on object recognition , person segmentation , stylization algorithms , efficient image encoding and decoding technologies , and perhaps most importantly , fun ! '' reads google 's blog post . nullstoryboard is a nifty app that asks users to upload a video , and then automatically extrapolates six frames out of the clip from which it creates a comic-book like panel . ",
+        "there are six visual styles , google says , and up to 1.6 trillion different combinations for its algorithms to churn out . scrubbies , ios ' exclusive apps , lets you use your fingers to scroll through a video 's timeline , dj style , and record the movement to create a video loop that emphasises movement and action . discover & share this animated gif with everyone you know . giphy is how you search , share , discover , and create gifs . the weirdly named selfissimo ! will make its way to the iphone and android phones , and is the simplest app out of this first appsperiments ' wave . ",
+        "a simple tap on the screen will make your phone start recording , and ask you to strike a few different poses . the end result is a lot like a photobooth 's , with google 's app snapping a shot every time you move and giving you back black and white pictures to save and share on social media or elsewhere .   "
+    ]
+}

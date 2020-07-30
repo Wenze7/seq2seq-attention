@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.6153846153846154
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple apologizes for slowing iphones , offers big discount to replace batteries ."
+    ],
+    "id": "494208.train",
+    "article": [
+        "apple originally started the practice to keep iphone 6 units from shutting down , but never revealed the process . apple today released a letter explaining that it 's very , very sorry for that whole bit about forcing older iphones to slow down in order to preserve their batteries . as a way of attempting to make up for what it calls the `` misunderstanding , '' the company is now letting anyone who has an iphone 6 or later iphone to come in and replace their batteries for just $ 29 , which represents an impressive discount over the $ 80 apple usually charges . ",
+        "the company also states that the batteries are `` consumable components , '' and that wording will likely lead to renewed criticisms that apple should allow us to replace our batteries ourselves . unfortunately , the offer is only in place through from january through december of 2018 , but apple also claims that it will also introduce new elements to a future ios 11 update that give a little more information about your battery 's health . as part of that effort , apple also introduced a lengthy new support document covering `` iphone battery and performance . '' ",
+        "power failuremany iphone owners have believed that apple has been intentionally slowing down their devices or years , usually with the assumption that apple was trying to get people to keep buying newer phones than the ones they had . the truth , according to apple 's letter , is that it 's a little more complex than that . as the newer iphones since the iphone 6 age , their batteries do n't remain strong enough to properly power the processor , and so apple slows them down a bit so as to keep the processors functional . as we mentioned in our previous coverage , apple already essentially announced that it was doing this with the release of ios 10.2.1 , which was meant to stop some iphone 6 units from unexpectedly shutting down . ",
+        "all that the patch notes said at the time , though , was that 10.2.1 `` improves power management during peak workloads to avoid unexpected shutdowns on iphone . '' and that improvement worked , and it worked quickly . unfortunately , the true nature of that fix was n't revealed by apple itself ; instead , it came from independent researchers such as geekbench 's john poole who showed how apple was significantly throttling the iphone 6 and other phones , leading to accusations of betrayal of trust , lawsuits , and general anger . hopefully cheaper battery replacements turn out to be a big step in restoring that trust , but considering that there was already a cynical belief that apple was mishandling its customers in place , the aftershocks might be felt for a while yet . ",
+        "check out our list of the year 's best power banks .   "
+    ]
+}

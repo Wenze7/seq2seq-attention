@@ -1,0 +1,18 @@
+{
+    "id": "368.val",
+    "article": [
+        "if you live in salem , new hampshire and reserve groceries online from walmart , there 's a good chance a robot will soon lend your personal shopper a helping hand . the world 's largest retailer today unveiled a partnership with massachusetts-based retail automation company alert innovation that 'll see the latter 's alphabot technology deployed in a 20,000-square-foot extension connected to the salem superstore by alphabot system -- which was developed especially for walmart , the company said -- consists of automated carts that retrieve items from storage containers and deliver them to store clerks , who assemble orders and prep them for in-store pickup or delivery . ",
+        "walmart said that the `` majority '' of shelf-stable , refrigerated , and frozen foods will be transported this way , the exceptions being produce and `` other fresh items . '' about 95 percent of orders will be picked up in less than eight minutes , walmart told yahoo tech . `` with the aid of alphabot , our associates will have more time to focus on service and selling , the two things they often tell us are the most enjoyable part of the job , while the technology handles the more mundane , repeatable tasks , '' walmart wrote . ",
+        "`` although this is a small pilot , we expect big things from it . '' the announcement comes as online grocery sales hit historic highs . they 're projected to capture 20 percent of the $ 641 billion grocery market by 2025 , according to a study by the food marketing institute conducted by nielsen . already , about 20 percent of shoppers purchase groceries online , and as many as 9 percent purchase them more than once a offers online grocery delivery in 1,800 stores , with plans to expand to 2,000 by the end of this innovation is n't the only startup tapping robotics to tackle the logistical challenges of brick and mortar . ",
+        "supermarket chain ocado -- one of the world 's largest online-only grocery retailers -- has engineered a packing system that uses computer vision to transfer goods . and bossa nova develops robots that autonomously navigate stores and take stock of what 's on shelves . "
+    ],
+    "abstract": [
+        "walmart is testing grocery delivery robots"
+    ],
+    "extracted": [
+        2
+    ],
+    "score": [
+        0.5
+    ]
+}

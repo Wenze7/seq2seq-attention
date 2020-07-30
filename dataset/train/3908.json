@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.7857142857142857
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "check this out : developer uses iphone x to make his face invisible ."
+    ],
+    "id": "495108.train",
+    "article": [
+        "even though the truedepth camera system on iphone x is primarily used for face id , there have been plenty of other uses for apple 's advanced facial recognition system . for one , there 's the immensely wacky animoji , which tracks the user 's facial movements and superimposes them into animal faces , turning the iphone x into an instant pixar animation machine . people have also taken advantage of this to create animoji karaoke . yep , that 's exactly what it sounds like . there 's never quite anything like this , ever : a japanese developer just used to iphone x to make his face invisible . ",
+        "the results are unsettling and amazing in equal measure . with the help of unity , vird game developer kazuya noshiro was able to completely erase his face , save for his mouth and eyes , as shown in a short clip he shared on twitter . he calls the little trick `` optical camouflage . '' `` if you want to make your face transparent , we 're recruiting , '' he said . iphone x invisible face tricknoshiro did n't exactly explain how he was able to pull off the trick , despite his followers asking how he did it . ",
+        "one person assumed he fixed the camera to pre-record footage of the background , and noshiro told them `` that 's correct . '' in other words , the developer most likely recorded the background first , masked using iphone x wizardry , and inserted the prerecorded background in the final composition . voilà ! invisible face . what could it be used for ? there 's no word on possible implementations of this neat little invisibility trick , nor is there any confirmation whether it 'll appear in an app going forward . it 's possible , though , that this could be included as a demo when apple showcases more augmented reality features down the line , but apart from its `` wow '' effect , it 's not certain how useful it would be once the novelty wears off . ",
+        "if anything , the trick showcases how accurate the iphone x 's facial recognition technology truly is . that it could pinpoint exactly the shape of the developer 's face and map out the eyes and the mouth is pretty cool , and it proves that the truedepth camera system is far more complex than anyone would like to think . hopefully , apple introduces some more clever uses for it in the future and not just animoji , fun as they may be . what do you think of this invisibility trick ? pretty cool or just a plain gimmick ? ",
+        "as always , feel free to sound off in the comments section below !   "
+    ]
+}

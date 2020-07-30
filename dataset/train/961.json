@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.5833333333333334
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google to open beijing ai center in latest expansion in china ."
+    ],
+    "id": "101980.train",
+    "article": [
+        "google is deepening its push into china as it seeks an edge in one of technology 's most competitive fields : artificial intelligence . the alphabet inc. . unit will announce the opening of a new beijing research facility on wednesday during its second annual developers conference in shanghai , the company said . the google ai china center will have a small group of researchers supported by several hundred china-based engineers . google has been re-building its presence in china , where it defied the government in 2010 by refusing to self-censor search content and later had most of its services blocked . ",
+        "the u. s. giant has been ramping up hiring and promotion of its tensorflow ai tools , features that chief executive officer sundar pichai highlighted when he visited the country earlier this month . showing china you 're `` contributing to the country 's development through creating jobs , training engineers , and ultimately building a higher tech proficiency base helps build goodwill with china , '' says mark natkin , managing director of beijing-based marbridge consulting . it also helps that the chinese government has made ai a national priority , with policy makers in july announcing plans to develop an industry generating 400 billion yuan of annual output by 2025 and a world leader in the science by 2030 . ",
+        "google 's most recent move to formalize its ai presence in the country is a tacit acknowledgment that companies and governments in china and the u. s. are locked in a race to determine how the art and science of ai will be applied around the world . the company declined to specify how many people it would hire but says it plans to build out the team further and is actively recruiting . `` it will be a small team focused on advancing basic ai research in publications , academic conferences and knowledge exchange , '' said fei-fei li , the chief scientist at google 's cloud unit who will lead the beijing research center . ",
+        "attracting top talent wo n't be easy . google faces fierce competition from chinese giants alibaba group holding ltd. , tencent holdings ltd. . and baidu inc. . the local rivals , which dominate the domestic tech scene , offer engineers a potent blend of unrivaled user datasets and lucrative salary packages . artificial intelligence applications like image recognition only become accurate and useful once they are fed with huge reams of detailed user data . that has helped spur chinese development thanks to the country 's 731 million internet users , who typically provide more detailed information than western counterparts . ",
+        "for example , short-term loan provider yongqianbao , also known as smartfinance , determines loan eligibility by tracking 1,200 data points like how often users charge their phones or whether people call them back . without a strong chinese user base , google does n't have data that goes that deep on people in the country . but the company says the ai center is more focused on attracting top-notch researchers coming out of china , rather than data . `` my job is to continue advancing ai research , recognizing that ai is a global challenge that requires global talent , '' li says , explaining that there 's plenty of robust open-source data sets that are publicly available . ",
+        "-- with assistance by mark bergen .   "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.6363636363636364
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "laser-equipped shoes help parkinson 's patients take the next step ."
+    ],
+    "id": "350033.train",
+    "article": [
+        "here 's an unexpected but pleasant little way tech might be able to improve a few lives : laser shoes . yes , seriously . shoes equipped with small laser emitters were shown in recent tests to help sufferers of parkinson 's disease to walk normally . one of the possible symptoms of parkinson 's is what 's called gait freezing , where a person finds themselves unable to take a step despite willing themselves to walk forward . being unable to move for the duration of the freeze is inconvenient , but it can also cause a person to lose their balance and topple over . ",
+        "interestingly , during a freeze , a person may be able to break out of it by concentrating on something near their feet that they can step towards or over , such as a floorboard or a crack in the sidewalk . of course , such a feature is not always present . so what if you could manifest one on demand ? that 's the idea behind the laser shoes , imagined by the university of twente 's murielle ferraye : each one has a laser projection device mounted to the toe that produces a line about 18 inches ahead -- a line towards which the user can then step . ",
+        "the laser turns off while the shoe is in motion , so it 's only ever the resting foot that projects a line . you can see them in action here : a study of 21 parkinson 's patients found that the laser shoes reduced incidents of gait freezing by nearly half , and cut the duration of those freezes by more than half . most of the patients said they would be happy to use the shoes , and did n't mind that the line was projected even when they were not frozen . future work , ferraye explained in a university news release , will be aimed at activating the laser only when a freeze is detected . ",
+        "the research was published this week in the journal neurology . this article originally appeared on techcrunch at .   "
+    ]
+}

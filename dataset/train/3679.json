@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.6363636363636364
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "what is the difference between wholesale and retail data centers ?"
+    ],
+    "id": "748627.train",
+    "article": [
+        "in the business world , everything is changing thick and fast , and so are the needs of enterprises who are trying their best to keep pace with this changing reality and be a part of it . in today 's realm of big data and cloud , storage of data is of prime importance for organizations dealing with an astronomical amount of data on a regular basis . to manage and process the data efficiently , the tenacity towards data centers is growing , which fall under two major categories -- wholesale or retail . at the elementary level , small and medium sized enterprises go for retail data centers , whereas big enterprises generally opt for wholesale data centers , which provide ample space thousand square feet . ",
+        "retail colocation may be the right fit if you need a small space for a limited period of time and do n't have the requirement to go for a bigger and better one . it is also the right choice if you do n't have the time or the required personnel to take care of it . on the other hand , wholesale colocation may just do the job for you if you need a lot of space and require more than one megawatt of power . size is just one of the many factors that come into play while choosing the right data center for the enterprise . ",
+        "other such factors are : requirements of power : power is one crucial issue that is on top of the list of any organization before opting for data centers . a retail data center generally consumes power that is less than 100 kilowatts , whereas wholesale data centers generally need power in the order of well above 100 kilowatts . pricing for power usage brings to light a major difference between retail and wholesale . when enterprises opt for retail they have to pay for power on a per circuit basis , whereas , in wholesale they have to pay for the amount of power consumed . ",
+        "retail providers are a good option for small customers who require less power and a small space . • autonomy : autonomy is another important issue that needs to be taken care of when opting for a data center . customers opt for wholesale as they want to have complete control on the infrastructure in place . they have all the resources at their disposal to take care of their equipments and space . • amount of cash required : the amount of cash required is also an important consideration while opting for the right data center . if there 's a need to keep the investment factor down and go for a smaller environment , then retail is an ideal deal for you . ",
+        "whereas , wholesale requires a much bigger sum of money to buy the space and build your own footprint . wholesale vs retail data centers .   "
+    ]
+}

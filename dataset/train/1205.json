@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "removing bitcoin payments from steam is a smart move by valve ."
+    ],
+    "id": "37956.train",
+    "article": [
+        "it was a huge boon to the cryptocurrency community when valve began accepting payments in bitcoin on its game distribution platform steam over a year ago . but this is all coming to an end -- at least for the time being . in a blog post from yesterday , the company announced it will no longer support the popular cryptocurrency as a payment method `` due to high fees and volatility '' in price . while transaction rates used to be as low as 20 ¢ last year , valve says the fees topped out at $ 20 last week . ",
+        "`` these fees result in unreasonably high costs for purchasing games when paying with bitcoin . the high transaction fees cause even greater problems when the value of bitcoin itself drops dramatically , '' the post read . `` unfortunately , valve has no control over the amount of the fee . '' this is clearly a problem for both the company and its users . `` historically , the value of bitcoin has been volatile , but the degree of volatility has become extreme in the last few months , losing as much as 25 in value over a period of days , '' valve continued . ",
+        "`` this creates a problem for customers trying to purchase games with bitcoin . '' the issue is that the bitcoin price of a game can experience significant changes in merely a matter of minutes . as you can imagine , this can be particularly annoying for users that transfer a certain amount of the cryptocurrency , only to discover that this amount is no longer sufficient because its value has dropped . `` the normal resolution for this is to either refund the original payment to the user , or ask the user to transfer additional funds to cover the remaining balance , '' valve remarked on this conundrum . ",
+        "`` in both these cases , the user is hit with the bitcoin network transaction fee again . '' while the move might strike a nerve with some hardcore crypto-enthusiasts , it is difficult to blame valve for its pragmatism given that the issue directly affects its customers . true , the price of bitcoin has generally followed an upward curve over the past few months , but that on its own is not a reason good enough for valve to keep the cryptocurrency . the aim was always to offer users a reliable payment method at lower than standard fees . ",
+        "now that this is no longer the case , the integration is more of a nuisance than a feature . then , of course , there is the whole issue with bitcoin 's sluggish transaction times and its congested blockchain network . at the time of writing , there are over 135,000 unprocessed transactions . so if you were to place a transaction now , chances are it will take a while before it goes through . having said this , it 's still sad to see a major platform drop support for bitcoin . but perhaps things will change once there is a better scaling solution in sight . "
+    ]
+}

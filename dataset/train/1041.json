@@ -1,0 +1,21 @@
+{
+    "score": [
+        0.6363636363636364
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "saarland university bioinformaticians compute gene sequences inherited from each parent ."
+    ],
+    "id": "1172254.train",
+    "article": [
+        "credit : tobias schwerdt . one of the most important tools for solving this complex puzzle is special software developed by scientists at the center for bioinformatics at saarland university . the renowned journal nature communications has reported twice on their research . humans have 46 chromosomes . these carry the genes and define the genetic material , the so-called genome . so that the number of chromosomes does not double with each generation , only 23 chromosomes are included in male and female germ cells , which merge in a fertilized egg cell to form a new life . ",
+        "such a half-set of chromosomes is designated as `` haploid . '' `` which gene variants i receive from my father or mother can decide whether i get sick , and also how i can best be medically treated , '' explains tobias marschall , professor of bioinformatics at saarland university . there he leads the group `` algorithms for computational genomics '' at the center for bioinformatics . being able to analyze which gene variants were inherited from which parent , and thereby determine the so-called haplotype , is the new quantum leap for the sequencing of the human genome . ",
+        "two developments are crucial for this : first , the so-called third-generation sequencing techniques , established by firms like oxford nanopore , 10x genomics and pacific biosciences , deliver a different type of gene data . `` through them , we now get much longer gene snippets and can now finally put into practice what we have long studied in theory , '' says marschall . he is actively involved in the second requirement : he develops the computational methods that make the mountains of genetic data manageable . part of this has made its way into the software , named `` whatshap , '' that marschall developed with his colleagues . ",
+        "`` imagine an extremely difficult puzzle . with whatshap we solve two of them at the same time , '' marschall describes whatshap 's approach . the bioinformatician is convinced that with the help of such programs , in the foreseeable future the determination of one 's haplotype will become a routine examination in hospitals , just as identification of the blood group is today . he considers the two articles in the journal `` nature communications '' the first milestone for this . the german research foundation also confirmed the relevance of this work by announcing , last week , the financial support of two projects related to whatshap . ",
+        "in the first project , professor marschall will work together with professor gunnar klau from the heinrich heine university of duesseldorf on even more powerful computational methods for haplotyping . in the second project , the dfg is supporting the long-term maintenance of the whatshap software as part of the `` sustainability of research software '' initiative , paving the way for its use in everyday clinical practice . a total of 800,000 euro is available for these projects , of which 550,000 will go to saarland university to create new positions for researchers and developers . background : saarland informatics campus . ",
+        "the core of the saarland informatics campus is the department of computer science at saarland university . in the immediate vicinity , seven other world-renowned research institutes conduct research on the campus . along with the two max planck institutes for informatics and for software systems , these are the german research center for artificial intelligence , the center for bioinformatics , the intel visual computing institute , the cispa helmholtz center i. g. and the cluster of excellence `` multimodal computing and interaction '' . further information : . questions can be directed to : . jun. - prof. dr. tobias marschall center for bioinformatics saarland informatics campus tel. : 49-681-302-70880 editor : . ",
+        "gordon bolduan competence center computer science saarland saarland informatics campus tel. : 49-681-302-70-741 .   "
+    ]
+}

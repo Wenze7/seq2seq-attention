@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.3333333333333333
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "fbi director reignites ` not so clean cut ' encryption debate ."
+    ],
+    "id": "781192.train",
+    "article": [
+        "more than a year after the last high-profile showdown between the fbi and silicon valley over widespread encryption , recently-installed fbi director christopher wray again signaled that his agency will continue to fight for access . `` this is an urgent public safety issue , '' wray said at the international conference on cyber security , according to reuters . encryption prevented the bureau from accessing data on nearly 4,000 devices in fiscal 2017 , he told the assembled audience . `` i just do not buy the claim that it is impossible '' to find a solution , wray added . ",
+        "this is the second time since his ascension to the top of the fbi that wray has chosen to join the encryption debate . `` to put it mildly , this is a huge , huge problem , '' wray said last october . `` it impacts investigations across the board narcotics , human trafficking , counterterrorism , counterintelligence , gangs , organized crime , child exploitation . `` that wray has now repeatedly voiced these concerns may signal that the bureau , and by extension the federal government , could be planning a more aggressive push for access to encrypted data . ",
+        "the issue has been on the back burner since the infamous 2016 showdown between apple and the fbi , which was sparked by an iphone belonging to the perpetrators of the san bernardino shooting . the government attempted to prod apple and other tech companies to create encryption `` backdoors '' in their products , resulting in an enormous backlash from both the technology and security communities .   "
+    ]
+}

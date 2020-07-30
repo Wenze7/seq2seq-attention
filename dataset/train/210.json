@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "fcc admits mobile internet is a poor broadband replacement ."
+    ],
+    "id": "1078636.train",
+    "article": [
+        "as dictated by section 706 of the telecommunications act of 1996 , the fcc released its annual draft 2018 broadband deployment report on wednesday . in it , the commission made a surprising concession : that no , mobile data and wired broadband are not in fact suitable replacements for one another . this admission comes only a few months after fcc chair , ajit pai , filed a `` notice of inquiry '' ahead of proposing that mobile be counted as a form of broadband . doing so , opponents warned at the time , would disproportionately harm poor and rural communities . ",
+        "in the 2018 report , pai 's office concedes that `` mobile services are not full substitutes for fixed services -- there are salient differences between the two technologies . '' beyond the obvious difference that only one of the technologies is , you know , mobile the report points out that `` there are clear variations in consumer preferences and demands for fixed and mobile services . '' in this context , what constitutes broadband is benchmarked by the 25/3 rule -- that is , speeds have to hit 25 mbps down and 3 mbps up . as a result of that admission , the draft report urges that the commission evaluate the progress in deploying both mobile internet and fixed broadband services . ",
+        "however , in the very next breath the report states that it `` takes a holistic view of the market and examines whether we are both making progress in deploying fixed broadband service and making progress in deploying mobile broadband service . '' which sounds a whole lot like the fcc is still trying to treat mobile and broadband as one and the same , at least in how it measures deployment rates . the rest of the report laid out the fcc 's efforts to promote broadband deployment as required by the law , with no small amount of self-congratulation about voting to overturn net neutrality protections , before declaring that the commission `` is now meeting its statutory mandate to encourage the deployment of broadband on a reasonable and timely basis . ",
+        "`` pai even managed to sneak in some spurious claims about deployment slowing under the neutrality rules . `` the draft report indicates that the pace of both fixed and mobile broadband deployment declined dramatically in the two years following the prior commission 's title ii order , '' he wrote in his chairman 's statement . mignon l. clyburn , the fcc commissioner who was having none of pai 's shenanigans during the initial net neutrality debates , offered a dissenting opinion : so how can this agency now claim that broadband is being deployed to all americans in a reasonable and timely fashion ? ",
+        "only by repeating the majority 's tired and debunked claims that broadband investment and innovation screeched to a halt in 2015 . while my initial review of chairman pai 's draft report raises serious concerns , i acknowledge that it addresses one of my concerns by now correctly concluding that mobile and fixed connectivity are not substitutes . i look forward to carefully reviewing the findings presented in the draft report .   "
+    ]
+}

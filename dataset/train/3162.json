@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.625
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "opera 50 released with cryptocurrency mining protection ."
+    ],
+    "id": "605044.train",
+    "article": [
+        "it 's increasingly becoming common for websites to rely on coin mining scripts to hijack a visitor 's cpu resources to mine for virtual currencies . even chrome extensions have started doing this . opera recently revealed that the next update for its popular web browser is going t have built-in cryptocurrency mining protection . the company today released version 50 of the opera browser with this functionality . opera 50 's nocoin feature will prevent websites from hijacking a user 's cpu to mine for virtual currency without their knowledge . users can take advantage of this feature by enabling the ad blocker that 's built into the browser . ",
+        "once that 's done , pages that have scripts for mining digital currency will be blocked in a manner similar to how ads are blocked by the built-in ad blocker . opera released this feature for testing in the beta version of opera 50 just last week . test results show that a significant amount of cpu resources are freed up instantly when cryptocurrency mining scripts are blocked . it 's not like opera is opposed to cryptocurrencies . it has actually built a currency converter for major digital currencies like bitcoin , litecoin , ethereum , and bitcoin cash in its browser . ",
+        "it does n't like websites using computers to mine digital currencies without their knowledge , though . the stable version of opera 50 is out now and available for download right away .   "
+    ]
+}

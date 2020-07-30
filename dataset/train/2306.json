@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.8
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple previews new arkit version with improved object recognition ."
+    ],
+    "id": "1256487.train",
+    "article": [
+        "apple 's preparing to launch a new version of its arkit augmented reality platform with improved object recognition and support for vertical planes . developers can now map objects against walls and doors , instead of relying on flat table tops and floors . vertical arthe update was announced today as part of ios ' broader upcoming 11.3 release . apple said arkit version 1.5 will help developers `` better integrate '' ar experiences with the real world as the technology begins to gain traction . although it did n't say how many iphone owners actually use arkit , the company noted there are `` hundreds of millions '' of devices that support it . ",
+        "the single biggest development in arkit 1.5 is the addition of vertical plane support . arkit has previously been limited by its reliance on horizontal planes , preventing developers from adding height to their experiences . with ios 11.3 , ar apps will be capable of recognising doors , windows and walls , expanding the kinds of interaction that can be achieved . vertical planes make it possible to create new kinds of augmented reality displays , including interactive posters , wall art and museum exhibits . it could also power games that explore all three dimensions . the verge reports apple briefly demonstrated an ar ball game at its campus , showing how virtual balls can now appear to bounce off real worlds . ",
+        "higher resolutionapple 's also improved arkit 's baseline accuracy for recognising objects . the camera viewfinder now captures scenes with a 50 percent higher resolution , sharpening the experience and allowing finer positioning of objects . the camera 's more adept at identifying complex surfaces too , including irregular planes such as circular tables . this fine-tuning results in a more resilient ar experience that 's less demanding of its real-world environment . `` the introduction of arkit with ios 11 put augmented reality into the hands of hundreds of millions of iphone and ipad users , making ios the world 's biggest ar platform , '' said apple . ",
+        "`` apple continues to innovate on this exciting technology , bringing arkit 1.5 to developers to provide even more immersive ar experiences that better integrate with the world and giving them the tools to power a new generation of ar apps . `` read next : apple to let you view your medical records on your iphonearkit 's main rival is google 's arcore for android devices . arcore currently supports upward and downward facing horizontal planes but still lacks vertical plane support . apple now has an important advantage in this regard . the company 's tight control of the ios ecosystem also means arkit has a far greater reach than arcore , which is limited to recent android versions accessible to a tiny percentage of the overall userbase . ",
+        "apple will launch arkit 1.5 in beta form with the open preview of ios 11.3 later this week . the update is expected to reach general availability later this spring . it also includes more animoji , the ability to view medical records in apple health and the option to disable battery-related iphone performance throttling .   "
+    ]
+}

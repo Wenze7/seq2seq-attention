@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.5454545454545454
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "hackers could be spying on your tinder photos and swipes ."
+    ],
+    "id": "1254523.train",
+    "article": [
+        "tinder users could easily have their photos hacked because of the app 's encryption failures , according to a new report . checkmarx , a tel aviv-based security firm , found that tinder 's ios and android apps do n't use https encryption . the lack of which , they called `` disturbing . '' https is used by most websites and is considered the most basic protection from hackers . sixty-eight percent of the internet is encrypted with https as of this month , according to mozilla . a small lock symbol appears to the left of your address bar if the website uses https . ",
+        "without https , hackers can easily access your tinder profile as long as you 're both connected to the same wi-fi network . once in , they can see your photos and monitor your tinder activity -- seeing exactly who you 're matching with and swiping left or right on . a hacker could also hijack your profile and add their own photos or `` malicious content . '' `` we can simulate exactly what the user sees on his or her screen . you know everything : what they 're doing , what their sexual preferences are , a lot of information , '' erez yalon , checkmarx 's manager of application security research , told wired . ",
+        "`` it 's the combination of two simple vulnerabilities that create a major privacy issue . '' the firm developed an app , tinder drift , to demonstrate everything a hacker could exploit if logged into the same wi-fi . they added that a security flaw of this magnitude leaves users vulnerable to blackmail . checkmarx notified tinder of their findings in november , but the app has yet to fix the issue . in a statement to the verge , tinder said the unencrypted photos were part of the app 's free global platform and that they 're `` available to anyone swiping on the app . '' ",
+        "they also said they do n't provide detail on specific security tools in order to `` avoid tipping off would-be hackers . ''   "
+    ]
+}

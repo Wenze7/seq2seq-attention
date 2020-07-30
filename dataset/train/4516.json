@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.5555555555555556
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "fanconi anemia : insight from a green plant ."
+    ],
+    "id": "1100112.train",
+    "article": [
+        "credit : peter schlögelhofer . fanconi anemia is a human genetic disorder with severe effects , including an increased risk of cancer and infertility . work in animal systems has identified many factors involved in fanconi anemia and showed that these factors function in repair of dna . however , despite extensive analysis in mammalian somatic cell lines , in-depth studies on the germ cells , which make egg and sperm cells , have been nearly impossible in animal model systems . now , peter schlögelhofer 's group at the university of vienna , in collaboration with groups across europe and the u. s. , have used a model plant to investigate the role of a key protein , fanconi anemia d2 protein , in a system where they can examine its function in germ cells . ",
+        "they found that fancd2 is required for the exchange of genetic material by a previously unknown pathway that has implications for understanding this disease in humans . during the meiotic cell divisions that produce sperm and eggs in both plants and animals , exchange of genetic material between chromosomes promotes the reshuffling of genetic traits and helps the chromosomes get into the right daughter cells . crossovers require breakage and repair of the dna , and many proteins involved in this process , including fancd2 , are conserved in plants and animals . using arabidopsis thaliana as a model organism , the authors revealed fancd2 's important function in meiotic crossover formation . ",
+        "the authors show that arabidopsis fancd2 belongs to a previously uncharted pathway that contributes to the formation of crossovers . dr. schlögelhofer comments `` while the existence of such an additional mechanism has been suspected for a long time , our data provide the evidence for an involved protein factor . '' charting this additional mechanism in model systems will allow researchers to explore the biological functions of these key proteins in ways impossible in animal systems and help us to understand the consequences of fancd mutations identified in human patients . corresponding author peter schlögelhofer states `` i especially like our fancd2 story because it shows the power of arabidopsis to help in understanding biological principles that are relevant beyond the field of plant sciences . ",
+        "due to the conservation of the fanconi anemia pathway , we are convinced that our study will strongly stimulate further research in meiotic crossover formation and human fanconi anemia-related pathologies . '' author : . jennifer mach , phd science editor , the plant cell .   "
+    ]
+}

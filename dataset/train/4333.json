@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.7777777777777778
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple issues an apology over iphone battery debacle ."
+    ],
+    "id": "481739.train",
+    "article": [
+        "in a rare move , tight-lipped apple has released an apology along with a technical explanation of how their batteries work , follows several recent stories concerning older iphone battery degradation . `` first and foremost , we have never -- and would never -- do anything to intentionally shorten the life of any apple product , or degrade the user experience to drive customer upgrades , '' the unsigned letter reads . the letter is the culmination of what started as a series of reddit posts discussing how iphone batteries seemingly get worse over time . those posts led geekbench blogger john poole to map out iphone 6s and iphone 7 battery performance over time . ",
+        "along with the slowdowns , the phones would unexpectedly shut down with increasing frequency . as the phones degraded in service over time , poole came to the conclusion that apple was manipulating users by making them think that `` the slow down is due to cpu performance , instead of battery performance . '' `` this fix will also cause users to think , ` my phone is slow so i should replace it ' not , ` my phone is slow so i should replace its battery ' . this will likely feed into the ` planned obsolecense ' narrative , '' poole writes . ",
+        "apple 's letter today includes a brief technical explanation of how and why rechargeable batteries degrade : the chemicals used to charge batteries , like everything else on the planet , age and degrade over time . apple now believes that `` continued chemical aging of the batteries in older iphone 6 and iphone 6s devices , many of which are still running on their original batteries , '' has contributed significantly to phone battery degradation . the company also links to a series of tips that can be used to keep batteries more effective , like keeping them out of cold weather . ",
+        "apple is taking two steps to make amends to users who feel cheated by their iphones . one is offering a price reduction for out-of-warranty iphone battery replacements -- from $ 79 to $ 29 -- for anyone with an iphone 6 or later whose battery needs to be replace for all of 2018 . there will also be an ios update that will `` give users more visibility into the health of their iphone 's battery , '' though there were no further details on what this would look like . in 2015 , the iphone was named the single most profitable product in the history of the free market . ",
+        "since its debut in 2007 , the company has become increasingly reliant on it selling well . having a legion of angry would-be iphone buyers is n't a great business plan . source : apple .   "
+    ]
+}

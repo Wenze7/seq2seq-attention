@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.5454545454545454
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple music now offers artists detailed streaming and download info ."
+    ],
+    "id": "1186574.train",
+    "article": [
+        "as a musician , knowing how your songs are performing on streaming platforms is important . spotify brought real-time stats and demographic information to a dedicated app for artists this past october , while pandora and youtube have had similar dashboards for a while now . finally , cupertino is catching up with the beta launch of apple music for artists , a dashboard that lets users drill down into various statistics on song performance from now to as far back as 2015 , when the apple music service launched . according to billboard , the service is rolling out to a few thousand artists at first , with a planned full launch to all who have tracks on apple music and itunes . ",
+        "billboard says the dashboard will show users the current number of plays , spins , song purchases and album purchases , while a special insights panel will provide information on key milestones , like cumulative plays and purchases for individual tracks . artists can dig even deeper , too , with a global map to see how their songs are doing in any of the 115 countries apple music and itunes operates in . further geographic and demographic information is available with just a few clicks . some of this information will help tour planners know which cities to aim for , notes billboard , or even plan set lists based on how well the artist 's songs are doing in individual areas . "
+    ]
+}

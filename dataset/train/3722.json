@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.5833333333333334
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "apple 's carplay is finally coming to toyota and lexus vehicles ."
+    ],
+    "id": "951100.train",
+    "article": [
+        "toyota 's new 2019 avalon was just announced at the 2018 north american international auto show , and the new model includes a long-awaited and welcome addition : apple 's carplay platform , a first for a toyota car , according to appleinsider . toyota has famously abstained from adopting either carplay or android auto in its cars . back in 2015 , john hanson , the national manager of toyota 's advanced technology communications , commented to the new york times that the company `` prefer to use our in-house proprietary platforms for those kinds of functions . '' ",
+        "even when toyota switched to another company 's system in 2016 , it was to adopt ford 's smartdevicelink app platform , not apple or google 's software . last year at naim 2017 , toyota and ford founded the smartdevicelink consortium , with a focus on extending ios and android apps to car dashboards without having to cede control to apple or google . just the 2019 avalon for now , but more cars will support it going forwardthe company confirmed in a comment to macrumors that carplay will show up in additional 2019 cars from toyota and lexus that run the company 's entune 3.0 and enform 2.0 infotainment platforms as well . ",
+        "it has yet to clarify whether or not 2018 models already running those platforms will get support through a software update . on the 2019 avalon , users will be able to interact with carplay through the 9-inch capacitive touchscreen . the new model also features toyota 's first integration of smartwatch and amazon alexa compatibility through the toyota remote connect , allowing owners to do things like lock or unlock their doors and start their car through alexa or a smartwatch . oddly , toyota seems to only be announcing support specifically for carplay ; the company is seemingly not adding android auto integration at this time . "
+    ]
+}

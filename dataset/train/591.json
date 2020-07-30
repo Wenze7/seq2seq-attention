@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "design a fidget spinner in just 5 minutes using fusion 360 ."
+    ],
+    "id": "152838.train",
+    "article": [
+        "you 've seen them around , heard about them in the news , may have played with them , you might even have one in your pocket right now . that 's right ; i 'm talking about fidget spinners . originally developed as a learning aid for students with add , autism , and other learning difficulties , they help curb excessive energy and improve focus . they 've also become an extremely popular toy for anyone who needs to relieve stress or just want to have fun . now , you can design your own fidget spinners in fusion 360 with the help of desktop makes . ",
+        "while they offer fusion 360 tutorials for $ 20 a pop , they also have some free tutorials , including one on making a basic fidget spinner . autodesk fusion 360 is powerful , easy-to-learn cad program . it 's free for students and educators , $ 40/month or $ 300/year for everyone else . the desktop makes classes are taught by vladimir mariano and are very easy to follow . the fidget spinner design starts with creating a central hole for a skate bearing in sketch mode , which is at the heart of every fidget spinner . next , he shows you to create the holes for the hex nut counterweights at the end of the spinner arms . ",
+        "while fidget spinners commonly have three arms , you can make as many even spaced arms as you wish by using the circular pattern tool . once the fidget spinner is fully laid out in sketch mode , you simply need to extrude it to the proper thickness and add bevels to the entire model . you can 3d print the fidget spinner in the material of your choice ; pla should work fine . i recommend printing at 200 microns , as detail is not as important as strength . as more weight usually translates to longer spins , a high infill setting should help with that . ",
+        "after printing just adds the hex nut counterweights and centered skate bearing . the skate bearing is press fit ; a vice may be necessary to squeeze the hex nuts into place . that 's it . it 's an easy build and lots of fun to play with . so what are you waiting for ? let 's get making and start spinning ! below is the fidget spinner tutorial : let us know what you like about geek by taking our survey .   "
+    ]
+}

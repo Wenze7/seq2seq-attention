@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.75
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "amazon is shuttering its music storage service ."
+    ],
+    "id": "343060.train",
+    "article": [
+        "if you 're using amazon music storage to keep your digital music stored in the cloud for playing on a variety of devices , you 'll need to move on to something else . amazon has quietly announced that it has removed the ability for free subscription planholders to upload digital music files to its amazon music storage service through its pc and mac apps . music that 's already stored in the digital locker can be played until january 2019 . at that point , the service will be inaccessible to users on the free tier . those have the paid subscription can continue to upload files , but will be limited to 250 songs after their subscription period is over . ",
+        "those tracks will only be available for one year after the subscription expires and then amazon will remove them from its service . get data sheet , fortune 's technology newsletter amazon music storage has been available for years as a way for users to upload and access digital music files through the tech giant 's cloud servers . the free plan limited users to 250 uploaded songs . the paid plan allowed users to upload up to 250,000 songs . once those tracks were uploaded , users could download them to other devices . they could also stream them over the web to a variety of products . ",
+        "in a support page listing , amazon did n't say why it 's decided to shutter the service . the company still operates its music streaming service , called amazon music unlimited , that lets users stream millions of songs to computers , mobile devices , and other hardware . amazon music unlimited ranges from $ 3.99 to $ 14.99 a month , depending on the number of places users want to stream content .   "
+    ]
+}

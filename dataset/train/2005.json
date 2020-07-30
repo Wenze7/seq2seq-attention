@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.8333333333333334
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "popular chrome extension with over 105,000 users found secretly mining cryptocurrency ."
+    ],
+    "id": "517335.train",
+    "article": [
+        "the year 2017 has been a watershed one for cryptocurrency as its value , interest and acceptance continued to surge in recent months , both for legitimate and nefarious actors . looking to tap into the growing market , several websites have been caught hijacking users ' computer resources to secretly mine digital currency without their knowledge or permission . now , a popular chrome extension with over 105,000 users has been found running the in-browser cryptocurrency miner coinhive that covertly hijacks visitors ' cpu processing power to mine monero . according to bleeping computer , archive poster -- an extension that allows tumblr users to reblog or report from other websites -- was found running coinhive with a number of users reporting significant spikes in their cpu usage . ",
+        "extension users reported observing the change around the beginning of december and have bombarded the chrome web store with bad reviews . `` do not use this extension as it comes loaded with a cryptocurrency mining script . once installed it makes requests to coinhive which eats up your cpu time and slows your computer down massively . avoid , '' one user wrote . essence labs , the developer behind archive poster , confirmed the existence of the cryptominer but said the chrome extension was hacked . `` an old team member who was responsible for updating the extension had his google account compromised , '' essence labs told pcmag . ",
+        "`` somehow the extension was hijacked to another google account . in the meantime we have alerted the users to use a safe version of the extension on a different link . `` the developer has not provided any details on when or how the hack took place or who was responsible for it . the discovery comes after numerous websites were found with hidden cryptomining programmes and script embedded , either intentionally or the work of hackers . over the past few months , the pirate bay , showtime , starbucks , politifact and ufc 's website were found running cryptocurrency miners such as coinhive without users ' express consent . ",
+        "security researcher troy mursch , who goes by @bad_packets on twitter , has been tracking the cryptojacking trend and also reported the cryptojacking malware found in archive poster . he recently reported that telecom firm movistar 's official website was found hosting coinhive as well . besides pcs and websites , hackers have also targeted android apps and facebook messenger to generate cryptocurrency as well . security researchers say the surge in browser-based mining is linked to the launch of the easy-to-use coinhive service and warned that a virtual currency `` arms race '' is brewing between cybercriminals and defenders . ",
+        "coinhive was also targeted by hackers in october who hijacked its server , tweaked its settings and briefly redirected generated cryptocurrency to a third-party server . the company has not disclosed how much revenue was lost in the attack . seems like a disgruntled employee may have added that coinhive miner to archive poster chrome extension . pic . twitter . com/mfabvcgywu -- michael kan december 29 , 2017 #coinhive malware found on official @movistar_es website in latest high-profile case of #cryptojacking . movistar is a major telecommunications brand owned by @telefonica , operating in spain . pic . twitter . ",
+        "com/horqol8rd4 -- bad packets report december 29 , 2017 .   "
+    ]
+}

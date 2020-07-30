@@ -1,0 +1,21 @@
+{
+    "score": [
+        0.9
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "paypal checkout workflow with vue js and sails js ."
+    ],
+    "id": "523064.train",
+    "article": [
+        "through this post we will see the workflow of paypal checkout with validation in the backend by using vue js in the frontend and sails js in the backend i will try to explain each step as much as i can but i assumes that you at least have some working knowledge of javascriptwe need first to create a rest application in paypal developer is the application we will try to build by the end of this tutorialstep1 : client sidegenerate a new vue js project using vue climake sure first that you have vue-cli installed globallynpm install -- global vue-clivue init webpack frontend once the project is created we replace the content of helloworld component with this codesrc/component/helloworld .",
+        "vue < template > < div class = `` container '' > < div class = `` jumbotron '' > < h1 > hello , there < / h1 > < p > welcome to paypal checkout demo < / p > < div class = `` input-group '' > < span class = `` input-group-addon '' > $ < / span > < input type = `` number '' class = `` form-control '' v-model = `` amount '' aria-label = `` amount '' > < span class = `` input-group-addon '' > . 00 < / span > < / div > < br > < br > < br > < paypal : amount = `` amount '' > < / paypal > < / template > < script > import paypal from ' . ",
+        "/ paypal ` export default -lcb- name : ` helloworld ' , data -lcb- return -lcb- amount : 10components : -lcb- ` paypal ' : paypal < / script > this code contain the layout of the home page and it makes use of another component witch we will create right now the paypal button componentin src/component/paypal . vuewe add the template tag first a paypal button and two messages one for success payment and the other if something went wrong < template > < div > < div id = `` paypal-button-container '' > < / div > < div v-if = `` success '' class = `` alert alert-success '' > < strong > success ! ",
+        "< / strong > payment successfuly done < / div > < div v-if = `` error '' class = `` alert alert-danger '' > < strong > ooops ! < / strong > something went wronginside the script tag we have to initiate a paypal object in mountedsrc/component/paypal . vuelet client = let payment = = > -lcb- / / make a call to the rest api to create the payment return actions . payment . create ; let onauthorize = = > -lcb- var data = -lcb- paymentid : data . paymentid , payerid : data . payerid , amount : this . ",
+        "amount this . senddatapaypal . then . catch -lrb- err = > -lcb- this . error = true / / to display the error message paypal . button . render ; if you notice in that code we make use of a paypal object to render the buttonis not defined yet we need to import the paypal cdnadd this script in the index . html file . / index . html < script src = '' '' < / script > in mounted we used a senddatapaypal method witch we will define now in methodssrc/component/paypal . vuemethods :{ senddatapaypal -lcb- return new promise -lrb- = > -rrb- . ",
+        "catch -lrb- = > -lcb- return rejectthis method makes an http call using axios and sends the paypal data to the server side the paymentid , payerid , amount so we can validate the payment in the server sidestep2 : server sidegenerate a new sails js projectmake sure first that you have sails installed globally $ npm install sails - g $ sails new backend -- no-frontend now we can generate a payment api $ sails generate api paymentthis command will create a model file and a controller filein the model we define the attributes of a paymentapi/model/payment . jsapi/controllers/paymentcontroller . ",
+        "jsapi/services/paypalservice . jswe sould define the router too inconfig/routes . jsin the controller we receive the data from the client side and we pass it to a service paypalservice in this service we require paypal-rest-sdk module we need first to install this module by npmnpm install -- save paypal-rest-sdk and we execute the payment when the payment is successfully executed we save the payment in the databaseyou can find the final code here . thanks for reading . links .   "
+    ]
+}

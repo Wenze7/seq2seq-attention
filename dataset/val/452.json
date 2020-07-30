@@ -1,0 +1,19 @@
+{
+    "id": "29.val",
+    "article": [
+        "a recent build of google 's gmail app for android reveals that the service will eventually support email scheduling . the evidence appears within the app 's code , which assigns the `` menu _ schedule _ send '' command to a `` schedule send '' menu entry . an excerpt from an xml file also refers to this specific string of purpose of this upcoming feature should be obvious : native support for scheduling a time for gmail to automatically send an email . currently there are `` unofficial '' ways to schedule an email in gmail , such as adding the boomerang browser extension , using a google sheets script , installing another browser extension specifically for google 's chrome browser , and so scheduling email sounds like a task abused by spammers , there are legitimate reasons for delayed messages . ",
+        "for instance , you may want an email sent during a period when it will most likely be read , such as during the morning business hours , or during a peak reading time in another time zone . maybe you need email sent within a specific amount of time after it 's work of pr firms is a good example . a company may have product information under a scheduled non-disclosure agreement release window that 's already prepared but ca n't be delivered to the press until a specific time . a scheduled email means the pr firm can have the information locked and loaded for delivery and move on to the next 's outlook client already provides message scheduling . ",
+        "while composing a message , simply select the more options arrow from the tags group located on the ribbon . next , in the delivery options window , check the `` do not deliver before '' option and then select a date and time . unfortunately , this feature currently is n't provided in the online overhauled gmail 's interface earlier this year , bringing it closer to the company 's other services . although the new look provides cleaner access to your emails , google beefed up the service 's back end including the use of artificial intelligence to generate smart responses , `` nudges '' that nag you to follow up or respond to messages , and more . ",
+        "`` as a part of the redesign , we 're also tightly integrating gmail with other g suite apps you use every day , '' the company said in april . `` now you can quickly reference , create , or edit calendar invites , capture ideas in keep or manage to-dos in tasks all from a side panel in your inbox . '' other notable features crammed into the revamped gmail include new native offline capabilities , a task-creation tool that integrates with g suite , and easy access to gmail add-ons such as intuit quickbooks invoicing , dialpad , trello , and google has not officially announced email scheduling , nor does the code provide any indication of when the service will arrive . ",
+        "how this version of gmail for android made its way into the public is unknown , but it 's presumed legitimate given that google cryptographically signed the app . but even if the app does contain code for message scheduling , the service likely is n't live yet , or is currently tied to just a handful of beta testers . "
+    ],
+    "abstract": [
+        "leaked android app shows message scheduling is coming to google 's gmail"
+    ],
+    "extracted": [
+        0
+    ],
+    "score": [
+        0.5
+    ]
+}

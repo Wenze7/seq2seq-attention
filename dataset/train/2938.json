@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.625
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "twitter adds support for app-based two-factor authentication ."
+    ],
+    "id": "314406.train",
+    "article": [
+        "twitter is rolling out an update to its platform security that will allow users to employ third-part authentication apps to receive a two-factor login authentication for their twitter account . twitter has offered two-factor for a long while now , but it 's used the less secure sms-based verification method excessively until now . the third-party app support means you can use tools like google authenticator , authy or duo mobile to verify your login instead of sms - and all you need to get set up is a one-time verification from within your logged in about on the desktop using your mobile twitter app , your phone 's camera , and a uniquely generated qr code to establish the connection between app and twitter . ",
+        "for more info on how to get set up , check out twitter 's official support document on the subject . in case you 're wondering why you 'd even want to do this , it 's a bit more secure than sms , since sms-based two factor is subject to hacks where attackers take over your mobile account , for example through requesting a new sim for your account from a human service agent . authentication apps are harder to swipe , and can follow you even if you change numbers or lose access to your phone . featured image : dragojagagitubic / istock editorial / getty images plus . "
+    ]
+}

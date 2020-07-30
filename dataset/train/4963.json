@@ -1,0 +1,22 @@
+{
+    "score": [
+        0.46153846153846156
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google 's ` dutch sandwich ' shielded 16 billion euros from tax ."
+    ],
+    "id": "568265.train",
+    "article": [
+        "alphabet inc. ' € ™ s google moved 15.9 billion euros to a bermuda shell company in 2016 , regulatory filings in the netherlands show -- saving the company billions of dollars in taxes that year . google uses two structures , known as a ' € double irish ' € and a ' € dutch sandwich , ' € to shield the majority of its international profits from taxation . the setup involves shifting revenue from one irish subsidiary to a dutch company with no employees , and then on to a bermuda mailbox owned by another ireland-registered company . ",
+        "the amount of money google moved through this tax structure in 2016 was 7 percent higher than the year before , according to company filings with the dutch chamber of commerce dated dec. . 22 and which were made available online tuesday . news of the filings was first reported by the dutch newspaper het financieele dagblad . ' € we pay all of the taxes due and comply with the tax laws in every country we operate in around the world , ' € a google spokesman said in a statement . ' € we remain committed to helping grow the online ecosystem . ' ",
+        "€ google is under pressure from regulators and authorities around the world for not paying enough tax . last year , the company escaped a 1.12 billion euro french tax bill after a court ruled its irish subsidiary , which collects revenue for ads the company sells in france , had no permanent base in the country . the european union has been exploring ways to make u. s. technology companies , many of which use similar tax shelters , pay more . the irish government closed the tax loophole that permitted ' € double irish ' € tax arrangements in 2015 . ",
+        "but companies already using the structure are allowed to continue employing it until the end of 2020 . according to u. s. financial filings , google ' € ™ s global effective tax rate in 2016 was 19.3 percent , which it achieved in part by shifting the majority of its international profit to the bermuda-based entity . applying that tax rate , google would have saved $ 3.7 billion via the 2016 transfer . tax expert robert willens said a better way to calculate google ' € ™ s savings would be to apply ireland ' € ™ s 12.5 percent tax rate to the amount of money shifted to bermuda because the income would otherwise have been taxed there . ",
+        "under that scenario , google would have saved about $ 2.4 billion in taxes . google held $ 60.7 billion overseas at the end of 2016 on which it hadn ' € ™ t yet paid u. s. income taxes or ' € foreign withholding taxes , ' € the company said in a filing with the u. s. securities and exchange commission . new law for years , u. s. tax law has given american companies an incentive to keep their foreign earnings offshore by allowing them to defer u. s. taxes until they return those profits to the u. s . ",
+        "but that changes this year ; the u. s. tax law passed last month will require companies to pay taxes on the overseas income they ' € ™ ve stockpiled to date at one of two rates : 15.5 percent for income held as cash or cash equivalents and 8 percent for less liquid assets . going forward , u. s. companies that pay relatively low global effective tax rates -- a sign that they ' € ™ re using tax havens -- would pay a minimum u. s. tax . that new tax , which begins at a rate of 10.5 percent , wouldn ' € ™ t apply in cases where a company ' € ™ s global effective tax rate is 13.125 percent or higher . ",
+        "google ireland ltd. . collects most of the company ' € ™ s international advertising revenue and then passes this money on to dutch subsidiary google netherlands holdings bv . a google subsidiary in singapore that collects most of the company ' € ™ s revenue in the asia-pacific region does the same . the dutch company then transfers this money on to google ireland holdings unlimited , which has the right to license the search giant ' € ™ s intellectual property outside the u. s . that company is based in bermuda , which has no corporate income tax . ",
+        "the use of the two irish entities is what gives the structure its ' € double irish ' € moniker and the use of the netherlands subsidiary as a conduit between the two irish companies is the ' € dutch sandwich . ' € .   "
+    ]
+}

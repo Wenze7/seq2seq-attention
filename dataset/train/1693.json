@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "samsung refreshes sata solid state drive line with 860 pro and 860 evo ssds ."
+    ],
+    "id": "1219851.train",
+    "article": [
+        "in case you thought samsung might abandon the 2.5-inch form factor and stop churning out new sata-based solid state drives , no worries , that is n't happening . samsung today unveiled not one , but two new sata ssd families , the 860 pro and 860 evo . we already have a review of the 860 evo posted , as samsung sent us a couple models to test , a 500 gb drive and a massive 4 tb model . unfortunately samsung did n't include an 860 pro drives for us to evaluate , so that will have to wait . ",
+        "the main difference between the two lines is the type of memory -- the 860 evo uses tlc memory chips and the 860 pro uses mlc memory , both of which are of the 64-bit layer 3d v-nand variety . they also feature a new memory controller . you would expect the 860 pro to be faster than the 860 evo , and that 's the case , at least on paper . samsung rates the sequential read performance of the 860 pro at up to 560mb/s and sequential writes at up to 530mb/s , versus 550mb/s reads and 520mb/s writes on the 860 evo . ",
+        "the 860 pro also offers faster random reads , with samsung claiming up to 100,000 iops versus 98,000 iops . random writes are the same , with the both the 860 pro and 860 evo rated at 90,000 iops . samsung is offering both drive lines in up to 4 tb capacity . other capacity options include 2 tb , 1 tb , 512 gb , and 256 gb for the 860 pro with prices starting at $ 95 , and 2 tb , 1 tb , 500 gb , and 250 gb for the 860 evo with prices starting at $ 140 . ",
+        "both drive lines carry a 5-year warranty , or up to 2,400 tbw for the 860 evo and 4,800 tbw for the 860 pro . of course , the real question is whether tuan will stick 10 of the 4 tb samsung 860 pro ssds in his nas box to see what performance looks like compared to 10 hard drives .   "
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.375
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "raiblocks : radically new approach to cryptocurrency ."
+    ],
+    "id": "495136.train",
+    "article": [
+        "out of 1500 cryptocurrencies , raiblocks got my attention after sudden price rise . after reading their white paper , i realised it 's not just another pump . it 's not just another currency with improvements over bitcoin . platform coins like ethereum , neo et al are different as i 'm not going to compare here . how it 's difference from bitcoin and other currency . the transactions are verified and recorded asynchronous and parallel as opposed to serial and one by one as you see in most blockchain . each account will have a its own blockchain and each transaction is a separate block . ",
+        "the clever design is , balance is carry forward to next transaction / block instead of utxo . which means you no need to have whole blockchain data , just needs latest transaction of all the accounts . using both delegated proof of stake and proof of work . in most blockchain network , if number of nodes increases , the txn per second will decrease because every node should wait to agree on latest block . but in raiblocks , each nodes can verify its own transaction parallel . . so if number of nodes increases in raiblocks network , the txn / second will increase . ",
+        "true scaling . it did n't sacrificed the `` distributed '' nature of blockchain for performance . and i totally agree with this tweet which i copied belowthe only cryptocurrency that will be adopted and used by mass as transfer of value will be the one which is decentralised , fairly distributed , scalable , instant , zero fee , green and easy to use . currently $ xrb is the only candidate . why decentralised ? because that 's what a transfer of value cryptocurrency is meant to be else it loses its value . why fairly distributed ? ",
+        "else gives power in hands of a few . why scalable ? because mass adoption is going to test the limits . why instant ? because no one is going to wait hours or even minutes when they use transfer of value cryptocurrency . why zero fee ? so that micro payments and frequent use are possible without slowly bleeding your holdings . $ xrbwhy green ? if it 's required to waste billions of dollars on electricity and equipment along with harming nature just to make a currency work , we better start finding alternatives . why easy to use ? ",
+        "else it 's not going to be adopted by mass . may be we will see 100s of coins start copying the raiblocks approach . i personally bet on raiblocks for 2018 . it 's really undervalued now .   "
+    ]
+}

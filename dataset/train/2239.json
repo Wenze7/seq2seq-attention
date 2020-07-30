@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.5454545454545454
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "new york will tackle unfair biases in automated city services ."
+    ],
+    "id": "309665.train",
+    "article": [
+        "whether we 're aware of them or not , algorithms affect a huge part of our lives . now , in a us-first , new york is taking steps to address potential algorithmic biases in services provided by municipal agencies . city council has passed a bill that would -- if signed by mayor de blasio -- create a task force to examine if and how service algorithms are biased , how citizens can appeal decisions made by algorithms if they feel they 're unfair , and if agency source code could be made publicly available . `` automated decision systems '' are responsible for determining outcomes on a wide range of city/citizen matters . ",
+        "take eligibility for bail , for example . training data used to produce algorithms for this system may involve biases that unjustly favour one group of individuals over another . the task force would look at ways certain groups , such as the elderly , immigrants , the disabled and minorities , are affected by these automated processes . the bill , named intro 1696-a , is not as wide-reaching as advocates had initially hoped for . an earlier version would have mandated that all agencies making decisions with algorithms make their codes publicly available . the passed version simply requires the taskforce look into the feasibility of this . ",
+        "if signed , the taskforce will need to be formed within three months , but the report itself would n't be due for 18 months , which is fair given the size of such a data intensive task , and , of course , its importance . weeding out algorithmic biases and challenging the systems that allow them to exist in the first place will have a massive civic impact and set vital precedents for the rest of the country .   "
+    ]
+}

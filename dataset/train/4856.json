@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8571428571428571
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google says it sold a google home device every second since october 19 ."
+    ],
+    "id": "678262.train",
+    "article": [
+        "google today announced that it sold `` tens of millions of google devices for the home '' over the course of the last year and that it sold `` more than one google home device every second since google home mini started shipping in october . `` with roughly 6.75 million seconds since october 19 , chances are that we 're talking close to 7.5 million google homes . google went all-in on its google assistant and its various google home devices in 2017 . the launch of the google home mini , which you could easily buy for $ 29 gave the company a low-price competitor to amazon 's echo dots , and even though it 's doubtful that google made a lot of money of these sales , the move clearly paid off . ",
+        "sadly , google is n't saying what the sales breakdown between the google home mini and the regular-sized version was , but it 's a safe bet that the company sold quite a few more of the lower-priced gadgets . google also today announced that its assistant now runs on 400 million devices . this includes phones and watches , as well as devices from partners and even the iphone . it 'd be nice if we could compare google 's numbers to amazon 's , but amazon is notoriously cagey about releasing any real sales numbers and instead opts for cute lists that are big on anecdotes and low on details . ",
+        "unsurprisingly , these large numbers also make the google assistant ecosystem more attractive to device manufacturers that want to integrate their services with the assistant . for the most part , this means home automation services and hardware from the likes of nest , belkin , samsung , philips and others . in total , there are now more than 1,500 smart home devices from more than 225 brands that support the google assistant . it 's probably a safe guess that google is n't randomly making today 's announcement ahead of ces , which is kicking off over the weekend . ",
+        "for the first time , google is having a major presence on the show floor of the event and most of this seems to be centered around the assistant and its partner ecosystem . there 's a good chance we 'll see more assistant-enabled hardware in the next few days . this article originally appeared on techcrunch .   "
+    ]
+}

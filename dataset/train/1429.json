@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.9230769230769231
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "philips releases a headband that plays white noise to help you sleep ."
+    ],
+    "id": "781024.train",
+    "article": [
+        "philips just came out with a new headband that plays white noise to help your brain get to sleep . although philips ' headband looks like an ill-formed diaper , its weird design attaches built-in sensors to your forehead in order to detect brain activity . then it shares that data with a connected mobile app . when deep sleep is detected , the headband 's speakers will start playing white noise in a slowly repeating pattern , which philips claims will reinforce a good night 's sleep . a startup announced a similarly strange-looking headband called dreem built for the same purpose of playing white noise as you sleep last june , and it 's currently on sale for a hefty $ 499 . ",
+        "while the philips headband does n't look that comfortable nor reliable , small pilot studies on the effect of noise on deep sleep have suggested that it might help older adults achieve better sleep and stronger memory . but since those studies are in really small groups , the findings may not hold up . what we do know is that sleep is important , and according to a 2016 cdc report , one in three adults in the us do n't get enough of it . is it worth wearing an expensive , diaper-looking contraption every night to bed ? ",
+        "that 's debatable . the philips smartsleep headband will be available this spring in the us , and it will cost $ 399.99 , which at least is cheaper than dreem .   "
+    ]
+}

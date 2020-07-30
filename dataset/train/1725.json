@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.75
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "persistent photoconductivity used to stimulate neurotypic cells ."
+    ],
+    "id": "1173985.train",
+    "article": [
+        "researchers have , for the first time , used a material 's persistent photoconductivity to stimulate neurotype cells . the technique , which is relatively simple , should facilitate future research on using charge to influence cellular behavior . a material that demonstrates persistent photoconductivity gains a negative charge on its surface when exposed to the right wavelength of light , and retains that charge even after the light is removed . the correct wavelength of light , and how long the material retains its charge , varies from material to material . researchers have known for years that electric charge can stimulate a cell , but existing technologies for conducting related experiments are often invasive or require specialized equipment . ",
+        "they can also be extremely time consuming . `` we wanted to take advantage of the electronic properties of the semiconductor gallium nitride , which is biocompatible , making it a true bioelectronic interface , '' says patrick snyder , a ph. d. student at north carolina state university and lead author of a paper on the work . `` the result is a faster , noninvasive way to stimulate cells that does n't require specialized equipment . '' specifically , the researchers exposed a gallium nitride substrate to ultraviolet light , creating a negative charge on its surface . ",
+        "as soon as the uv light was removed , researchers poured a solution containing pc12 neurotypic cells into the container with the substrate . the researchers then introduced a dye that allowed them to measure calcium levels in the pc12 cells . what the researchers found was that pc12 cells were stimulated when they came into contact with the charged gallium nitride substrate , as evidenced by increased calcium ion levels within the cells , when compared to a control group that did not come into contact with a charged substrate . this is evidence of altered behavior because ions are important in neurotypic cell activity . ",
+        "for example , calcium ions play key roles in neuronal signaling . `` in addition to advancing our fundamental understanding of what this material is capable of , we 're optimistic that it can facilitate work by many labs interested in advancing research on cellular behavior , '' says albena ivanisevic , a professor of materials science and engineering at nc state and corresponding author of the paper . the paper , `` non-invasive stimulation of neurotypic cells using persistent photoconductivity of gallium nitride , '' is published in the open-access journal acs omega . the paper was co-authored by ramon collazo , an assistant professor of materials science and engineering at nc state ; pramod reddy , a postdoctoral researcher at nc state and employee of adroit materials ; ronny kirste of adroit materials ; and dennis lajeunesse , an associate professor of nanoscience at the university of north carolina-greensboro . ",
+        "the work was done with support from the u. s. army research office , under grant w911nf-15-1-0375 ; and the national science foundation , under grants dmr-1312582 and eccs-1653383 .   "
+    ]
+}

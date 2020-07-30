@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7272727272727273
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "nvidia 's new 65-inch 4k gaming displays run android tv ."
+    ],
+    "id": "754235.train",
+    "article": [
+        "well this is surprising . nvidia 's stepping into the gaming display space , partnering with a bunch of companies -- acer , asus and hp to start -- to release their own version of a bfgd , or big format gaming display . these 65-inch gaming displays are aimed at hardcore pc gamers who want a huge screen , and have impressive specs like a 4k resolution , hdr , as low as 1ms latency , and a 120hz refresh rate . interestingly , they also have a full-on android tv experience built in . the pitch is that the hardcore gamers will come to the bfgd for the best experience when they hook up their pc and play , but then when they 're done with that and want to take a break they flip over to a full nvidia shield android tv experience : this critically-acclaimed device , that before now was only available as a separate box , runs at up to 4k , in hdr , and has a whole host of apps and features . ",
+        "for streaming there 's support for amazon , hbo , hulu , netflix , youtube and many other key channels ; for home and remote playback there 's best-in-class plex and kodi support ; for extra gaming fun there are android games and exclusive conversions of classic titles , such as metal gear solid 2 and 3 ; for remote pc playing there 's geforce now and gamestream ; for relaxed user control there 's voice-powered google assistant ; and for future household tech there 's shield 's smart home technologies . so not only do you get the benefit of having an android tv experience , but you get the nvidia version of that -- that means amazon video , geforce now streaming and gamestream streaming . ",
+        "presumably this is rolling with the same specs as a standalone nvidia shield android tv box , which is still the industry leader . a few other tv manufacturers have gone with android tv for their default interface , but this is interesting to see as a value-add for something that is primarily focused on having the right specs for optimal gaming performance . because this is a partnership deal , nvidia is leaving it to acer , asus and hp to make their own announcements about bfgd releases . so we do n't know details about availability or pricing . ",
+        "asus has announced that its version will be the rog swift pg65 , but has no details beyond that .   "
+    ]
+}

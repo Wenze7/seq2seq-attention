@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.625
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "google chrome browser extension caught mining cryptocurrency ."
+    ],
+    "id": "617078.train",
+    "article": [
+        "alphabet inc removed its archive poster chrome extension tuesday after some of its 105,000 users reported the surreptitious deployment of an in-browser coinhive miner . early reports suggest the monero mining script was present on at least four updates of the extension , which facilitates cross-site content posting to tumblr . where your power wentthe embedded coding allowed miners to draw computational power to release cryptocurrency , a data-heavy process that exhausts energy sources through the solution of complex math problems . the taxing operation requires heavy hardware investments and , in many cases , resource pooling . hacked consumers have nothing to gain from their contributions , which ultimately reward successful power thieves . ",
+        "miners receive units of cryptocurrency for their labor , which may range from bitcoin 's $ 13,800 valuation to ethereum 's $ 900 . who else siphons fuelthe compromised extension is n't google 's first encounter with power-siphoning scams . in october , google analytics and at least 27 of the firm 's android apps were implicated in mining hacks that tapped into mobile central processing units and drained phone batteries . google is also not the first company linked to such schemes . the pirate bay and cbs corporation 's showtime streaming platforms exploited visitors with intentionally placed mining codes , while sites like politifact . ",
+        "com and wordpress were discovered to be carriers of embedded script . adguard found 220 websites in the alexa top 100,000 list that were infected , affecting more than 500 million aggregate visitors . related links : how wall street 's head honchos feel about cryptocurrencya guide to who loves and hates cryptocurrency © 2018 benzinga . com . benzinga does not provide investment advice . all rights reserved .   "
+    ]
+}

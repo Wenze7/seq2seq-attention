@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "oneplus 3t beta sending clipboard information to a server ."
+    ],
+    "id": "863901.train",
+    "article": [
+        "your oneplus phone may be sending out some data to a third-party . nothing is confirmed yet but a oneplus user shared his suspicions upon seeing a ` com . oneplus . clipboard ' trying to access a network shortly after the phone was upgraded to oreo beta . this already includes the december 1 security update . a oneplus forum user noted that the ip address is connected to alibaba . as it turned out , the system app can really be found in the beta as confirmed by the company but it 's only intended for hydrogenos or those in china . ",
+        "oneplus acknowledged the issue and already said the company will soon be updating the global oxygenos beta to remove the said `` feature '' . a oneplus rep said the data sent are saved on any server so there 's nothing to worry about . it 's a bit alarming though to know that your clipboard information is being harvested . it should n't be a big problem because it 's not unusual for chinese oneplus users but like any security issue , we will `` never settle '' until an explanation or solution is given . interestingly , another user tried to replicate the event by installing oreo beta on the oneplus 3 . ",
+        "data was then inspected using mitmproxy . the results revealed the app was indeed trying to connect to a server but clipboard data was n't . it 's not a mistake as the latest hydrogenos beta changelog mentioned something about this : smart clipboard recognition which provide appropriate buttons to help you accelerate your next action . this feature currently supports recognition for url , address and taobao content .   "
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "286.val",
+    "article": [
+        "scheduled routines is finally coming to google assistant . with it , users can set routines that automatically go off even without asking google to do them . google promised it would add the ability to schedule routines within assistant earlier this year , and now it 's honoring its addition to multi-step routines , which allow users to perform several actions -- toggle the lights , ring the alarm , turn on smart home appliances -- with just one command , google is adding scheduled routines to make the feature even more to schedule routines on google assistantdroid life first spotted the apparent rollout on reddit , with some users saying they saw the option appear on the google home app . ",
+        "to craft routines , go to settings , then routines , and then tap the '' + '' sign . there should now also be an option to `` set a time and delay . '' for those who are n't seeing that last option yet , check back after a day or two ; google says it 's rolling the feature out over the next few is scheduling routines useful ? well , for people actively using routines , this could be a pretty convenient way of setting up their assistant-enabled devices so as to automatically perform actions at a set time and date . ",
+        "for example , a user can schedule a routine every morning where assistant turns off the lights or toggles the phone off its silent mode instead of asking google each time . it does n't just work for mornings , by the way : users can also set afternoon or nightly routines as well . just as long as a user has the necessary smart home equipment needed to perform a function , it can be included in a scheduled google locking you into its ecosystem again ? while a lot of these devices already have built-in scheduling features that can be toggled on via third-party apps , google making scheduling native to google assistant brings everything under one roof , as techcrunch notes -- this might just be part of google 's increasing attempts to keep people locked into one app . ",
+        "the company recently rolled out a feature on search that displays nearby events in a clean , convenient layout , so people are less likely to go to , say , other events app for the same course , google assistant does n't have the power or sufficient tools -- for now , at least -- to replace default smart home apps entirely . in any case , allowing users to schedule routines is a smart move , one that takes assistant a notch above alexa , siri , bixby , and other digital do you think of google assistant routines ? ",
+        "as always , feel free to sound off in the comments section below ! "
+    ],
+    "abstract": [
+        "scheduled routines now rolling out on google assistant : here 's how to use it"
+    ],
+    "extracted": [
+        0
+    ],
+    "score": [
+        0.4
+    ]
+}

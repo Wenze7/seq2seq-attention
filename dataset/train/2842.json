@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.6363636363636364
+    ],
+    "extracted": [
+        4
+    ],
+    "abstract": [
+        "granular data management and collaboration in real time using openbom ."
+    ],
+    "id": "1082705.train",
+    "article": [
+        "yesterday i shared 5 ways openbom can improve collaboration , here . collaboration is both a sweet and strange word at the same time . collaboration smells good . vendors use it , customer use it . but , in the cad , pdm , and plm industry it 's been oversold many time by vendors . and i 've seen how it 's been done by many companies . collaboration can mean anything and everything . for example , when i send you an email , it can be called collaboration . or , if i use the same file name located on a shared drive , it can also be called collaboration as well . ",
+        "and , if i use a web application , it 's also collaboration as well . you probably remember all those examples from your past . although i too like the word collaboration , both context and details are important to understand the differences between one collaboration and another . at openbom we 've been thinking how to increase the granularity of data management compared to all existing pdm , plm and erp solutions . this is how we came up with the idea of granular data management combined with real time collaboration . you 're familiar with real-time collaboration . ",
+        "google taught us about it in google docs . now it is used in so many places . at openbom , we believe combination or better yet , real-time collaboration and granular data management is very powerful combo . the main benefits of such a combination is the ability to make simultaneous changes to data by multiple people . this is what openbom does . when you create bom using an openbom cad plug-in and share it with other people , all the changes are done on a very granular level of single attribute or single operation , e. g. , add an item , change the value of a property , etc. . ",
+        "it creates a very efficient mechanism to support collaborative work . think about this typical scenario : 1 - an enigineer creates a bom from solidworks cad assembly2 - he shares it with a procurement person buying parts3 - a procurement manager is adding some information to the bom 4 - at the same time , the engineer can make changes and modify the bom using data from cad system and his input . by doing so , we achieve very efficient collaboration between people , departments , and organizations . and most important , every single operation is saved as a permanent history . ",
+        "in other words , you have a history of all who did what and when . and last but not least , openbom also keeps track of relationships conclusion . at openbom we develop unique collaboration capabilities by combining granular data management with real-time collaboration . this opens up new ways for people to work together . let me know what you think and try openbom today . best , olegps . let 's get to know each other better . if you live in the greater boston area , i invite you for a coffee together . if not nearby , let 's have a virtual coffee session -- i will figure out how to send you a real coffee . ",
+        "want to learn more about plm ? check out my beyond plm blog and plm book website .   "
+    ]
+}

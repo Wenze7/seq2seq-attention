@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.7142857142857143
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "4 things about bitcoin price swings ."
+    ],
+    "id": "261054.train",
+    "article": [
+        "understanding crypto currency volatilitywe want to provide a high level introduction , bare bones and at times quite crude overview of bitcoin price volatility . in the early days of cryptocurrencies the swings in price were at their highest peaks and lows . now we see this start to settle . the majority of these swings happened in the early days of exchanges because there was n't enough orders . when there is a big book of orders -- there is always an order that will meet somebody else at more levels of the market . when the book has less orders prices can move drastically between points where people are willing to buy and sell . ",
+        "this post is intended for those new to the cryptocurrency space , and who are looking for a high-level explanation of bitcoin and associated technologies . for readers who are already familiar with the basics and want to know more about bitcoin and other cryptocurrencies , we 'd recommend the princeton bitcoin book or blockchain at berkeley to start . here are 4 things you need to know about bitcoin volatility specifically . summarised from cryptocompare 's article on bitcoin volatility . 1 . bitcoin is the least volatile of the cryptocurrencies . bitcoin is definitely the most liquid coin on the market as it has the greatest depth in it 's order books on exchanges . ",
+        "a big trade will have a smaller price impact on the bitcoin price compared to smaller coins . 2 . high volatility most commonly comes with lots of trades and price drops . it seems obvious though when lots of people are trading a currency it usually coincides with a price drop . when people panic and a book fills with sell orders with everyone trying to sell . when people freakout from price movements -- it usually happens in large groups if there is n't a clear understanding of what has been invested in . it 's usually the investors with the least knowledge that freak out the most . ",
+        "3 . bitcoin price moves together with other cryptoassets . as bitcoin is the main way to buy other currencies . most people will buy and trade bitcoin in order to move the dollar of their country into crypto assets . bitcoin trade boosts other currencies because it has become the standard way to move between cryptocurrencies . check the matrix below comparing cryptocurrencies to the usd . 4 . bitcoin can match the volatility of traditional currenciesin 2016 comparing the us dollar bitcoins volatility was getting close to matching traditional currencies . would you rather do what you do and have someone else invest your spare change in cryptoassets securely ? ",
+        "bamboo rounds up your spare change from the past month 's purchases and invests it in cryptocurrencies including bitcoin , ethereum , litecoin and more . check out getbamboo . io . if you 'd like to know more about bitcoin , ethereum and litecoin , check out ; vias science cartoons2016 usd statistics .   "
+    ]
+}

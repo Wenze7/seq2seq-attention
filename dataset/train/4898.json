@@ -1,0 +1,21 @@
+{
+    "score": [
+        0.7272727272727273
+    ],
+    "extracted": [
+        6
+    ],
+    "abstract": [
+        "mosaic 's birthday : 25 years of the modern web ."
+    ],
+    "id": "1231070.train",
+    "article": [
+        "special featureiot : the security challengethe internet of things is creating serious new security risks . we examine the possibilities and the dangers . read morein the beginning , the web , or web as it was known then , was a mystery . like gopher and archie , it was a character-based internet tool interface that only the proud , the few , and the early internet users knew about . then , everything changed . first , the commercial internet exchange made it easy for anyone to get on the net , and then two graduate students , marc andreessen and eric bina , at the national center for supercomputing applications at the university of illinois urbana-champaign , created the first popular web browser : mosaic . ",
+        "mosaic 's first beta was released for unix operating systems running x window on january 23 , 1993 . it was n't the first graphical web browser . that honor goes to violawww , a unix browser , although some argue the even more obscure erwise should get the credit for being the first web browser . the early browser cello takes the prize for being the first windows graphical web browser . no matter who really gets the credit for being the very first web browser , no one can argue mosaic was the first popular web browser . ",
+        "mosaic changed everything . because mosaic was fast and enabled people to see images within pages , it quickly gained fans . earlier browsers could only show images in separate windows . moasic was also the first `` easy to use '' browser . it also popularized icons , bookmarks , and a more attractive interface . that 's not to say anyone could use mosaic . it was far from simple to set up . in those days , getting on the internet was a major pain in the rump . for instance windows did n't natively support the internet 's fundamental protocol , tcp/ip , until windows 95 appeared . ",
+        "if you wanted tcp/ip on windows 3.1 x , you needed to use the arcane but absolutely necessary trumpet winsocket program , and find an internet service provider . just because it was hard to do , it did n't stop people . as bob metcalfe , co-founder of ethernet , wrote in 1995 , after andreessen and bina developed ncsa mosaic , `` several million then suddenly noticed that the web might be better than sex . `` well maybe . as the popular musical avenue q wittily points out , '' the internet is for porn . '' ",
+        "but , we did n't know that yet . more dryly , the ncsa stated that soon after mosaic was released , `` more than 5,000 copies were being downloaded each month ; the center was receiving hundreds of thousands of email inquiries a week , and internet traffic was dramatically rising . '' by mid-1994 , joseph hardin , an ncsa director , claimed mosaic downloads were up to 50,000 a month . in the day when 28.8 kilobits per second was a fast internet connection , that 's a remarkable number . andreessen and bina quickly realized they could make a mint from mosaic . ",
+        "they took the mosaic code . in october 1994 , they turned it into the first successful commercial web browser : netscape navigator . five years later almost to the day , netscape would release the mosaic/netscape source code as open source . this code would become the foundation to the firefox web browser . microsoft , despite what bill gates would later claim , was late in realizing just how important the internet and the web would be . microsoft played catch up by copying spyglass ' mosaic-like code base to make the first version of internet explorer . ",
+        "ie 2.0 was released as an add-on to windows 95 in the microsoft plus package in august 1995 . there was never an ie 1.0 . mosaic transformed our world . today , we live our lives on the web , and we all owe a debt of gratitude to mosaic . while the program itself , superseded by netscape , lost most of its users by 1998 , we 're still living in the world mosaic pioneered . related stories : the beginning of the people 's web : 20 years of netscape20 years of the webbefore the web : the internet in 1991 . "
+    ]
+}

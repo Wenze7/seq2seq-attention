@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "mirai botnet attackers plead guilty for roles in cyberattacks ."
+    ],
+    "id": "124072.train",
+    "article": [
+        "three men have pleaded guilty to federal cyber-crime charges for launching a cyberattack last year that knocked large parts of the internet offline . more security newsthe risky business of bitcoin : high-profile cryptocurrency catastrophes of 2017security researcher says directv hardware can be easily hackedmirai botnet attackers plead guilty for roles in 2016 internet cyberattacknetflix is watching you . we 're all watching youparas jha , josiah white , and dalton norman were indicted by an alaska court in early december , according to documents unsealed wednesday . the justice dept. released a statement later in the day confirming the news . ",
+        "prosecutors accused the hackers of writing and using the mirai botnet to hijack vulnerable internet-connected devices to launch powerful distributed denial-of-service attacks . according to jha 's plea agreement , the botnet ensnared more than 300,000 vulnerable devices . the filing says that jha `` conspired to conduct ddos attacks against websites and web hosting companies located in the united states and abroad , '' and `` demanded payment in exchange for halting the attack . `` ddos attacks are a common way to disrupt online services , and often require little or no technical knowledge . the operator uses ensnared , vulnerable devices to flood a domain or server with bandwidth , which in turn can prevent legitimate access from accessing sites and services . ",
+        "jha admitted to releasing the code publicly to create `` plausible deniability '' if code was found on his computers . the publishing of that code effectively made the botnet open source , so that anyone can use the botnet to launch attacks . white pleaded guilty to creating the mirai botnet 's scanner , used to seek out and hijack vulnerable internet-connected devices . norman admitted to developing exploits to build into the botnet .   ",
+        "contact me securelyzack whittaker can be reached securely on signal and whatsapp at 646-755 -- 8849 , and his pgp fingerprint for email is : 4d0e 92f2 e36a ec51 daae 5d97 cb8c 15fa eb6c eea5.read morezdnet investigationsnsa 's ragtime program targets americans , leaked files showleaked tsa documents reveal new york airport 's wave of security lapsesus government pushed tech firms to hand over source codeat the us border : discriminated , detained , searched , interrogatedmillions of verizon customer records exposed in security lapsemeet the shadowy tech brokers that deliver your data to the nsainside the global terror watchlist that secretly shadows millionsfcc chairman voted to sell your browsing history -- so we asked to see his198 million americans hit by ` largest ever ' voter records leakbritain has passed the ` most extreme surveillance law ever passed in a democracy'microsoft says ` no known ransomware ' runs on windows 10 s -- so we tried to hack itleaked document reveals uk plans for wider internet surveillance ."
+    ]
+}

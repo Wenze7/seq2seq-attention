@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.6666666666666666
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "amphetamine abuse disrupts development of mouse prefrontal cortex ."
+    ],
+    "id": "729605.train",
+    "article": [
+        "credit : hoops et al. , eneuro . recreational drug use during adolescence may disrupt development of an understudied part of the prefrontal cortex , according to a study of male mice published in eneuro . brain cells that utilize the neurotransmitter dopamine are key players in the development of the prefrontal cortex , which continues to mature through early adulthood . during adolescence , the axons of these dopamine neurons extend from the nucleus accumbens to the medial prefrontal frontal cortex . cecilia flores and colleagues show that this delayed growth of dopamine axons also applies to the orbital prefrontal cortex , a brain region involved in complex functions such as decision-making , but the development of which is poorly understood . ",
+        "mice exposed to the stimulant amphetamine at doses similar to those obtained when the drug is abused by humans had fewer synapses in the opfc , likely as a result of reduced axon growth , compared to control mice . the researchers did not observe ongoing adolescent dopamine axon growth nor similar effects of amphetamine in a neighboring brain region , the piriform cortex . this suggests that the ongoing extension of dopamine axons and their sensitivity to environmental influences like drugs may be unique to the prefrontal cortex . article : dopamine development in the mouse orbital prefrontal cortex is protracted and sensitive to amphetamine in adolescence . ",
+        "corresponding author : cecilia flores , cecilia . flores@mcgill . ca . about eneuro . eneuro , the society for neuroscience 's new open-access journal launched in 2014 , publishes rigorous neuroscience research with double-blind peer review that masks the identity of both the authors and reviewers , minimizing the potential for implicit biases . eneuro is distinguished by a broader scope and balanced perspective achieved by publishing negative results , failure to replicate or replication studies . new research , computational neuroscience , theories and methods are also published . about the society for neuroscience . the society for neuroscience is the world 's largest organization of scientists and physicians devoted to understanding the brain and nervous system . ",
+        "the nonprofit organization , founded in 1969 , now has nearly 37,000 members in more than 90 countries and over 130 chapters worldwide .   "
+    ]
+}

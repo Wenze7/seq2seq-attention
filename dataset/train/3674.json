@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6363636363636364
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple health app data used as evidence in rape investigation ."
+    ],
+    "id": "845468.train",
+    "article": [
+        "law enforcement might have difficulty accessing iphones , but it can obtain a wealth of information when it does get in . german investigators have used data from ios ' built-in health app as evidence in the investigation of a rape and murder case . police cracked the suspect 's phone with the help of an unnamed munich company and discovered health data that corresponded with his reported activity the day of the crimes , which included dragging the victim down a river embankment and climbing back up . the suspect 's health app appeared to have registered this last action as two instances of stair climbing , and an officer obtained similar results when replicating the accused 's movements . ",
+        "the health info was only part of the information investigators collected . they only had incomplete public surveillance video and geodata , but they noticed that his phone contacted a cell tower near the crime scene at a time consistent with video footage , and that there was an unusually long period of inactivity before it had to contact a new cell site . the victim 's nokia phone also sent its last location data shortly after the crime is believed to have taken place . this is n't the first time fitness data has been used in court , but ios health app use is rare for a good reason : it 's encrypted both the moment you lock your phone and when it 's saved to icloud . ",
+        "police can only realistically obtain it by unlocking the device generating the data . moreover , it can only say so much about a suspect 's behavior when it does n't include location info . however , this is a reminder of the potential privacy issues surrounding activity info . while it may prove important to convictions in cases like this , there are concerns it could be abused without adequate privacy protections or if it falls into the wrong hands . welt this article originally appeared on engadget at .   "
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "score": [
+        0.6153846153846154
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "whatsapp could be ready to launch digital payments in india next month ."
+    ],
+    "id": "1091091.train",
+    "article": [
+        "thanks to a government-backed platform called upi , developers are able to more easily integrate digital payments for india into their apps . google 's tez uses upi for bill payments , and social app truecaller added the functionality in a recent update . the country 's most used messaging app should n't be too far behind as facebook-owned whatsapp could be ready to offer a payment solution based on upi as early as next month . according to a report by ettech , the service is currently being tested in conjunction with one of its partner banks . apparently , there are several already signed up to support payments on whatsapp , including state bank of india , icici bank , hdfc bank , and axis bank . ",
+        "if all goes to plan digital payments could be rolled out to users before the end of february , although there are tons of things that can go wrong with this type of integration . data security will be of utmost importance to the banks , so do n't be surprised if they take some extra time to get it right . with more than 200 monthly active users in india , whatsapp has the reach to bring mobile payments to various new audiences . upi has seen strong adoption since its launch last year , and the addition of whatsapp will strengthen its position as the country 's leading mobile payments platform . ",
+        "source : ettech .   "
+    ]
+}

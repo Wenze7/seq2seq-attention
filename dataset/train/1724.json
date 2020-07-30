@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.6666666666666666
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "releasing our lightning network explorer ."
+    ],
+    "id": "47574.train",
+    "article": [
+        "back in march 2017 , when we released the first alpha version of eclair , we mentioned that we were working on an explorer for the lightning network . we also said that we would release it once the ln specifications were completed and a sufficient level of compatibiliy was reached between the different implementations . well , it 's time ! two days ago , together with the other lightning developers , we announced the version 1.0 rc of the lightning protocol specification and we successfully achieved cross-implementation payments on bitcoin mainnet . here 's the link : note that it is currently better viewed on firefox or chrome . ",
+        "current state of the lightning network on testnetwhat does it do ? the explorer displays all known nodes and channels that compose the lightning network . thanks to the interoperability effort , any node from any bolt-compliant implementation will appear here , so you will see c-lightning nodes , eclair nodes , and lnd nodes ! a cool feature of lightning is that nodes can advertise their own alias and color . in case you find a node with a moniker that seems to come directly from a leaked nsa powerpoint , that 's probably because c-lightning uses a very special codename generator for its alias ; -- rrb - . ",
+        "on the default layout , nodes that announce a public ip are placed on a world map . another layout is available , called force graph , which will display all known nodes and channels . selecting a node will highlight the channels to and from this node , and display the node uri in plaintext , and in the form of a qr code . if you are using our android eclair wallet , just scan the code and you will open a channel with that node . pretty convenient right ? for now , the explorer shows the network on testnet , the test version of bitcoin . ",
+        "the network is still pretty small , but keeps growing every day . if you want to help lightning go live as soon as possible , get noded ™ and help test & debug the network ! can i see the transactions ? no , because transactions on the lightning network are not publicly broadcast . instead , they are encrypted and routed from payer to payee via intermediate nodes , using a tor-like onion routing protocol . in other words , lightning transactions offer significant privacy improvements over regular on-blockchain transactions . cool , what about the tech ? ",
+        "backend runs a stripped-down version of eclair , frontend is a mix of vuejs , d3 and pixi .   "
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.875
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "fcc approves first power-at-a-distance wireless charging system ."
+    ],
+    "id": "446981.train",
+    "article": [
+        "right now one could argue that wireless charging is n't really wireless , because while you might not need to plug your phone in , the fact that it needs to be placed physically on top of a wireless charging mat kind of negates the whole wireless point . however the good news is that we are getting closer to `` true '' wireless charging . the fcc has recently approved the first power-at-a-distance wireless charging system by energous . for those unfamiliar , basically this is a wireless charging system that uses radio frequencies to charge your devices at a distance of up to 3 feet . ",
+        "however this would require devices to be outfitted with a corresponding receiver to receive the converted radio frequencies , which means that those existing wireless chargers ca n't just hop on board the bandwagon . the best part is that energous ' technology is manufacturer-agnostic . this means that a phone made by one manufacturer should have no issues using the tech if it was made by a different company , kind of like how qualcomm 's chipsets can be used by different android handset makers . unfortunately energous does not appear to have any retail-ready devices at the moment , but the company does plan on showing off new technology at ces 2018 which takes place in the next couple of weeks , so perhaps we 'll learn more then . "
+    ]
+}

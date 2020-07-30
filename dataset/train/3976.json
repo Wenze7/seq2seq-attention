@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "nasa successfully fires voyager 1 thrusters after 37 years ."
+    ],
+    "id": "7756.train",
+    "article": [
+        "nasa 's voyager 1 spacecraft -- cruising interstellar space billions of miles from earth -- was back on the right track friday thanks to thrusters that were fired up for the first time in 37 years . the unmanned spaceship was launched along with its twin , voyager 2 , more than 40 years ago to explore the outer planets of our solar system , traveling further than any human-made object in history . but after decades of operation , the `` attitude control thrusters '' that turn the spacecraft by firing tiny `` puffs '' had degraded . the small adjustments are needed to turn voyager 's antenna toward earth , allowing it to continue sending communications . ",
+        "`` at 13 billion miles from earth , there 's no mechanic shop nearby to get a tune-up , '' nasa said in a news release . experts at the agency 's jet propulsion laboratory in california decided to turn to four backup thrusters that were last used on november 8 , 1980 . `` the voyager flight team dug up decades-old data and examined the software that was coded in an outdated assembler language , to make sure we could safely test the thrusters , '' said chris jones , chief engineer at jpl . the engineers fired up the thrusters on tuesday and tested their ability to turn voyager using 10-millisecond pulses . ",
+        "then they waited 19 hours , 35 minutes for the test results to arrive at an antenna in goldstone , california . turns out the thrusters worked just fine . `` the voyager team got more excited each time with each milestone in the thruster test . the mood was one of relief , joy and incredulity after witnessing these well-rested thrusters pick up the baton as if no time had passed at all , '' said todd barber , a jpl propulsion engineer . being able to use the backup thrusters means the lifespan of voyager 1 has been extended by two or three years , added suzanne dodd , project manager for voyager . ",
+        "nasa plans to switch over to the formerly dormant thrusters in january . they will likely also conduct similar tests on the backup thrusters on voyager 2 . scientists still hear from the voyager spacecraft daily , and expect to get data for about another decade . astronomy textbooks were rewritten on a wide scale thanks to the voyager spacecraft , which zoomed past jupiter , saturn , neptune and uranus . the plutonium-powered spaceships will continue until they finally run out of fuel , and will then orbit in the center of the milky way galaxy .   "
+    ]
+}

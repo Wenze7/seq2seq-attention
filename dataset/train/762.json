@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.2857142857142857
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "maths proves that angry drivers make driving worse for everyone , including themselves ."
+    ],
+    "id": "238186.train",
+    "article": [
+        "tailgaters , we all hate them . the people that get right up close to your bumper because , they believe , you 're not going fast enough . they flash their lights , perhaps honk their horn , and then undertake you at around 80 mph all while glaring through their driver-side window at you . it turns out that , if these drivers just learnt to slow down , we 'd all get to our destinations far quicker than their constant braking and accelerating allows . the revelation comes from a new study by researchers at mit 's computer science and artificial intelligence laboratory that outlined how we could travel faster and safer by simply making one small change to how we drive . ",
+        "the study , published in ieee transactions on intelligent transportation systems , argues that by keeping an equal distance between cars in front and behind us , we could get where we 're going twice as quickly . this method , which mit professor and project researcher berthold horn calls `` bilateral control '' , can be seen in flocks of birds like starlings who move in tandem , keeping an even space between them despite their wild flight patterns . read next : how do google 's driverless cars work ? `` birds have been doing this for centuries , '' says horn . '' ",
+        "to program this behaviour , you 'd want to look at the birds all around you and not just the ones in front of you . `` however , humans are difficult beasts to tame and train . it 's unlikely that unruly bastard in his suv who loves to get right up to your bumper is going to kick his filthy habit anytime soon . thankfully , that 's where technology comes in . these birds could hold the clue to improved traffic flow and managementhorn suggests that many car manufacturers install rear-bumper sensors into their cars , along with front-bumper sensors to ensure drivers know if there 's a car approaching from behind . ",
+        "he also believes that , as we move towards more autonomous cars and advanced cruise control systems , traffic could benefit from these improvements in flow management . `` we humans tend to view the world in terms of what 's ahead of us , both literally and conceptually , so it might seem counter-intuitive to look backwards , '' says horn . `` but driving like this could have a dramatic effect in reducing travel time and fuel consumption without having to build more roads or make other changes to infrastructure . `` interestingly , horn and his postdoctoral associate liang wang are talking with toyota to create simulations to test if this methodology is beneficial to driver safety as well as speed . ",
+        "read next : who will the driverless car crash into ? this is n't the first time horn has spoken about the idea of `` bilateral control '' and how it can improve traffic flow , he first discussed the idea in 2013 as a model of a single car and the cars around it . his new paper looks at it from the level of an entire roadway and how entire road networks can become snarled because of individual cars trying to force their way through traffic . referred to as `` perturbations '' , these blips of individual cars changing speed and tailgating can cause traffic jams . ",
+        "`` our work shows that , if drivers all keep an equal distance between the cars on either side of them , such ` perturbations ' would disappear as they travel down a line of traffic , rather than amplify to create a traffic jam , '' explained horn . as we move to a more driverless future , hopefully , these phantom traffic jams will disappear as the angry tailgater melts away in favour of a courteous ai-driven vehicle .   "
+    ]
+}

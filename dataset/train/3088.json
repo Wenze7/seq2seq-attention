@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.4166666666666667
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "weekly update : dev update , ethlend partnership , and more !"
+    ],
+    "id": "218646.train",
+    "article": [
+        "this has been an exciting week for change ! the card ordering flow is being tested , and we are happy to announce the beginning of a new partnership with ethlend . let 's recap ! dev updatethis week brought new functionalities , but also challenges . as the app is being used by a growing number of people , the team uncovered some reliability and performance issues . the problems were addressed and solved , but some issues might still reoccur as app usage scales exponentially . in addition to focusing on reliability and performance , the team finished building the card ordering flow . ",
+        "it is currently being tested and soon a wider selection of testers will be able to try it out . tasks for next week include continuing work on app performance , fixing bugs in the card ordering flow and card payment integration . ethlend partnershipethlend and change are proud to open a new page in the history of the financial services for crypto users . this partnership brings both companies closer to their common goals -- decentralization , financial inclusion , transparency and mainstream acceptance of cryptocurrencies . change will start by integrate ethlend 's token into change wallet . ",
+        "ethlend will then integrate change 's financial marketplace as a service provider . additionally , ethlend borrowers will be able to convert their funds with the use of change payment card . the payment will be automatically processed in the local currency without any additional fees , enabling lend token as an efficient method of payment . interview with kristjan `` what is change ? '' -- an interview by cryptominded with change 's ceo kristjan kangro . livestream with gustavpreviously , we had kristjan -- ceo -- doing a live stream on facebook . you can find the video here . ",
+        "this time , our head of product gustav will be the one answering questions from our community ! the live stream will start on wednesday , 11am estonian time * . make sure you follow change 's facebook page to receive a notification ! send your questions to @cryptogg on telegram ! * 9am gmt .   "
+    ]
+}

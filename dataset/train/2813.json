@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple apologizes for slowing down iphones with old batteries ."
+    ],
+    "id": "488081.train",
+    "article": [
+        "in a message posted on its website today , apple outlined how it planned to address and make amends for slowing down aging iphones . a brief recap : last week news emerged that in newer versions of ios , phones with aging batteries would have their performance capped in order to avoid the device suddenly shutting down , a persistent problem . in other words , slowing down the phone would pull less power , thus preventing the shutdown issue . the news also meant that long-rumored conspiracy about apple slowing down older phones was , in a sense , true -- just not for the purpose of making you buy a newer phone . ",
+        "it makes sense , but apple did n't inform users of this change and that lack of transparency has been a complete pr nightmare for them . how many consumers paid for an entirely new phone when their issues could 've been fixed with a $ 79 battery replacement ? it probably is n't a negligible amount . the company is facing multiple lawsuits over the issue . `` we know that some of you feel apple has let you down . we apologize , '' the company wrote in a message posted to their site today . `` with the update , ios dynamically manages the maximum performance of some system components when needed to prevent a shutdown , '' the company explained . ",
+        "`` while these changes may go unnoticed , in some cases users may experience longer launch times for apps and other reductions in performance . '' this is what apple should have explained upfront . to make up for the confusion , apple is doing two important things . it is updating ios to include a tool to let users more accurately take stock of their device 's battery health , so they can avoid making unnecessary hardware upgrades . in concert with that , the company will offer $ 29 battery replacements through 2018 , a $ 50 reduction . ",
+        "will these changes stave off the looming class-action lawsuits ? probably not , but they 'll certainly help apple regain a little credibility . not a ton , but a little .   "
+    ]
+}

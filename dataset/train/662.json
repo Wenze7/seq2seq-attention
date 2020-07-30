@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.7
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "us senate targeted by russian hackers , experts say ."
+    ],
+    "id": "882421.train",
+    "article": [
+        "members of the united states senate are the latest american politicians to be targeted by russian hackers , according to a report by the cybersecurity firm trend micro . the company claims that the hacking group sometimes nicknamed fancy bear -- the same group believed to be behind the hack of the democratic national committee in 2016 -- is now targeting senators ' email accounts . the group uses a sophisticated combination of social engineering techniques , malware , and exploits to steal data , according to trend micro . in june 2017 , the group set up phishing domains that mimicked the login pages for the senate email system . ",
+        "trend micro has previously uncovered similar phishing sites that targeted french and iranian government officials . the sites are designed to steal passwords and enable hackers to log into politicians ' email accounts . even though the senate 's real email login page is n't accessible over the open internet , trend micro says the stolen passwords could still be used by hackers . from the firm 's report : beginning in june 2017 , phishing sites were set up mimicking the adfs of the u. s. senate . by looking at the digital fingerprints of these phishing sites and comparing them with a large data set that spans almost five years , we can uniquely relate them to a couple of pawn storm incidents in 2016 and 2017 . ",
+        "the real adfs server of the u. s. senate is not reachable on the open internet , however phishing of users ' credentials on an adfs server that is behind a firewall still makes sense . in case an actor already has a foothold in an organization after compromising one user account , credential phishing could help him get closer to high profile users of interest . feike hacquebord , a security researcher at trend micro , told the associated press that the campaign is likely an effort to steal and leak political emails . `` they 're still very active -- in making preparations at least -- to influence public opinion again , '' he said . ",
+        "`` they are looking for information they might leak later . `` it 's not the first time that concerns about the cybersecurity of the senate have been raised . last year , sen. ron wyden pressed his colleagues to enable two-factor authentication on senate email accounts to help prevent phishing attacks . `` the senate is far behind when it comes to implementing basic cybersecurity practices like two-factor authentication , '' sen. wyden wrote in an april 2017 letter . `` today , the senate neither requires nor offers two-factor authentication as an additional protection for desktop computers and email accounts . '' "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        2
+    ],
+    "abstract": [
+        "blackberry and baidu team up on apollo driverless cars ."
+    ],
+    "id": "600980.train",
+    "article": [
+        "you might not have a blackberry in your pocket any more , but it may well be powering your self-driving car , at least if baidu has any say in the matter . the chinese behemoth has inked a deal with blackberry to make qnx the heart of its autonomous driving open platform , apollo . announced in april 2017 , apollo is baidu 's vision of driverless technologies with an android-style distribution ethos . rather than working with a single automaker on a self-driving car , baidu is releasing apollo as a system any company could adopt . it includes not only hardware , like sensors and cameras , but the software to interpret and process that data , along with the cloud services for things like car-to-car intercommunication . ",
+        "while there 's no shortage of autonomous car projects underway right now , baidu has still managed to grab some high-profile partners . ford and daimler have confirmed they 're looking at apollo , while intel and nvidia have been working on hardware . velodyne , bosch , and continental are some of the better-known names in automotive-grade component suppliers , while microsoft confirmed last year that azure would be underpinning apollo 's cloud services . now , apollo has its operating system . qnx is still little-known among consumers , but it 's already a force to be reckoned with in automotive circles , underpinning a number of existing infotainment systems on the market . ",
+        "`` by integrating the blackberry qnx os with the apollo platform , we will enable carmakers to leap from prototype to production systems , '' li zhenyu , general manager of baidu 's intelligent driving group , said of the collaboration . `` together , we will work toward a technological and commercial ecosystem for autonomous driving , intelligent connectivity , and intelligent traffic systems . '' at the same time , blackberry and baidu are working together on another integration . baidu carlife , its integration software for connected cars which is primarily used in china , along with its dueros conversational ai and high-definition maps will be ported to the qnx car platform . ",
+        "for baidu , it 's a route to an established , automaker-friendly player in the space . much as with the azure deal last year , which gave the chinese company a trusted western partner -- and potentially assuaged some of the doubts that north american or european companies might have about betting on baidu 's product -- this qnx integration benefits from the os ' iso26262 asil-d certification for safety . given blackberry already works with auto industry heavyweights like delphi , qualcomm , and denso , its contacts could come in very useful as apollo tries to gain traction in self-driving vehicles . "
+    ]
+}

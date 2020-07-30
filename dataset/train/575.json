@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.45454545454545453
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "lebanon must investigate claims of mass spying : rights groups ."
+    ],
+    "id": "1244541.train",
+    "article": [
+        "eight rights groups including human rights watch called on lebanese authorities wednesday to investigate reports of a massive espionage campaign traced back to a government security agency . digital researchers last week said they had uncovered a hacking campaign using malware-infected messaging apps to steal smartphone data from people in more than 20 countries , including journalists and activists . the report tracked the threat , which the researchers dubbed `` dark caracal '' , to a building in beirut belonging to the lebanese general security directorate . eight rights groups and media organisations called on lebanon 's general prosecutor on wednesday to investigate who was behind the campaign . ",
+        "`` if these allegations are true , this intrusive surveillance makes a mockery of people 's right to privacy and jeopardises free expression and opinion , '' said lama fakih , deputy middle east director at human rights watch . `` lebanese authorities should immediately end any ongoing surveillance that violates the nation 's laws or human rights , and investigate the reports of egregious privacy violations . '' other signatories included the lebanese center for human rights , the skeyes center for media and cultural freedom , and lebanon 's social media exchange . hundreds of gigabytes of data have been taken from thousands of victims in more than 21 countries , said the report , authored by digital rights group electronic frontier foundation and mobile security firm lookout . ",
+        "they called dark caracal `` one of the most prolific '' mobile espionage campaigns to date . with fake versions of secure messaging services like whatsapp and signal , the scheme has enabled attackers to take pictures , capture audio , pinpoint locations , and mine handsets for private data . according to the report , dark caracal used finfisher , surveillance software used by governments around the world . in 2015 , toronto-based research group citizen lab found that general security and other lebanese security forces have used finfisher for surveillance in lebanon . general security chief abbas ibrahim did not explicitly deny the report . ",
+        "`` the report is very , very , very exaggerated . we do n't have these capabilities . i wish we had those abilities , '' he said . in comments to the media , interior minister nouhad mashnuq also appeared to confirm there was at least some truth to the report . `` it 's not that it 's not true , it 's just very overblown , '' said mashuq .   "
+    ]
+}

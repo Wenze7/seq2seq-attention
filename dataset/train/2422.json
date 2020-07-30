@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.6923076923076923
+    ],
+    "extracted": [
+        3
+    ],
+    "abstract": [
+        "your apple watch is about to become more useful at the gym ."
+    ],
+    "id": "94530.train",
+    "article": [
+        "anyone who has worn a fitness tracker or smartwatch to the gym has probably noticed that the stats on your wrist rarely match what 's being shown on the treadmill or elliptical . that 's part of what apple is hoping to solve by making it possible for the apple watch to communicate directly with compatible workout equipment through its gymkit program , which is just starting to appear in fitness clubs after it was announced in june . gymkit is a platform that makes it possible to sync your apple watch with certain cardio exercise machines , allowing the watch and the equipment to exchange information so that they can provide more accurate feedback . ",
+        "the program is starting to launch in the united states after first appearing in australia last month and the united kingdom earlier in december . gymkit takes a page from other apple services like apple pay -- just tap your watch against the machine , and your watch should pair it if it 's compatible . for now , gymkit will only work with cardio machines like treadmills , ellipticals , indoor bikes , and stair-steppers from companies like life fitness , technogym , matrix , and star trac among others . machines that support apple 's technology will display a corresponding logo on screen to let you know that you can connect your apple watch . ",
+        "read more : but gymkit availability in the u. s. is limited for now -- it 's now available on cardio machines made by technogym at life time athletic 's fitness facility at sky club in new york city . the chain has plans to support it in 14 new clubs in 2018 as well as its existing 130 locations via a software update . equinox will also be rolling out gymkit next year and plans to include gymkit-enabled cardio machines made by life fitness in all of its new clubs . with gymkit , the apple watch can sync your entire workout to your wrist even if you do n't pair it until the middle or end of your exercise session , as apple showed during a recent demonstration . ",
+        "the bigger benefit , though , is the fact that allowing your apple watch to share data with exercise equipment and vice versa can help both devices provide more precise observations about your workout . the reason your apple watch and the treadmill at the gym do n't always show matching numbers is simply because they 're usually working off of different information . if you 're starting a run by pressing the quick start option on the treadmill , for example , the treadmill likely does n't know personal details like you 're height , gender , or weight as the apple watch does . ",
+        "this can factor into how calorie burn is calculated , which would explain why the statistics shown on your watch are n't always the same as those shown on gym equipment . similarly , the apple watch ca n't tell if you 're running on an incline on the treadmill -- even if you 're using the third-generation apple watch which has a barometric altimeter . apple also is n't the first to create wearable devices that can sync with workout equipment . life fitness machines were already capable of connecting to popular fitness apps and platforms , but could only do so through its lfconnect app . ",
+        "gymkit appears to be a more ambitious approach that seeks to make it simpler to sync your apple watch in real time without having to download individual apps from equipment manufacturers . although it might take some time before gymkit becomes common , apple did say during its worldwide developer conference in june that its equipment partners account for 80 % of the market .   "
+    ]
+}

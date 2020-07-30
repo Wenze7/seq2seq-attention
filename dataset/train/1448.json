@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.5
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "how to improve physical interactions between robots and humans ."
+    ],
+    "id": "358939.train",
+    "article": [
+        "popular entertainment often portrays robots as the perfect best friend , from bender in the cartoon futurama to the mighty transformers . these close friendships do n't exist off-screen yet , but humans and robots are getting to know each other better in real life . dr. ali safavi and prof. mehrdad zadeh at kettering university have proposed a model to improve human-robot interactions using haptic guidance . they have published their results in ieee/caa journal of automatica sinica , a joint publication of the ieee and the chinese association of automation . `` this approach leads to less intervention from the robot where the user is demonstrating a good set of skills , resulting in smoother motion , '' the authors wrote . ",
+        "safavi and zadeh incorporated a model predictive control framework in their approach . by using an adaptable interaction model rather than a general one , they were able to personalize human-robot interactions . personalizing this experience allows the robot to learn from the user and adjust for optimal interference , which results in more precise shared movements , the data suggests . `` we believe that such a personalizing the experience could result in a more intuitive framework where the robot interference in the shared control is completely adaptable to the users ' behavior pattern and performance , '' wrote the authors . ",
+        "to develop a more intuitive framework , safavi and zadeh included learning from demonstration techniques . in this case : a simple surgical related task using the hand . after ever few interactions between robot and user , performance is calculated based on skill and improvement . lower performance of the user , results in higher intervention from the robot . while acceptable performance of the task results in less intervention , as guidance forces are adjusted . `` in other words , '' wrote the authors , `` the user performance is collected and may be updated after every few runs . ",
+        "this allows the system to adjust with the latest performance of the user rather than the initial performance . `` for training in skill-based tasks such as surgical procedures , personalizing the human-robot interaction results in more accurate teaching , it appears . this is noteworthy , as lower costs and recent advances have enabled what the authors call a new era in skill-based training . a better rapport between human and robot also has applications in the field of assistive robots for the elderly and mobility impaired . `` this could be a good step for developing more advanced and intuitive movement control frameworks , '' the authors concluded . "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "score": [
+        0.8461538461538461
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "pet identifies which prostate cancer patients can benefit from salvage radiation treatment ."
+    ],
+    "id": "121957.train",
+    "article": [
+        "for prostate cancer patients who have rising levels of psa even after radical prostatectomy , early treatment makes a difference . in a study featured in the december issue of the journal of nuclear medicine , australian researchers demonstrate that pet scans can identify which of these prostate cancer patients would benefit from salvage radiation treatment . `` the research is novel because it looks at the impact of psma pet/ct on patient responses to treatment , not just on whether the pet scan results in changed management , '' explains louise emmett , md , of the st. vincent 's hospital , sydney , australia . ",
+        "she elaborates , `` in the study , these patients underwent imaging with a psma pet scan and had treatment based on the results of the scan findings . the study then followed how these men were treated , and whether the treatment was effective . `` results of the study , which ultimately included 146 men of whom 99 received srt , show an overall treatment response after srt of 72 percent . among patients with a negative psma , 44 percent underwent srt , while 56 percent did not . the negative psma group that received srt had an 85 percent treatment response , while 65 percent of the negative psma patients not receiving srt experienced increases in prostate-specific antigen . ",
+        "for those with disease confined to the prostate fossa , 83 percent responded to srt . for men with nodal disease , 61 percent had treatment response following srt . the study demonstrates that psma pet can independently predict treatment response to srt . men with negative or fossa-confined psma have the highest treatment response to srt , while men with cancerous nodes or distant disease have a poor response . in particular , a negative psma pet predicts a high response to srt . emmett points out , `` the results of the study show that psma pet is more predictive of a treatment response than psa level , surgical margins or seminal vesical involvement . ",
+        "`` she notes , `` in addition , men with a negative psma pet scan were the most likely to respond to salvage radiotherapy with a significant treatment response . however , men with a negative psma pet were also the least likely to receive radiotherapy treatment . the majority of men with a negative psma pet scan who did not receive treatment had a significant rise in their psa levels , some to levels at which they were no longer curable . while further study of larger patient groups with longer follow-up times is needed for this cohort of prostate cancer patients , this study is pivotal in providing evidence for change in practice . '' "
+    ]
+}

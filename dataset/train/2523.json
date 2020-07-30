@@ -1,0 +1,21 @@
+{
+    "score": [
+        0.7
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "apple sorry for iphone slowdowns , offers battery discounts ."
+    ],
+    "id": "486707.train",
+    "article": [
+        "apple is sorry for slowing down your iphone . on thursday , the company issued a lengthy letter addressing the controversial practice , which is designed to offset errors caused by the aging batteries inside . `` we know that some of you feel apple has let you down . we apologize , '' apple said . the company admitted to the iphone slowdowns last week , setting off a fury of consumer complaints over why apple kept the practice secret . the issue affects older models including the iphone 6 , iphone 6s , iphone se , and iphone 7 . ",
+        "on thursday , apple said it 's been hearing the feedback . `` first and foremost , we have never -- and would never -- do anything to intentionally shorten the life of any apple product , or degrade the user experience to drive customer upgrades , '' it said . `` we 've always wanted our customers to be able to use their iphones as long as possible , '' apple added . to prove its point , the company is slashing the cost of an out-of-warranty iphone battery replacement from $ 79 to $ 29 . by replacing the old battery with a new one , you can restore the device 's original performance . ",
+        "the discount will start rolling out late next month and apply to iphone 6 models or later . apple is also getting more transparent . starting early next year , an update to ios will show you the health of your iphone 's battery , and how its condition is affecting the processor 's performance . the company announced the changes as it 's facing a growing number of lawsuits claiming that the iphone slowdowns misled consumers into buying newer models . in its defense , apple has said the processor-throttling is designed to prevent an iphone from randomly crashing . ",
+        "as the battery inside ages , it can struggle to meet the peak energy demands , triggering the iphone to shut down . to solve the problem , apple decided to crank down the devices ' computing power , but only when needed . the fix was introduced via an ios update , and it 's been designed to calibrate certain system components including the cpu and gpu to prevent quick spikes in the phone 's performance . why apple kept this practice secret is n't clear , but the company may have taken an unconventional approach to solving the battery problem . ",
+        "on thursday , android smartphone vendors htc and motorola both reportedly said they had never employed a similar practice . john poole , a developer behind benchmarking software geekbench , also has n't found vendor-induced slowdown issues in other android phones . `` we have n't done an exhaustive analysis yet , but in our preliminary work we have n't found a similar slowdown with android flagship handsets , '' he said in an email . some experts have also said apple was probably well aware their iphone batteries would give out over time . `` it is true that batteries degrade somewhat and that this can cause limitations in the current that can be drawn . ",
+        "but all of this is predictable , '' said gerbrand ceder , a university of california , berkeley professor in materials science . he explained that batteries are built with a trade-off between high initial performance and longevity , which is well understood by scientists . in designing the iphone 's battery , apple probably focused on performance , by increasing its charge voltage and reducing the thickness of certain components . however , all of this can shorten a battery 's lifespan . `` the damning thing for apple is that this is so well understood , so apple can not claim that this need to slow down the phone is unexpected , '' ceder said . ",
+        "on thursday , apple explained in a support document how the processor-throttling can affect an older iphone . some user might not notice any change , apple claimed . but in more extreme cases , the slowdowns can lead to longer app launch times , lower frame rates while scrolling and decreases in the speaker volume .   "
+    ]
+}

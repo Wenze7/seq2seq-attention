@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.5384615384615384
+    ],
+    "extracted": [
+        1
+    ],
+    "abstract": [
+        "a new mobile learning platform to empower teachers and scale relevant education ."
+    ],
+    "id": "670875.train",
+    "article": [
+        "if 2012 was the mooc revolution , 2017 was the mobile learning revolution . over the last six years , digital education has proven a cheap and easy way to scale and democratize knowledge . with online courses available via desktop and now increasingly via smartphone , hundreds of thousands of people have gained access to knowledge that would have been difficult or impossible to obtain . this is fantastic , but who is teaching these courses ? people with computers . and there are many people , particularly in emerging economies , who have invaluable knowledge but no computer to share it with others . ",
+        "however , an increasing number of people own smartphones , many of whom are leapfrogging computers altogether . in emerging economies , the median percentage of smartphone users rose from 21 % in 2013 to 37 % in 2015 . this continues to climb . at the same time , the number of internet users in emerging economies is increasing exponentially as broadband expands . in africa , the number of internet users increased 8500 % between 2000 and 2017 . as smartphone usage and internet availability increase , a mobile app that allows anyone to both take courses and create courses will be extremely valuable in increasing not just access to education , but access to relevant education . ",
+        "indeed , one of the prominent debates during the mooc revolution was over the fact that course instructors were all from the western world , teaching from their ivory towers . while much of this knowledge is certainly valuable , locally relevant content is also critical . i 'm thrilled to share that i 've been working on such an app for the last several months . the designs are complete and i 'm soon to commence development . throughout the remainder of this article , i 'll showcase some of the key features . app users can both create and take coursesfrom their profile , users can access all courses they 've either created or taken . ",
+        "the app enables flexible course creationcourse creators choose a course title and category , upload an image , write a course description , create lesson titles , and comprise each lesson of four types of content components : text , image , video , and multiple-choice question . they can create as many lessons as they want , add as many components to each lesson as they want , and reorder the components as they wish . learners can access courses offline and easily navigate lessonsafter enrolling in a course , learners can see each lesson title and the number of megabytes . ",
+        "they can decide to download individual lessons to their phone using cellular data or wait until they have wifi . they can manage all synced content in their settings . after entering a lesson , they will be able to view all content components in one long scroll , and tap `` next '' to go to the next lesson . this is just the beginning . over time i plan to build additional functionalities that will allow courses to be more interactive and collaborative . i 'm very excited about the potential of this tool to empower people around the world to share their knowledge and benefit from that of others . ",
+        "as this is a personal passion project that i 've funded completely out-of-pocket to date , i 've started a kickstarter campaign to help finance the development . i would love if you could help me in this venture by : contributing to the kickstarterconnecting me with people who seek a free mobile learning platform to share their knowledge across the globespreading the word ! please post any thoughts on this project below -- i would love to hear from you !   "
+    ]
+}

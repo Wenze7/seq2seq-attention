@@ -1,0 +1,19 @@
+{
+    "score": [
+        0.38461538461538464
+    ],
+    "extracted": [
+        2
+    ],
+    "abstract": [
+        "donald trump 's website quietly removes hypocritical obama insult from the code ."
+    ],
+    "id": "558463.train",
+    "article": [
+        "between 2008 and 2016 , a favourite barb of senior republicans against the sitting president , barack obama , was his love of golf . it 's a quick , easy message to get into voters heads : he 's not working every minute of the day , and thus he must be lazy . so vote him out . they took that message and ran with it . here 's the former white house press secretary sean spicer sticking in the 9 iron : 177 rounds of golf by @barackobama -- obama % u2019s political bogey on the golf course @washingtonpost @milbank -- sean spicer june 25 , 2014while spicer leaves those following his tweets to read between the lines , trump 's former chief of staff reince priebus left no such room for ambiguity : obama 's golf outings are n't just bad optics , they 're foolish . ",
+        "and voters realize that . -- reince priebus august 22 , 2014right wing media outlets also got in on the act , including fox & friends , which posted this back in august 2014 : is this what he meant by ` staying the course ' ? after saying we 'll act against #isis , obama headed to the golf course . pic . twitter . com/xlf2lh6nbc -- fox & friends august 21 , 2014if fox & friends went heavy on it , it 's no surprise that donald trump - then just a harmless billionaire with time on his hands - also got in on the act . ",
+        "can you believe that , with all of the problems and difficulties facing the u. s. , president obama spent the day playing golf . worse than carter -- donald j. trump october 14 , 2014the trouble is that once in government , donald trump spent a lot of time on the golf course . like , significantly more time than obama . donald trump is playing golf almost 3x as much as obama did , at a cost of more than 90 million dollars to taxpayers pic . twitter . com/iubxi16j0n -- g. elliott morris december 16 , 2017it turns out that an easter egg hidden away on both donald trump and the republicans ' websites also highlights the former president 's love of golf . ",
+        "supposedly to be triggered when an internal server error occured , the code would spit out the following message : '' `` oops ! something went wrong . unlike obama , we are working to fix the problem ... and not on the golf course . `` the website of donald trump , who has spent several days in a row at the golf course , is coded to serve up the following message in the event of an internal server error : pic . twitter . com/wiqsqnnzw0 -- christopher ingraham december 28 , 2017once the tweet went viral , it did n't take long for the code to be slyly taken down , so i guess they were working hard on the site as promised . ",
+        "update : the golf error message has been removed from the trump and gop websites . they also fixed the javascript '' = '' vs '' == '' problem . still not clear when these messages would actually display , since the actual 404 page displays a different message pic . twitter . com/z7dmyq5smy -- christopher ingraham december 29 , 2017there 's a lesson here : if you put an easter egg in your code , for goodness ' sake do n't forget it 's there . you never know when your boss ' rampant hypocrisy might come back to haunt you . "
+    ]
+}

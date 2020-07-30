@@ -1,0 +1,16 @@
+{
+    "score": [
+        0.6
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "fujifilm x-pro2 lock up bug will be fixed soon ."
+    ],
+    "id": "458261.train",
+    "article": [
+        "we can imagine how frustrating it must be for photographers to walk around trying to capture photos in the moment , only to have their camera freeze and lock up on them . unfortunately this seems to be an issue with the fujifilm x-pro2 , but the good news is that fujifilm is well aware of this issue and have released a statement promising that a fix will be coming soon . according to fujifilm , `` we have confirmed that x-pro2 with the upgraded firmware released on dec 22 2017 stops working in certain settings . we deeply apologize for your inconvenience this may cause . ",
+        "we are preparing a revised firmware as a solution and plan to release it as soon as possible . '' that being said if you do own the x-pro2 , take note that the lock up only occurs under certain settings . according to fujifilm , this will happen if your camera 's image quality is set to `` fine+raw or normal + raw '' ; under raw recording you have set it to `` lossless compressed '' ; and under drive you have selected any of the advanced filters . fujifilm points out that the lock up only occurs when all three conditions are met and the camera 's firmware has been updated to 4.00 , which means that this is n't something that users will experience out of the box , and that the number of users who are experiencing this issue should be quite small . "
+    ]
+}

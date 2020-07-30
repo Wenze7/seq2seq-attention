@@ -1,0 +1,17 @@
+{
+    "score": [
+        1.0
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "how to sweep bitcoin gold from a paper wallet using ios ."
+    ],
+    "id": "324703.train",
+    "article": [
+        "how to sweep bitcoin gold from a paper wallet using iosafter searching for weeks for a way to retrieve my bitcoin gold from a paper wallet on either windows or ios i finally achieved it . you will need your private keys to achieve this . if you have your btg stored in a wallet or exchange that does not give you the private keys this will not work . -lrb- note : bither was not on the app store when i first looked , but i found a link to download it directly from their site onto my device . ",
+        "if you do n't get it from the app store you have to go into settings > general > device management > beijing dejiacai > trust to allow the app to run . -rrb- . make sure both apps open correctly before continuingopen bitpie and ensure you have an active btg wallet open bither and tap options > advanced options > import private keyenter your full private key here . if successful , it will import your paper wallet into bither . tap options > get btg , then tap on the wallet you just importedit will ask which bitpie btg address to transfer the balance to . ",
+        "copy your deposit address from bitpie into this bither screen , and enter the bither password you created earlier . your btg will then be transferred to your bitpie wallet within a few minutes . once it arrives in bitpie , you can exchange it for another currency within the app or send your balance to an exchange like binance . these instructions were accurate as of 21 dec 2017 , but i can not guarantee the accuracy in future . perform these steps at your own risk .   "
+    ]
+}

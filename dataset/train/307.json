@@ -1,0 +1,20 @@
+{
+    "score": [
+        0.7272727272727273
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "lemur study highlights role of diet in shaping gut microbiome ."
+    ],
+    "id": "24385.train",
+    "article": [
+        "credit : david haring , duke lemur center . a study of the bacteria in the guts of three lemur species offers new insights into the role of diet in shaping these microbial ecosystems - and how these microbes may relate to primate health . `` we wanted to know which microbes were present and what they were doing , '' says erin mckenney , a postdoctoral researcher at north carolina state university and lead author of a paper on the work . `` we found , among other things , some similarities between lemurs and humans - their distant primate cousins - which raise questions about microbes we have associated with health problems in humans . '' ",
+        "the researchers looked at three species of lemur : ruffed lemurs and ringtail lemurs , which eat an identical diet of fruits and vegetables at the duke lemur center ; and sifakas , which eat leaves . the researchers collected data on the nutritional composition of each species ' diet in captivity . they then used genetic sequencing techniques to identify the bacterial makeup of the gut microbiome , based on fecal samples taken from representatives of each species . the researchers also used nuclear magnetic resonance spectroscopy on fecal samples to determine which chemical products were produced in the gut . ",
+        "by analyzing the bacteria present and the chemicals being produced , the researchers could determine how the gut microbes were making use of each lemur 's diet . to put this work in context , it 's important to know that ruffed and ringtail lemurs have very different guts , physically . ruffed lemurs have very simple guts - they 're pretty much a straight line . ringtails have guts that resemble human intestines - lots of twists and turns . but both species have identical diets in captivity . and researchers found that they also had almost identical gut microbiomes . ",
+        "`` we already knew that humans , all of whom have similar gut systems , could have very different gut microbiomes if they ate different diets , '' mckenney says . `` but this study tells us that primates with very different gut systems can have very similar gut microbiomes if they eat identical diets . that highlights the importance of diet in shaping these microbial ecosystems . '' in addition , the researchers found that the ruffed and ringtail lemurs , with their high-sugar diets , also have five enriched metabolic pathways in common with humans who have inflammatory bowel disease . ",
+        "in other words , the lemurs and humans with ibd had abundant suites of microbial machinery that were able to perform five specific functions in common . `` in humans , it 's thought that these metabolic pathways may be contributing to intestinal health problems , '' mckenney says . `` but those same metabolic pathways in lemurs do n't appear to harm the animal 's health . this raises - but does not answer - some interesting questions about the role of those metabolic pathways in humans . for example , are the relevant microbes actually harmful ? or is this a case of there being a correlation with ibd , but no causation . '' ",
+        "the paper , `` feeding strategy shapes gut metagenomic enrichment and functional specialization in captive lemurs , '' is published in the journal gut microbes . the paper was co-authored by thomas o'connell of indiana university ; allen rodrigo of australian national university ; and anne yoder of duke university . the work was done with support from the national science foundation , under grant 1455848 . all of the samples used in the study were retrieved from animals at the duke lemur center .   "
+    ]
+}

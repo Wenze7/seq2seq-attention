@@ -1,0 +1,17 @@
+{
+    "score": [
+        1.0
+    ],
+    "extracted": [
+        0
+    ],
+    "abstract": [
+        "the oneplus 5t is unable to stream netflix , amazon prime video in hd ."
+    ],
+    "id": "56381.train",
+    "article": [
+        "the oneplus 5t is unable to stream content from netflix , amazon prime , google play movies , and other video services in high-definition , despite its hd-capable display and powerful hardware . the deficiency was noted in a thread on the oneplus forums and points to lack of support for widevine level 1 drm , which many services require for hd streaming . the 5t currently supports widevine level 3 , which only covers standard definition streams . the verge has confirmed that both the oneplus 5t and its predecessor , the oneplus 5 , are currently unable to stream netflix or amazon prime video higher than sd resolution . ",
+        "a company spokesperson says that a future update for the 5t will enable widevine level 1 , but did not elaborate on why it was omitted from the start . the spokesperson was unable to provide a time frame for when the update will be made available at this time . the oneplus 5t has a 6-inch , 1080p display and a powerful snapdragon 835 processor paired with at least 6 gb of ram , so it is certainly capable of supporting high-definition video streams . in our tests , netflix and amazon prime video both looked noticeably pixelated on the 5t , even when both apps were set to stream at the highest possible quality and the phone was connected to a fast wi-fi network . ",
+        "lack of support for hd streaming is an odd omission for what is otherwise an impressive device , so hopefully oneplus will be able to address it with the software update sooner rather than later . thanks , alex !   "
+    ]
+}
